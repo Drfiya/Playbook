@@ -179,7 +179,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
                     Your answer: {question.options[quizAnswers[index]]}
                   </p>
                   {quizAnswers[index] !== question.correct && (
-                    <p className="text-sm text-silver-600 mt-1">{question.explanation}</p>
+                    <p className="text-sm text-silver-600 dark:text-gray-400 mt-1">{question.explanation}</p>
                   )}
                 </div>
               ))}
@@ -205,17 +205,17 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
     return (
       <div className="p-8 max-w-4xl mx-auto">
         <div className="card">
-          <h2 className="text-2xl font-bold text-navy-800 mb-6">
+          <h2 className="text-2xl font-bold text-navy-800 dark:text-white mb-6">
             <i className="fas fa-pencil-alt mr-3"></i>
             {selectedExercise.title}
           </h2>
           
           <div className="mb-6">
-            <p className="text-silver-600 mb-4">{selectedExercise.description}</p>
+            <p className="text-silver-600 dark:text-gray-300 mb-4">{selectedExercise.description}</p>
             
-            <div className="bg-silver-50 rounded-lg p-4 mb-4">
-              <p className="text-sm text-silver-600 mb-2">Exercise Type: {selectedExercise.type}</p>
-              <p className="text-sm text-silver-600">Points: {selectedExercise.points}</p>
+            <div className="bg-silver-50 dark:bg-gray-800 rounded-lg p-4 mb-4">
+              <p className="text-sm text-silver-600 dark:text-gray-400 mb-2">Exercise Type: {selectedExercise.type}</p>
+              <p className="text-sm text-silver-600 dark:text-gray-400">Points: {selectedExercise.points}</p>
             </div>
 
             {selectedExercise.type === 'writing' && (
@@ -286,7 +286,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
         {/* Key Takeaways */}
         <div className="card mb-8">
-          <h3 className="text-xl font-bold text-navy-800 mb-4">
+          <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-4">
             <i className="fas fa-key mr-2"></i>
             Key Takeaways
           </h3>
@@ -294,7 +294,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
             {chapter.keyTakeaways.map((takeaway, index) => (
               <li key={index} className="flex items-start">
                 <i className="fas fa-check-circle text-green-500 mt-1 mr-3"></i>
-                <span>{takeaway}</span>
+                <span className="text-silver-700 dark:text-gray-300">{takeaway}</span>
               </li>
             ))}
           </ul>
@@ -302,14 +302,14 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
         {/* Overview */}
         <div className="card mb-8">
-          <h3 className="text-xl font-bold text-navy-800 mb-4">Overview</h3>
-          <p className="text-silver-700 leading-relaxed">{chapter.overview}</p>
+          <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-4">Overview</h3>
+          <p className="text-silver-700 dark:text-gray-300 leading-relaxed">{chapter.overview}</p>
         </div>
 
         {/* Chapter Video */}
         {chapter.videoUrl && (
           <div className="card mb-8">
-            <h3 className="text-xl font-bold text-navy-800 mb-6">
+            <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-6">
               <i className="fas fa-video mr-2"></i>
               Chapter Walkthrough
             </h3>
@@ -330,7 +330,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
         {/* Sections */}
         <div className="card mb-8">
-          <h3 className="text-xl font-bold text-navy-800 mb-6">Chapter Content</h3>
+          <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-6">Chapter Content</h3>
           
           {/* Section Navigation */}
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 mb-6">
@@ -343,10 +343,10 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
                 }}
                 className={`px-3 py-4 rounded-lg text-left transition-colors min-h-[80px] flex flex-col justify-center relative ${
                   currentSection === index
-                    ? 'bg-navy-700 text-white'
+                    ? 'bg-navy-700 dark:bg-gray-600 text-white'
                     : progress.sectionsRead.includes(section.title)
-                    ? 'bg-green-100 text-green-700'
-                    : 'bg-silver-100 text-silver-700 hover:bg-silver-200'
+                    ? 'bg-green-100 dark:bg-green-800 text-green-700 dark:text-green-200'
+                    : 'bg-silver-100 dark:bg-gray-700 text-silver-700 dark:text-gray-300 hover:bg-silver-200 dark:hover:bg-gray-600'
                 }`}
               >
                 <div className="text-sm font-semibold leading-tight">
@@ -360,20 +360,20 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
           </div>
 
           {/* Current Section Content */}
-          <div className="bg-white rounded-lg p-8 border border-silver-200">
+          <div className="bg-white dark:bg-gray-800 rounded-lg p-8 border border-silver-200 dark:border-gray-700">
             {fullChapterContent[chapter.id] && fullChapterContent[chapter.id].sections[currentSection] ? (
               <>
-                <h4 className="text-2xl font-bold text-navy-800 mb-6 pb-4 border-b-2 border-navy-200">
+                <h4 className="text-2xl font-bold text-navy-800 dark:text-white mb-6 pb-4 border-b-2 border-navy-200 dark:border-gray-600">
                   {fullChapterContent[chapter.id].sections[currentSection].title}
                 </h4>
                 <ChapterContent content={fullChapterContent[chapter.id].sections[currentSection].content} />
               </>
             ) : (
               <>
-                <h4 className="text-lg font-bold text-navy-800 mb-3">
+                <h4 className="text-lg font-bold text-navy-800 dark:text-white mb-3">
                   {chapter.sections[currentSection].title}
                 </h4>
-                <p className="text-silver-700 leading-relaxed">
+                <p className="text-silver-700 dark:text-gray-300 leading-relaxed">
                   {chapter.sections[currentSection].content}
                 </p>
               </>
@@ -415,7 +415,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
         {/* Exercises */}
         {chapter.exercises && chapter.exercises.length > 0 && (
           <div className="card mb-8">
-            <h3 className="text-xl font-bold text-navy-800 mb-6">
+            <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-6">
               <i className="fas fa-tasks mr-2"></i>
               Exercises
             </h3>
@@ -456,7 +456,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
         {/* Notes Section */}
         <div className="card mb-8">
-          <h3 className="text-xl font-bold text-navy-800 mb-4">
+          <h3 className="text-xl font-bold text-navy-800 dark:text-white mb-4">
             <i className="fas fa-sticky-note mr-2"></i>
             Your Notes
           </h3>
@@ -464,7 +464,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
             value={notes}
             onChange={(e) => setNotes(e.target.value)}
             onBlur={saveNotes}
-            className="w-full h-32 p-4 border border-silver-300 rounded-lg"
+            className="w-full h-32 p-4 border border-silver-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400"
             placeholder="Take notes here..."
           ></textarea>
         </div>
@@ -481,8 +481,8 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
         )}
 
         {/* Completion Progress */}
-        <div className="card mb-8 bg-gradient-to-r from-blue-50 to-indigo-50 border-blue-200">
-          <h3 className="text-xl font-bold text-blue-800 mb-4">
+        <div className="card mb-8 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-gray-700 dark:to-gray-600 border-blue-200 dark:border-gray-600">
+          <h3 className="text-xl font-bold text-blue-800 dark:text-white mb-4">
             <i className="fas fa-tasks mr-2"></i>
             Chapter Progress
           </h3>
@@ -490,12 +490,12 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
           <div className="space-y-3">
             {/* Video Progress */}
             {chapter.videoUrl && (
-              <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+              <div className="flex items-center justify-between p-3 bg-white dark:bg-gray-800 rounded-lg">
                 <div className="flex items-center">
                   <i className={`fas fa-video mr-3 ${
-                    progress.videoWatched ? 'text-green-500' : 'text-silver-400'
+                    progress.videoWatched ? 'text-green-500' : 'text-silver-400 dark:text-gray-500'
                   }`}></i>
-                  <span className="font-medium">Watch Chapter Video</span>
+                  <span className="font-medium text-gray-900 dark:text-gray-200">Watch Chapter Video</span>
                 </div>
                 <div className="flex items-center">
                   {progress.videoWatched ? (
@@ -508,15 +508,15 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
             )}
 
             {/* Sections Progress */}
-            <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+            <div className="flex items-center justify-between p-3 bg-white dark:bg-gray-800 rounded-lg">
               <div className="flex items-center">
                 <i className={`fas fa-book-open mr-3 ${
-                  progress.sectionsRead.length === (fullChapterContent[chapter.id]?.sections || chapter.sections).length ? 'text-green-500' : 'text-silver-400'
+                  progress.sectionsRead.length === (fullChapterContent[chapter.id]?.sections || chapter.sections).length ? 'text-green-500' : 'text-silver-400 dark:text-gray-500'
                 }`}></i>
-                <span className="font-medium">Read All Sections</span>
+                <span className="font-medium text-gray-900 dark:text-gray-200">Read All Sections</span>
               </div>
               <div className="flex items-center">
-                <span className="text-sm text-silver-600 mr-3">
+                <span className="text-sm text-silver-600 dark:text-gray-400 mr-3">
                   {progress.sectionsRead.length}/{(fullChapterContent[chapter.id]?.sections || chapter.sections).length}
                 </span>
                 {progress.sectionsRead.length === (fullChapterContent[chapter.id]?.sections || chapter.sections).length ? (
@@ -529,15 +529,15 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
             {/* Exercises Progress */}
             {chapter.exercises && chapter.exercises.length > 0 && (
-              <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+              <div className="flex items-center justify-between p-3 bg-white dark:bg-gray-800 rounded-lg">
                 <div className="flex items-center">
                   <i className={`fas fa-pencil-alt mr-3 ${
-                    (progress.exercisesCompleted?.length || 0) >= 1 ? 'text-green-500' : 'text-silver-400'
+                    (progress.exercisesCompleted?.length || 0) >= 1 ? 'text-green-500' : 'text-silver-400 dark:text-gray-500'
                   }`}></i>
-                  <span className="font-medium">Complete Exercises</span>
+                  <span className="font-medium text-gray-900 dark:text-gray-200">Complete Exercises</span>
                 </div>
                 <div className="flex items-center">
-                  <span className="text-sm text-silver-600 mr-3">
+                  <span className="text-sm text-silver-600 dark:text-gray-400 mr-3">
                     {progress.exercisesCompleted?.length || 0}/{chapter.exercises.length}
                   </span>
                   {(progress.exercisesCompleted?.length || 0) >= 1 ? (
@@ -551,15 +551,15 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
 
             {/* Quiz Progress */}
             {chapter.quiz && (
-              <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+              <div className="flex items-center justify-between p-3 bg-white dark:bg-gray-800 rounded-lg">
                 <div className="flex items-center">
                   <i className={`fas fa-brain mr-3 ${
-                    progress.quizScore >= 80 ? 'text-green-500' : 'text-silver-400'
+                    progress.quizScore >= 80 ? 'text-green-500' : 'text-silver-400 dark:text-gray-500'
                   }`}></i>
-                  <span className="font-medium">Pass Quiz (80% or higher)</span>
+                  <span className="font-medium text-gray-900 dark:text-gray-200">Pass Quiz (80% or higher)</span>
                 </div>
                 <div className="flex items-center">
-                  <span className="text-sm text-silver-600 mr-3">
+                  <span className="text-sm text-silver-600 dark:text-gray-400 mr-3">
                     {progress.quizScore > 0 ? `${progress.quizScore}%` : 'Not taken'}
                   </span>
                   {progress.quizScore >= 80 ? (

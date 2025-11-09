@@ -11,7 +11,7 @@ const ChapterContent = ({ content }) => {
       if (para.startsWith('###')) {
         const headerText = para.replace(/^###\s*/, '').trim();
         return (
-          <h3 key={index} className="text-xl font-bold text-navy-800 mt-8 mb-4">
+          <h3 key={index} className="text-xl font-bold text-navy-800 dark:text-white mt-8 mb-4">
             {headerText}
           </h3>
         );
@@ -20,7 +20,7 @@ const ChapterContent = ({ content }) => {
       if (para.startsWith('##')) {
         const headerText = para.replace(/^##\s*/, '').trim();
         return (
-          <h2 key={index} className="text-2xl font-bold text-navy-800 mt-10 mb-5">
+          <h2 key={index} className="text-2xl font-bold text-navy-800 dark:text-white mt-10 mb-5">
             {headerText}
           </h2>
         );
@@ -28,14 +28,14 @@ const ChapterContent = ({ content }) => {
       
       // Handle horizontal rules
       if (para.trim() === '---') {
-        return <hr key={index} className="my-8 border-silver-300" />;
+        return <hr key={index} className="my-8 border-silver-300 dark:border-gray-600" />;
       }
       
       // Handle blockquotes/callouts (lines starting with *")
       if (para.startsWith('*"') || para.trim().startsWith('**')) {
         return (
-          <div key={index} className="my-6 p-6 bg-gradient-to-r from-purple-50 to-indigo-50 border-l-4 border-purple-500 rounded-r-lg">
-            <p className="text-purple-900 italic font-medium leading-relaxed">
+          <div key={index} className="my-6 p-6 bg-gradient-to-r from-purple-50 to-indigo-50 dark:from-purple-900/30 dark:to-indigo-900/30 border-l-4 border-purple-500 rounded-r-lg">
+            <p className="text-purple-900 dark:text-purple-200 italic font-medium leading-relaxed">
               {renderInlineFormatting(para.replace(/^\*+"|"$/g, ''))}
             </p>
           </div>
@@ -49,8 +49,8 @@ const ChapterContent = ({ content }) => {
           <ul key={index} className="my-4 space-y-2 ml-6">
             {items.map((item, i) => (
               <li key={i} className="flex items-start">
-                <span className="text-navy-600 mr-3">•</span>
-                <span className="text-silver-800 leading-relaxed">{renderInlineFormatting(item.replace(/^[-*]\s*/, ''))}</span>
+                <span className="text-navy-600 dark:text-gray-300 mr-3">•</span>
+                <span className="text-silver-800 dark:text-gray-100 leading-relaxed">{renderInlineFormatting(item.replace(/^[-*]\s*/, ''))}</span>
               </li>
             ))}
           </ul>
@@ -89,11 +89,11 @@ const ChapterContent = ({ content }) => {
           
           return (
             <div key={index} className="my-8 overflow-x-auto">
-              <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
+              <table className="w-full border-collapse bg-white dark:bg-gray-900 shadow-lg rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-navy-700 text-white">
+                  <tr className="bg-navy-700 dark:bg-gray-700 text-white">
                     {headers.map((header, i) => (
-                      <th key={i} className="px-6 py-4 text-left font-bold text-sm uppercase tracking-wider border-r border-navy-600 last:border-r-0">
+                      <th key={i} className="px-6 py-4 text-left font-bold text-sm uppercase tracking-wider border-r border-navy-600 dark:border-gray-600 last:border-r-0">
                         {renderInlineFormatting(header)}
                       </th>
                     ))}
@@ -106,9 +106,9 @@ const ChapterContent = ({ content }) => {
                       .filter(cell => cell);
                     
                     return (
-                      <tr key={rowIndex} className={`${rowIndex % 2 === 0 ? 'bg-silver-50' : 'bg-white'} hover:bg-navy-50 transition-colors`}>
+                      <tr key={rowIndex} className={`${rowIndex % 2 === 0 ? 'bg-silver-50 dark:bg-gray-800' : 'bg-white dark:bg-gray-900'} hover:bg-navy-50 dark:hover:bg-gray-700 transition-colors`}>
                         {cells.map((cell, cellIndex) => (
-                          <td key={cellIndex} className="px-6 py-4 text-sm text-silver-800 border-r border-silver-200 last:border-r-0 leading-relaxed">
+                          <td key={cellIndex} className="px-6 py-4 text-sm text-silver-800 dark:text-gray-100 border-r border-silver-200 dark:border-gray-600 last:border-r-0 leading-relaxed">
                             {renderInlineFormatting(cell)}
                           </td>
                         ))}
@@ -125,8 +125,8 @@ const ChapterContent = ({ content }) => {
       // Handle special callout boxes (lines with emoji at start)
       if (/^[🎓🔧🚀⚠️💎📋✅]/.test(para)) {
         return (
-          <div key={index} className="my-6 p-5 bg-silver-50 border-2 border-silver-300 rounded-xl">
-            <p className="text-silver-900 font-medium leading-relaxed">
+          <div key={index} className="my-6 p-5 bg-silver-50 dark:bg-gray-800 border-2 border-silver-300 dark:border-gray-600 rounded-xl">
+            <p className="text-silver-900 dark:text-gray-100 font-medium leading-relaxed">
               {renderInlineFormatting(para)}
             </p>
           </div>
@@ -136,7 +136,7 @@ const ChapterContent = ({ content }) => {
       // Regular paragraphs
       if (para.trim()) {
         return (
-          <p key={index} className="mb-4 text-silver-800 leading-relaxed text-lg">
+          <p key={index} className="mb-4 text-silver-800 dark:text-gray-100 leading-relaxed text-lg">
             {renderInlineFormatting(para)}
           </p>
         );
@@ -171,7 +171,7 @@ const ChapterContent = ({ content }) => {
       // Handle bold
       if (matched.startsWith('**') && matched.endsWith('**')) {
         parts.push(
-          <strong key={`bold-${key++}`} className="font-bold text-navy-900">
+          <strong key={`bold-${key++}`} className="font-bold text-navy-900 dark:text-white">
             {matched.slice(2, -2)}
           </strong>
         );
@@ -179,7 +179,7 @@ const ChapterContent = ({ content }) => {
       // Handle italic
       else if (matched.startsWith('*') && matched.endsWith('*') && !matched.startsWith('**')) {
         parts.push(
-          <em key={`italic-${key++}`} className="italic text-silver-700">
+          <em key={`italic-${key++}`} className="italic text-silver-700 dark:text-gray-200">
             {matched.slice(1, -1)}
           </em>
         );
@@ -187,7 +187,7 @@ const ChapterContent = ({ content }) => {
       // Handle code
       else if (matched.startsWith('`') && matched.endsWith('`')) {
         parts.push(
-          <code key={`code-${key++}`} className="px-2 py-1 bg-silver-200 rounded text-sm font-mono text-navy-800">
+          <code key={`code-${key++}`} className="px-2 py-1 bg-silver-200 dark:bg-gray-700 rounded text-sm font-mono text-navy-800 dark:text-gray-200">
             {matched.slice(1, -1)}
           </code>
         );
@@ -195,7 +195,7 @@ const ChapterContent = ({ content }) => {
       // Handle quotes
       else if (matched.startsWith('"') && matched.endsWith('"')) {
         parts.push(
-          <span key={`quote-${key++}`} className="text-navy-700 font-medium">
+          <span key={`quote-${key++}`} className="text-navy-700 dark:text-blue-300 font-medium">
             {matched}
           </span>
         );
