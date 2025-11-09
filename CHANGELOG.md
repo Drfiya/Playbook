@@ -19,7 +19,9 @@ This changelog documents all development changes made to the AI Consulting Playb
 ### 📊 Current Chapter Status:
 - **Chapter 1**: Full content (7 sections) + video + quiz ✅
 - **Chapter 2**: Full content (4 sections) + video + quiz ✅
-- **Chapters 3-14**: Metadata only (need content + video integration)
+- **Chapter 3**: Full content (6 sections) + video ✅
+- **Chapter 4**: Full content (6 sections) + video ✅
+- **Chapters 5-14**: Metadata only (need content + video integration)
 
 ---
 
@@ -122,6 +124,66 @@ This changelog documents all development changes made to the AI Consulting Playb
 
 ---
 
+## 🆕 November 9, 2025 - Chapter 3 & 4 Integration
+
+### **5. Chapter 3: "Reading the Room & Red Flags" Integration** (Commits: 352e125, 65f05d0)
+**What:** Complete content extraction and integration with Loom video
+**Files Changed:**
+- `src/data/chapters.js` (added video URL, updated sections metadata)
+- `src/data/fullChapters.js` (added full 6-section content)
+- `CLAUDE.md` (minor documentation improvements)
+
+**Content Features:**
+- **6 Comprehensive Sections:** Morning after call, client triage patterns, overwhelmed director strategy, enterprise labyrinth, prescription framework, red flags identification
+- **Client Archetypes:** Bootstrapper (5-20 people), Overwhelmed Director (21-100 people), Enterprise (100+ people)  
+- **RICE Framework:** Systematic prioritization using (Reach × Impact × Confidence) / Effort formula
+- **Blue Sky Session Methodology:** Structured approach to gathering client dreams and converting to actionable roadmap
+- **Red Flag System:** 4 major warning signs with diagnostic responses
+- **Professional Formatting:** Consistent markdown styling, proper callouts, structured tables
+
+**Technical Implementation:**
+- Fixed progress tracking mismatch (metadata showed 3 sections, content had 6)
+- Added video URL: `https://www.loom.com/share/4f7231640af94846aff7fa2aecb59eea`
+- Corrected red flag formatting for visual consistency
+- Updated chapter metadata to accurately reflect actual content structure
+
+### **6. Chapter 4: "Solution Design & Pricing That Scales" Integration** (Commits: 1e23729, fb19a1a, 9dd5e20)
+**What:** Complete systematic framework extraction with comprehensive pricing strategy
+**Files Changed:**
+- `src/data/chapters.js` (added video URL, updated 6 sections metadata)
+- `src/data/fullChapters.js` (added full content with frameworks)
+
+**Content Features:**
+- **6 Systematic Sections:** Confidence principle, murder mystery framework, baseline assessment, 3-act rollout, centralized strategy, pricing ecosystem
+- **Murder Mystery Framework:** 4 forensic worksheets for complete client diagnosis (Tools, Knowledge Sources, Processes, Stakeholders)
+- **KPI Framework Structure:** Professional metrics table for before/after value demonstration  
+- **3-Act Rollout Process:** Pilot (30-60 days) → Scale → Optimize (3-6-12 months)
+- **Pricing Ecosystem:** Complete tier ladder from $10/month community to $15K+ enterprise projects
+- **Revenue Priority Framework:** Focus on sales, support, marketing, and operations use cases
+- **60-Minute Call Structure:** Systematic approach to diagnosis and closing
+
+**Technical Implementation:**
+- Added video URL: `https://www.loom.com/share/663789411f214ff685fb51a0c3a17e03`  
+- Updated chapter metadata to match 6 sections in fullChapters.js
+- Fixed formatting inconsistencies in "Centralized Strategy" section
+- Corrected numbered list formatting to use bold headers instead of markdown headers
+- Ensured visual consistency throughout all sections
+
+**Key Frameworks Added:**
+- **The Confidence Principle:** "The more systematic you are, the more they derive confidence from YOUR confidence"
+- **RAG-Decision Questions:** Technical scoping for knowledge source assessment  
+- **Golden Rule of Integration:** "Be a partner, not a purist"
+- **Community Downsell Hack:** $10-20/month strategy for keeping foot in the door
+- **Future Reality Principle:** "In 12-18 months, all knowledge for knowledge's sake will be worthless. Relationships will be paramount."
+
+### **Bug Fixes & Formatting Improvements:**
+- **Progress Tracking:** Fixed "10/6" display issue by aligning metadata sections with actual content
+- **Red Flag Formatting:** Improved visual consistency with emoji bullets and italic diagnosis text
+- **Use Case Formatting:** Changed numbered headers to bold formatting for better visual hierarchy
+- **Quote Formatting:** Standardized italic formatting for client examples and testimonials
+
+---
+
 ## 🗂️ File Structure & Architecture
 
 ### **Core Data Files:**
@@ -157,7 +219,9 @@ src/components/
 ### **Chapter Video URLs Added:**
 - **Chapter 1:** `https://www.loom.com/share/b44905d90bee4eea9194a5da81e38a11`
 - **Chapter 2:** `https://www.loom.com/share/cafb8f16cd2540efbf0fd5767a3aefb1`
-- **Chapters 3-14:** Need video URLs added
+- **Chapter 3:** `https://www.loom.com/share/4f7231640af94846aff7fa2aecb59eea`
+- **Chapter 4:** `https://www.loom.com/share/663789411f214ff685fb51a0c3a17e03`
+- **Chapters 5-14:** Need video URLs added
 
 ### **Video Player Features:**
 ```javascript
@@ -194,7 +258,23 @@ src/components/
 - **Content:** Discovery scripts, diagnostic frameworks
 - **Progress:** All tracking systems working
 
-### **Chapters 3-14:**
+### **Chapter 3: "Reading the Room & Red Flags"** ✅ NEW
+✅ **Status:** Complete (Added November 9, 2025)
+- **6 Sections:** Full content with client triage patterns
+- **Video:** Integrated (`https://www.loom.com/share/4f7231640af94846aff7fa2aecb59eea`)
+- **Content:** Client archetypes (Bootstrapper, Overwhelmed Director, Enterprise), RICE framework, red flags
+- **Features:** Revenue prioritization strategies, Blue Sky session methodology
+- **Progress:** All tracking systems working
+
+### **Chapter 4: "Solution Design & Pricing That Scales"** ✅ NEW  
+✅ **Status:** Complete (Added November 9, 2025)
+- **6 Sections:** Full content with systematic frameworks
+- **Video:** Integrated (`https://www.loom.com/share/663789411f214ff685fb51a0c3a17e03`)
+- **Content:** Murder Mystery Framework, baseline assessment, 3-act rollout, pricing ecosystem
+- **Features:** KPI framework structure, forensic worksheets, tiered engagement ladder
+- **Progress:** All tracking systems working
+
+### **Chapters 5-14:**
 ⏳ **Status:** Metadata Only
 - Chapter structure and metadata defined
 - Need PDF content extraction and formatting
@@ -234,10 +314,11 @@ Desktop: 1024px+ (lg)
 ## 🚀 Next Development Steps
 
 ### **Phase 1: Content Completion (Immediate)**
-1. **Extract content from remaining PDF files** in `/content/` folder
-2. **Add to `src/data/fullChapters.js`** following established format
-3. **Add video URLs** to `src/data/chapters.js` for chapters 3-14
-4. **Test each chapter** for content rendering and progress tracking
+1. **✅ Chapters 1-4 Complete:** Full content + video integration  
+2. **Extract content from remaining PDF files** in `/content/` folder (Chapters 5-14)
+3. **Add to `src/data/fullChapters.js`** following established format used in Chapters 3-4
+4. **Add video URLs** to `src/data/chapters.js` for chapters 5-14
+5. **Test each chapter** for content rendering and progress tracking
 
 ### **Phase 2: Feature Enhancements (Next Sprint)**
 1. **Search functionality** across all chapters
