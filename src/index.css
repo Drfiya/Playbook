@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-navy-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-navy-800 transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-silver-200 text-navy-800 px-6 py-3 rounded-lg font-semibold hover:bg-silver-300 transition-colors duration-200;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-silver-200 p-6 hover:shadow-md transition-shadow duration-200;
+  }
+  
+  .progress-bar {
+    @apply h-2 bg-silver-200 rounded-full overflow-hidden;
+  }
+  
+  .progress-fill {
+    @apply h-full bg-gradient-to-r from-navy-600 to-navy-400 transition-all duration-500 ease-out;
+  }
+}
