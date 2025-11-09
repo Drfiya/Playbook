@@ -26,29 +26,69 @@ const LoomVideoPlayer = ({ videoUrl, title = "Chapter Video", onVideoWatched = n
     setIsLoaded(true);
   };
 
+  // Handle manual video completion marking
+  const handleMarkAsWatched = () => {
+    setHasWatched(true);
+    if (onVideoWatched) {
+      onVideoWatched();
+    }
+  };
+
   // Listen for messages from the Loom iframe to track video events
   useEffect(() => {
     const handleMessage = (event) => {
       if (event.origin !== 'https://www.loom.com') return;
       
       try {
-        const data = JSON.parse(event.data);
-        if (data.method === 'video_ended' || data.method === 'video_progress') {
-          if (data.method === 'video_ended' || (data.method === 'video_progress' && data.progress > 0.8)) {
+        const data = event.data;
+        
+        // Handle player.js events from Loom
+        if (data && data.context === 'player.js') {
+          // When iframe is ready, add event listeners
+          if (data.event === 'ready') {
+            console.log('Loom video ready, adding event listeners');
+            const iframe = iframeRef.current;
+            if (iframe) {
+              // Add ended event listener
+              iframe.contentWindow.postMessage({
+                method: 'addEventListener',
+                value: 'ended',
+                context: 'player.js'
+              }, '*');
+              
+              // Add timeupdate event listener for progress tracking
+              iframe.contentWindow.postMessage({
+                method: 'addEventListener',
+                value: 'timeupdate',
+                context: 'player.js'
+              }, '*');
+            }
+          }
+          
+          // Handle video ended
+          if (data.event === 'ended') {
+            console.log('Video ended - marking as watched');
             setHasWatched(true);
             if (onVideoWatched) {
               onVideoWatched();
             }
           }
+          
+          // Handle time updates for progress tracking (simplified)
+          if (data.event === 'timeupdate') {
+            // For now, we'll rely primarily on the 'ended' event
+            // and provide a manual button for users to mark completion
+          }
         }
       } catch (e) {
-        // Ignore non-JSON messages
+        // Ignore non-JSON messages or parsing errors
+        console.log('Non-JSON message received:', event.data);
       }
     };
 
     window.addEventListener('message', handleMessage);
     return () => window.removeEventListener('message', handleMessage);
-  }, [onVideoWatched]);
+  }, [onVideoWatched, hasWatched]);
 
   if (!embedUrl) {
     return (
@@ -125,12 +165,23 @@ const LoomVideoPlayer = ({ videoUrl, title = "Chapter Video", onVideoWatched = n
         <div className="flex items-center justify-between text-sm">
           <div className="flex items-center text-silver-600">
             <i className="fas fa-info-circle mr-2"></i>
-            <span>Click to play the chapter walkthrough</span>
+            <span>{showPlayer ? "Use fullscreen for best experience" : "Click to play the chapter walkthrough"}</span>
           </div>
-          {showPlayer && (
-            <div className="flex items-center text-silver-600">
-              <i className="fas fa-expand mr-2"></i>
-              <span>Use fullscreen for best experience</span>
+          
+          {showPlayer && !hasWatched && (
+            <button
+              onClick={handleMarkAsWatched}
+              className="px-3 py-1 bg-navy-600 text-white rounded-md hover:bg-navy-700 transition-colors text-xs font-medium"
+            >
+              <i className="fas fa-check mr-1"></i>
+              Mark as Watched
+            </button>
+          )}
+          
+          {hasWatched && (
+            <div className="flex items-center text-green-600 font-medium">
+              <i className="fas fa-check-circle mr-1"></i>
+              Completed
             </div>
           )}
         </div>
