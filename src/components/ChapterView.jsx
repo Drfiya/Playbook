@@ -5,7 +5,33 @@ import ChapterContent from './ChapterContent';
 import LoomVideoPlayer from './LoomVideoPlayer';
 
 const ChapterView = ({ chapter, onComplete, onBack }) => {
-  const [progress, setProgress] = useState(getChapterProgress(chapter.id));
+  // Get initial progress and clean up any inconsistent data
+  const getCleanProgress = () => {
+    const storedProgress = getChapterProgress(chapter.id);
+    const actualSections = fullChapterContent[chapter.id]?.sections || chapter.sections;
+    
+    // If we have fullChapterContent sections, filter out any invalid section titles from progress
+    if (fullChapterContent[chapter.id]?.sections && storedProgress.sectionsRead?.length > 0) {
+      const validSectionTitles = actualSections.map(section => section.title);
+      const filteredSectionsRead = storedProgress.sectionsRead.filter(title => 
+        validSectionTitles.includes(title)
+      );
+      
+      // If the filtered list is different, update the stored progress
+      if (filteredSectionsRead.length !== storedProgress.sectionsRead.length) {
+        const cleanedProgress = {
+          ...storedProgress,
+          sectionsRead: filteredSectionsRead
+        };
+        updateChapterProgress(chapter.id, cleanedProgress);
+        return cleanedProgress;
+      }
+    }
+    
+    return storedProgress;
+  };
+
+  const [progress, setProgress] = useState(getCleanProgress());
   const [currentSection, setCurrentSection] = useState(0);
   const [showQuiz, setShowQuiz] = useState(false);
   const [quizAnswers, setQuizAnswers] = useState({});
@@ -21,8 +47,11 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
   }, [chapter.id]);
 
   const markSectionRead = (sectionIndex) => {
-    const sectionTitle = chapter.sections[sectionIndex].title;
-    if (!progress.sectionsRead.includes(sectionTitle)) {
+    // Use the actual sections being displayed (from fullChapterContent if available, otherwise fallback to chapter.sections)
+    const actualSections = fullChapterContent[chapter.id]?.sections || chapter.sections;
+    const sectionTitle = actualSections[sectionIndex]?.title;
+    
+    if (sectionTitle && !progress.sectionsRead.includes(sectionTitle)) {
       const newProgress = {
         ...progress,
         sectionsRead: [...progress.sectionsRead, sectionTitle]
@@ -30,8 +59,8 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
       setProgress(newProgress);
       updateChapterProgress(chapter.id, newProgress);
 
-      // Check if all sections are read
-      if (newProgress.sectionsRead.length === chapter.sections.length) {
+      // Check if all sections are read (use actual sections count)
+      if (newProgress.sectionsRead.length === actualSections.length) {
         if (!showQuiz && chapter.quiz) {
           setShowQuiz(true);
         }
@@ -291,7 +320,7 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
           
           {/* Section Navigation */}
           <div className="flex space-x-2 mb-6 overflow-x-auto pb-2">
-            {chapter.sections.map((section, index) => (
+            {(fullChapterContent[chapter.id]?.sections || chapter.sections).map((section, index) => (
               <button
                 key={index}
                 onClick={() => {
@@ -352,12 +381,13 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
             </button>
             <button
               onClick={() => {
-                if (currentSection < chapter.sections.length - 1) {
+                const actualSections = fullChapterContent[chapter.id]?.sections || chapter.sections;
+                if (currentSection < actualSections.length - 1) {
                   setCurrentSection(currentSection + 1);
                   markSectionRead(currentSection + 1);
                 }
               }}
-              disabled={currentSection === chapter.sections.length - 1}
+              disabled={currentSection === (fullChapterContent[chapter.id]?.sections || chapter.sections).length - 1}
               className="btn-primary disabled:opacity-50"
             >
               Next
@@ -465,15 +495,15 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
             <div className="flex items-center justify-between p-3 bg-white rounded-lg">
               <div className="flex items-center">
                 <i className={`fas fa-book-open mr-3 ${
-                  progress.sectionsRead.length === chapter.sections.length ? 'text-green-500' : 'text-silver-400'
+                  progress.sectionsRead.length === (fullChapterContent[chapter.id]?.sections || chapter.sections).length ? 'text-green-500' : 'text-silver-400'
                 }`}></i>
                 <span className="font-medium">Read All Sections</span>
               </div>
               <div className="flex items-center">
                 <span className="text-sm text-silver-600 mr-3">
-                  {progress.sectionsRead.length}/{chapter.sections.length}
+                  {progress.sectionsRead.length}/{(fullChapterContent[chapter.id]?.sections || chapter.sections).length}
                 </span>
-                {progress.sectionsRead.length === chapter.sections.length ? (
+                {progress.sectionsRead.length === (fullChapterContent[chapter.id]?.sections || chapter.sections).length ? (
                   <i className="fas fa-check-circle text-green-500"></i>
                 ) : (
                   <i className="fas fa-circle text-silver-300"></i>
