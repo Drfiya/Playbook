@@ -72,6 +72,56 @@ const ChapterContent = ({ content }) => {
         );
       }
       
+      // Handle tables (lines starting with |)
+      if (para.includes('|') && para.split('\n').some(line => line.trim().startsWith('|'))) {
+        const lines = para.split('\n').filter(line => line.trim());
+        const tableRows = lines.filter(line => line.trim().startsWith('|') && !line.includes('---'));
+        
+        if (tableRows.length > 0) {
+          const headerRow = tableRows[0];
+          const dataRows = tableRows.slice(1);
+          
+          // Parse header
+          const headers = headerRow.split('|')
+            .map(cell => cell.trim())
+            .filter(cell => cell)
+            .map(cell => cell.replace(/^\*\*|\*\*$/g, ''));
+          
+          return (
+            <div key={index} className="my-8 overflow-x-auto">
+              <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
+                <thead>
+                  <tr className="bg-navy-700 text-white">
+                    {headers.map((header, i) => (
+                      <th key={i} className="px-6 py-4 text-left font-bold text-sm uppercase tracking-wider border-r border-navy-600 last:border-r-0">
+                        {renderInlineFormatting(header)}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {dataRows.map((row, rowIndex) => {
+                    const cells = row.split('|')
+                      .map(cell => cell.trim())
+                      .filter(cell => cell);
+                    
+                    return (
+                      <tr key={rowIndex} className={`${rowIndex % 2 === 0 ? 'bg-silver-50' : 'bg-white'} hover:bg-navy-50 transition-colors`}>
+                        {cells.map((cell, cellIndex) => (
+                          <td key={cellIndex} className="px-6 py-4 text-sm text-silver-800 border-r border-silver-200 last:border-r-0 leading-relaxed">
+                            {renderInlineFormatting(cell)}
+                          </td>
+                        ))}
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          );
+        }
+      }
+
       // Handle special callout boxes (lines with emoji at start)
       if (/^[🎓🔧🚀⚠️💎📋✅]/.test(para)) {
         return (

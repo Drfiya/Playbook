@@ -47,18 +47,21 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
     const score = Math.round((correct / chapter.quiz.length) * 100);
     const newProgress = {
       ...progress,
-      quizScore: score,
-      completed: score >= 80 && progress.exercisesCompleted?.length > 0
+      quizScore: score
     };
     setProgress(newProgress);
     updateChapterProgress(chapter.id, newProgress);
     setShowResults(true);
-    
-    if (newProgress.completed) {
-      setTimeout(() => {
-        onComplete();
-      }, 2000);
-    }
+  };
+
+  const handleCompleteChapter = () => {
+    const newProgress = {
+      ...progress,
+      completed: true
+    };
+    setProgress(newProgress);
+    updateChapterProgress(chapter.id, newProgress);
+    onComplete();
   };
 
   const completeExercise = (exerciseTitle) => {
@@ -408,22 +411,107 @@ const ChapterView = ({ chapter, onComplete, onBack }) => {
           </div>
         )}
 
+        {/* Completion Progress */}
+        <div className="card mb-8 bg-gradient-to-r from-blue-50 to-indigo-50 border-blue-200">
+          <h3 className="text-xl font-bold text-blue-800 mb-4">
+            <i className="fas fa-tasks mr-2"></i>
+            Chapter Progress
+          </h3>
+          
+          <div className="space-y-3">
+            {/* Sections Progress */}
+            <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+              <div className="flex items-center">
+                <i className={`fas fa-book-open mr-3 ${
+                  progress.sectionsRead.length === chapter.sections.length ? 'text-green-500' : 'text-silver-400'
+                }`}></i>
+                <span className="font-medium">Read All Sections</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-sm text-silver-600 mr-3">
+                  {progress.sectionsRead.length}/{chapter.sections.length}
+                </span>
+                {progress.sectionsRead.length === chapter.sections.length ? (
+                  <i className="fas fa-check-circle text-green-500"></i>
+                ) : (
+                  <i className="fas fa-circle text-silver-300"></i>
+                )}
+              </div>
+            </div>
+
+            {/* Exercises Progress */}
+            {chapter.exercises && chapter.exercises.length > 0 && (
+              <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+                <div className="flex items-center">
+                  <i className={`fas fa-pencil-alt mr-3 ${
+                    (progress.exercisesCompleted?.length || 0) >= 1 ? 'text-green-500' : 'text-silver-400'
+                  }`}></i>
+                  <span className="font-medium">Complete Exercises</span>
+                </div>
+                <div className="flex items-center">
+                  <span className="text-sm text-silver-600 mr-3">
+                    {progress.exercisesCompleted?.length || 0}/{chapter.exercises.length}
+                  </span>
+                  {(progress.exercisesCompleted?.length || 0) >= 1 ? (
+                    <i className="fas fa-check-circle text-green-500"></i>
+                  ) : (
+                    <i className="fas fa-circle text-silver-300"></i>
+                  )}
+                </div>
+              </div>
+            )}
+
+            {/* Quiz Progress */}
+            {chapter.quiz && (
+              <div className="flex items-center justify-between p-3 bg-white rounded-lg">
+                <div className="flex items-center">
+                  <i className={`fas fa-brain mr-3 ${
+                    progress.quizScore >= 80 ? 'text-green-500' : 'text-silver-400'
+                  }`}></i>
+                  <span className="font-medium">Pass Quiz (80% or higher)</span>
+                </div>
+                <div className="flex items-center">
+                  <span className="text-sm text-silver-600 mr-3">
+                    {progress.quizScore > 0 ? `${progress.quizScore}%` : 'Not taken'}
+                  </span>
+                  {progress.quizScore >= 80 ? (
+                    <i className="fas fa-check-circle text-green-500"></i>
+                  ) : (
+                    <i className="fas fa-circle text-silver-300"></i>
+                  )}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+
         {/* Action Buttons */}
         <div className="flex space-x-4">
-          {chapter.quiz && progress.sectionsRead.length === chapter.sections.length && (
+          {chapter.quiz && progress.sectionsRead.length === chapter.sections.length && !progress.completed && (
             <button onClick={() => setShowQuiz(true)} className="btn-primary flex-1">
               <i className="fas fa-brain mr-2"></i>
-              Take Quiz
-              {progress.quizScore > 0 && ` (Score: ${progress.quizScore}%)`}
+              {progress.quizScore > 0 ? `Retake Quiz (${progress.quizScore}%)` : 'Take Quiz'}
+            </button>
+          )}
+          
+          {!progress.completed && progress.sectionsRead.length === chapter.sections.length && (
+            <button onClick={handleCompleteChapter} className="btn-primary flex-1">
+              <i className="fas fa-flag-checkered mr-2"></i>
+              Mark Chapter Complete
             </button>
           )}
           
           {progress.completed && (
             <div className="flex-1 text-center p-4 bg-green-100 rounded-lg text-green-700 font-semibold">
               <i className="fas fa-trophy mr-2"></i>
-              Chapter Completed!
+              Chapter Completed! 🎉
             </div>
           )}
+          
+          <button onClick={onBack} className="btn-secondary">
+            <i className="fas fa-arrow-left mr-2"></i>
+            Back to Dashboard
+          </button>
         </div>
       </div>
 

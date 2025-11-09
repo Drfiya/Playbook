@@ -1,7 +1,9 @@
 import React from 'react';
 import { getChapterProgress } from '../data/chapters';
 
-const ProgressTracker = ({ progress, points, chapters, onChapterSelect, currentChapter }) => {
+const ProgressTracker = ({ progress, points, chapters, onChapterSelect, currentChapter, sidebarWidth = 256 }) => {
+  // Determine if we should show full text based on sidebar width
+  const shouldTruncate = sidebarWidth < 320;
   return (
     <div className="p-6">
       {/* Progress Overview */}
@@ -18,7 +20,7 @@ const ProgressTracker = ({ progress, points, chapters, onChapterSelect, currentC
           </div>
         </div>
 
-        <div className="grid grid-cols-2 gap-4">
+        <div className={`grid gap-4 ${sidebarWidth < 280 ? 'grid-cols-1' : 'grid-cols-2'}`}>
           <div className="bg-silver-50 rounded-lg p-3">
             <p className="text-xs text-silver-600 mb-1">Points</p>
             <p className="text-lg font-bold text-navy-800">{points}</p>
@@ -70,9 +72,9 @@ const ProgressTracker = ({ progress, points, chapters, onChapterSelect, currentC
                     )}
                   </div>
                   <div className="flex-1 min-w-0">
-                    <p className={`text-sm font-semibold truncate ${
+                    <p className={`text-sm font-semibold ${shouldTruncate ? 'truncate' : ''} ${
                       isActive ? 'text-white' : 'text-navy-800'
-                    }`}>
+                    }`} title={chapter.title}>
                       {chapter.title}
                     </p>
                     {chapterProgress.sectionsRead?.length > 0 && !isCompleted && (
@@ -94,7 +96,7 @@ const ProgressTracker = ({ progress, points, chapters, onChapterSelect, currentC
       {/* Achievements */}
       <div className="mt-8">
         <h3 className="text-lg font-bold text-navy-800 mb-4">Achievements</h3>
-        <div className="grid grid-cols-3 gap-2">
+        <div className={`grid gap-2 ${sidebarWidth < 280 ? 'grid-cols-1' : 'grid-cols-3'}`}>
           <div className="text-center">
             <div className={`w-12 h-12 mx-auto rounded-full flex items-center justify-center ${
               points >= 100 ? 'bg-yellow-500 text-white' : 'bg-silver-200 text-silver-400'
