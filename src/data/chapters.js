@@ -478,6 +478,7 @@ export const chaptersData = [
     icon: "fa-brain",
     color: "from-pink-600 to-pink-400",
     duration: "60 min",
+    videoUrl: "https://www.loom.com/share/4b29adcb768a4da9bfdf25c75532d61b",
     keyTakeaways: [
       "Machine learning fundamentals that still matter",
       "The difference between ML and GenAI",
