@@ -1,0 +1,126 @@
+Post Content:
+Today I walk you through a rare but recent failure of mine.
+We're dissecting a $300 refund and the Golden Parrot Strategy that would've prevented it 🦜
+13 minutes on why correct advice delivered lazily loses clients, how to package borrowed expertise as white-glove service, and the 3 red flags that should've made me reject this consult.
+What you'll watch:
+- Real refund breakdown: PPC ads consulting gone wrong
+- The "Golden Parrot Strategy" for repackaging existing solutions
+- Red flags that scream "reject this client"
+- How to over-deliver when you're not the domain expert
+- Why clients care more about packaging than correctness
+The brutal stats:
+Only refunded 2 consults since starting Prompt Advisers in 2022.
+Most recent one: Few weeks ago.
+Instead of hiding it: Full autopsy of what went wrong.
+The setup:
+Client came through Fiverr (rare, supposed to be blocked but they'd consulted before so permissions allowed it).
+Their requirements:
+1. Upskill PPC team on Google Ads, Meta Ads, TikTok Ads with AI
+2. Generate super advertisement concepts for clients
+3. "Use AI, practical usage, not just show us ten tools and good luck" ⚠️
+4. After consultation, show team how to use AI for e-commerce ads, product ads, UGC ads, lead ads, building media assets
+Context: English not their first language. European client. High expectations from someone with zero background in those areas.
+Red flag #1 that should've made me reject:
+"Practical usage, not just show us ten tools and good luck."
+This was the clue. Don't be lazy in delivery. But I missed it.
+Red flag #2 that should've made me reject:
+"I don't have a background in pay-per-click. I know how it works. I've done a project involving it. But I'm not an industry expert."
+I'm good at AI. I'm good at solutioning tools and neural pathways. But this person wanted specific, critical path solution. Not general conceptualization.
+Red flag #3 that should've made me reject:
+The scope was massive for 30 minutes. Building media assets, UGC ads, product ads, lead ads—all specialized domains I haven't run campaigns in.
+"I know how to build UGC using Sora and Veo. Technically, I got it on lock. But I assumed I could just give instructions and they'd be happy."
+Wrong assumption.
+What actually happened on the call:
+Gave honest disclaimer: "I'm not a PPC expert. You probably realized that from our first consult (which was SEO-focused)."
+Gave rational advice: "There's this person, Robon August. Decent-sized YouTube channel, big community. He specializes in UGC,
+
+Transcript:
+00:00 Most people love to walk you through and talk you through their major successes, and what you can learn from those successes.
+00:07 But in this video, I'm gonna walk you through a recent failure of mine, and I've only ever refunded two consults since I started Prompt Advisors back in 2022.
+00:17 And the most recent one, just happened a few weeks ago, and instead of just putting it under the carpet and acting like I am saint like and I'm so good at what I do that no one is ever unhappy, I'm gonna tackle head on this piece of feedback that I got, and I ended up refunding this specific consult.
+00:33 Now, did I give the wrong advice? No. What did I do that was absolutely wrong? Is I, in a way it was lazy in the way I delivered the advice?
+00:43 And I could have packaged it in a way that would have increased the intrinsic value, or the perceived intrinsic value- God bless you, by the clients themselves.
+00:50 So, this person came to me through Fiverr. I rarely ever do Fiverr orders anymore. This was actually a fluke. It was supposed to be only a request to order.
+01:00 But because this person had done a consult with me before, that went really well, they were able to re-book me without having to go through permissions.
+01:08 Anyway. They came to me with a requirements- friends. The requirements were right here. So they wanted to upskill their pay-per-click team.
+01:18 And, on Google ads, meta ads, TikTok ads, how to use AI, for that kind of stuff. So generate super advertisement concepts for our clients.
+01:26 Now, one disclaimer, English is not this individual's first language. They were from, somewhere in Europe. Then use AI, practical usage, not just show us.
+01:35 There are ten- and tools and good luck. So, I should have gotten the clue to not be lazing my delivery from this note here.
+01:42 Practical usage, this is the part. Not just show us ten tools and good luck. Now, immediately what I should have done is honestly just rejected this console.
+01:53 Because I don't have a background in pay-per-click. I know how this stuff works. I've done a project before involving it, but I'm not an industry expert.
+02:00 I'm good at AI. And I'm good at, like, solutioning what tools and what the best neural pathways are. But this person was looking for a specific, critical path solution.
+02:10 Not just, like, general conceptualization of how you could go about it. Very wishy-washy. Which I ended up covering off as very wishy-washy.
+02:19 Number three, I want to be able to, after a consultation, show my team how to use a- for e-commerce ads, product ads, UGC ads, lead ads for building media assets.
+02:30 So again, really tall expectations from somebody who has run zero of those. And I, I know how to build UGC stuff using Sora and Veyo.
+02:40 So from a technical standpoint, I got on lock. No worries. But I also assumed that I could just give instructions.
+02:46 Like consult, in some case, should be- And they would be happy. But because of this sentence, right? I should have been a lot more alert.
+02:54 That should probably come with a lot more ammo than just some advice that you'll see. it'll come off as cheap advice.
+03:01 Even though it's right advice. Anyway. So they said, I asked for three things. I asked to not show us two tools in YouTube channel.
+03:10 I showed him a YouTube channel. You'll- you understand why when I talk to you about it. but this is all I got from the consultation.
+03:16 Number three's not covered. So not only did they want to go through these three, I think the expectation was that they would hop on.
+03:24 And I would just talk. Like one-way traffic. Cool. So for number one, one, two, three, four, five. And for number two, one, two, three, four, five.
+03:32 Number three, four, five, six. Now I did that for the very first call we had. And I thought it was overkill.
+03:38 But it seemed like this person wanted this, like, tutorial style consult, which is not the best kind of consult because with the time I prepare to do that thing, the, the cost kind of is not worth it.
+03:52 Even if it's like $295, in this case it was, I think it was $300 for the half hour I charged.
+03:58 probably it was not worth it. Even if I knew it'd- what I was doing. Anyways, so, overall I'm not satisfied with the services time because I've written the requirements, but they weren't covered.
+04:06 I'm open to do it once again with better preparation from the side of the consultant. Now, not out of my ego, but because of have very high standards, this kind of stung a little bit because when they say better preparation, I always think that I prepare pretty well.
+04:21 Now, a little context here. I was- was. Doing this consult while I was in my leadership retreat with Taha in Dominican Republic, so I might have been extra relaxed, extra happy, versus my cold, calculating, rigid self that is usually very oriented toward consultations.
+04:39 So, that's some extra little background to keep in mind. Non-excuse, zero excuse, but more context. Now, I ended up saying feel free to cancel the whole order.
+04:48 you It was the best advice I could provide. Now, this is fresh off of being stung, so what I should have said is feel free to cancel the order.
+04:58 I understand it might not have been what you've been looking for. I originally thought that this was like a decent advice because it's a lot more effective than what I could have done, but I realized I should have prepared more.
+05:10 I should have been a bit more, not a bit more. I should have been accountable. Even there, when you see the word a bit, I'm trying to soften the blow.
+05:16 It's important for you to not soften blows to yourself. Sometimes, once in a while, we suck. We just want to make sure that it doesn't come a recurring pattern.
+05:27 So for me, I don't dwell on the emotion. I like to quote unquote play back what I could have done and how I could have handled the situation better.
+05:36 Very similar to a very weird habit of mind, where I'm not socially anymore. I don't leave the house very often.
+05:42 But when I do, and there's a group gathering, I will replay back in the shower before bed every conversation I had, and was I thoughtful enough in my responses?
+05:52 Was I lazy in my responses? Did I overshare? Did I undershare? Should I have smiled more? Should I have smiled less?
+05:58 Now I'm a bit of an overthinker. But I try to analyze what could I have done to make that outcome, or that setting better?
+06:07 Is there such thing as too much? Yes. But in this case, very useful when you have a failure. Don't just shrug it off.
+06:14 Now if you have other things to do, which I always have a million things to do, you need to keep going so you can't let yourself get drowned in that feeling.
+06:22 Add to do, maybe a record. Or according for the classroom. Or a loombight. Or me with another client. Or me with my team.
+06:29 So you can't let that affect you, but you have to find some way to carve out time to reflect on the failure.
+06:35 Now, what did I do? What did Mark do that was so wrong? So, these are the three things again, right?
+06:40 So generate super advertisement concepts. Okay. Whatever. Use AI. And number three, again, create, You just see that. So he hopped on, and he originally said there's a few tools in the market, and I'm like, yeah, well, like, there are tools that do this.
+06:56 Like, I don't, You could go down the route of doing end and end and building your own automations, but, From what's out there, what's missing.
+07:03 Now, because he mentioned that one comment in brackets, I kind of pointed out to you, I shouldn't have started with that angle.
+07:10 I should have started with value, who value overwhelmed first. Like, okay, here's what we prepared for today. This is what I want to go through.
+07:18 Does this sound like a plan? Does it sound good to you? Okay, and what should I have done? What I ended up doing was I said, literally, look, I'm giving you the most candid advice I can.
+07:28 Looking at your requirements, like, I'm not a PPC expert, and I'm pretty sure you would have realized that in our first consult.
+07:34 Our first consult was SEO. So, I kind of know about SEO, I kind of understand it, but pay-per-click is not my thing.
+07:41 So I made that very clear, and I thought that me saying that would not soften the blow, but more so, give context that if I were to try to, like, act like I'm super smart, I'd rather be honest until you listen.
+07:52 I'm not really good at this whole pay-per-click stuff. Not my background. On the AI side, I got you. On the, what is effective for pay-per-click from AI- Like, in terms of empirical evidence, I don't have empirical evidence to kind of, like, rest on my laurels and say, you should do it this way.
+08:07 I can't say should to you, unfortunately. But, even though it's not in my best interest, there is this person, his name is Robon August.
+08:13 He has a pretty decent, decently sized YouTube channel, really big community. Some of you might be in that community. He specializes in this stuff.
+08:21 UGC, video ads, anything around creative. So, if you go through his videos, he, like, all of his videos are around creating UGC paper-click ads using this technology.
+08:33 So, who am I to say that me, who specializes in all kinds of things, but more so a generalist, that try to be a superhuman generalist, is better than this individual who specializes their whole thing on creating UGC and paper-click ads, right?
+08:48 All right. So, I'm like, listen, you spent 300 bucks on this call. This dude has, 100 bucks a month community.
+08:55 sure you could go in that committee for a month, get what you need, maybe have your team use your account to go and look at the automations and the walkthroughs and the lessons, and that would be way better than whatever I would charge you to teach you and show you that, like in the- poor person's way
+09:11 . So, on the call, by the way, he looked like he was okay with this. He's like, oh, okay, interesting. He he does pretty much what I'm looking for.
+09:19 So, I was surprised to get that review because the call didn't seem like they were upset. And the call ended early, by the way.
+09:26 So, it was supposed to be 30 minutes. We ended up, 20 minutes in. And he seemed, by the way, very chill.
+09:31 Like, it- it wasn't apparent to me. me. That there was a problem. It was only when I tried to submit the order as delivered where that problem arose.
+09:40 So, with that in mind, what did I do wrong? Was the advice itself wrong? No. Was the packaging completely off?
+09:49 Absolutely. What should I have done instead? One thing I've learned is, I'm going to call this the goo- Holden parrot strategy.
+09:59 Where sometimes you're repeating something that technically you could say to someone, go do this and this and this and this and they'll fix your problem.
+10:08 And it could be the perfect advice and the rational advice. So my advice was technically go look at this guy's YouTube channels.
+10:15 Here's like three examples that I watched. They're very comprehensive. He walks through the end of the workflow. If you don't want to join his- community and get the template.
+10:22 If you- if you have a developer, he had an end-end developer, they can watch this and probably reverse engineer it.
+10:27 And you'd be on your way and start iterating. What they wanted was something packaged that shows that I exerted myself for preparation.
+10:37 So what I could have done to be a golden parroting advice that technically is not novel. I am just packaging it in a way that feels- Those two.
+10:45 But to them, is let's say I take one video here from this individual. So, in the event you just use one click.
+10:52 And then here's the workflow. Now, I'm good enough that I could probably crank this out. I could even screenshot it, get clogged to crank out, a little prototype of it, and just make it work.
+11:03 For me, it would probably take, what, 30 minutes an hour. Now, is it worth it for me to do that?
+11:07 Probably not, to be frank, which is why I wanted to just- Convey the advice, but if you want to over-deliver and build a reputation of over-delivering, then that's what I could have done.
+11:16 Maybe I didn't have to do the whole automation. Maybe a portion of the automation, and then referred to a prototype skeleton of this thing, without saying, oh yeah, go watch this YouTube channel, go join this community, and just get the template.
+11:30 Now, the next thing I could have done was use perplexity to- . Taylor, whatever version of the template I created, okay, and then use maybe the text to workflow, now that we have that at our disposal, to build a version of that workflow, Taylor, to them, and then I should have, could have walked through
+11:47 . Note one, two, and three. If we go back to the thesis here, right, so I want my PPC team to go through these things, generate super advertisement.
+11:56 Advertisement. Now, I am not a, I'm never going to be an advertisement person, so I could have shown, okay, maybe use something like AdSpy to go and look at the top performing ads, and you try to recreate them using this automation that I'm going to walk you through now.
+12:11 This is how the automation works. Here's what your developer would need, and by the way, here's a template so you can have yourself, right?
+12:17 So, that is a white glove golden experience. Now, in the, who's Uzi, this would also cover the base of Uzi, and number three, I want to be able to, after a consultation, show my team how to use AI for e-commerce ads, this, this, and this.
+12:30 Now, again, expectations here are way too high for one, the amount of time it would take to prepare for this, let alone to deliver in a 30-minute period.
+12:38 But, we're not here to make excuses. We're here to make either experiences or understand when to say no. This should have been a no from me.
+12:45 . That's on me. Number two is, if I didn't say no, I should have prepared if I said I could deliver.
+12:52 And the third thing is, I thought there would be some nuance and understanding that, you know, you know I'm not a paper-click person, so I'm not gonna be able to answer this like an expert.
+13:00 I made assumptions that the client would be on the same page as me. Very bad idea. Especially if they add some- something like this, right, in the- in brackets, in the requirements.
+13:13 So, all to say, failures happen, the goal of dealing with a failure is to understand it, reflect on it, and make sure it doesn't happen again.
+13:24 And a lot of times, you just have to- package what you're going to deliver in a way that at least comes off and is perceived as a lot more valuable, tailored, and you're really listening to the person who's taking the time, and maybe they're walled out, to spend that time speaking with you.

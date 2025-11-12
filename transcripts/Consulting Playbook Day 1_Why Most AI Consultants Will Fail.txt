@@ -1,0 +1,179 @@
+Post Content:
+Your positioning determines your price -- and your survival rate
+20 minutes on why saying "no" to clients makes you more money than saying "yes" to everyone, and the framework that's survived 2,000+ hours across companies you'd recognize
+What you'll watch:
+- The "Yes you're all wrong" positioning strategy
+- Four readiness checkpoints that determine if someone can even use AI
+- Three-tier pricing model (Implementation → Prep → Education)
+- Why refunding clients gets you more business
+The core positioning shift:
+Don't give clients what they WANT (newest tools, all the features, DevDay highlights)
+Give them what they NEED (readiness assessment, process fixes, honest limits)
+The provocative statement to steal:
+"AI is a luxury, not a right. You earn the ability to use AI. You don't just get it."
+The Four Readiness Checkpoints:
+Before selling ANY implementation, ask:
+1. Processes: Do they exist? Documented? If not, you're building on a garbage truck on fire
+2. Data: Where does it live? SQL? Do they have a data dictionary? (Litmus test for maturity)
+3. Buy-in: C-suite on board or Trojan horse situation? Wrong management = 40% failure rate
+4. Systems: Built automations before? Speak Make/N8N? Different hemisphere entirely
+If they fail 2+ checkpoints? Don't sell implementation. Sell readiness.
+The Three-Tier Strategy Framework:
+Tier 1 - Implementation (they're ready):
+- Build automations or consult so well they let you build
+- $200/month retainer to stay embedded
+Tier 2 - Prep (not ready):
+- Organize their processes first
+- Fix the foundation before adding AI
+- This is where you make the most money 👈
+Tier 3 - Education (need training):
+- ChatGPT/Claude workshops (still the best seller)
+- Train on fixing organizational problems
+Critical lessons from 2,000+ hours:
+Short-term vs long-term tradeoff:
+- Hype positioning: More clients faster, more churn, temporal income
+- Honest positioning: Fewer clients, zero churn, premium prices, referral machine
+Real example: "I've refunded consults when clients push me toward solutions I don't believe in. Every time I do this, I get MORE business."
+The consulting arbitrage window:
+6-12 months before AI can teach better than us. Use this time to:
+- Do free 15-min consults if starting at zero
+- Rack up dozens of calls
+- Build pattern recognition across industries
+Common consulting pitfalls:
+- Being the Trojan horse (hired by non-C-suite, hated by leadership)
+- The $5K/month subscription audit that saves $3K (builds trust for $30-40K engagements)
+- Teaching tools to companies with no processes
+- Over-indexing on one tool (voice only, chat only, Claude only)
+The buy-in technique for hostile rooms:
+"Let me show you three types of people. Jim (burning down ChatGPT) - some of you hate that I exist. I come in peace. I'm skeptical too, which is why [stakeholder] trusted me."
+Call it out. Acknowledge it. Move forward.
+Why generalist knowledge matters:
+Companies need:
+- Systems that share the same brain
+- Tools outside their database to avoid technical debt
+- Multiple automation layers
+- Someone who understands the full spectrum
+"We're going to crush huge consulting firms because they're bloated, not nimble, and their consultants watch our videos to make their decks."
+The positioning that wins: ✅
+Not: "Here's everything from OpenAI DevDay and how to use it all"
+But: "Here's what matters for YOUR situation, and here's why 90% of that doesn't apply to you yet"
+Result: Premium pricing, clients that stay for years, referrals that pre-qualify themselves.
+
+Transcript:
+00:00 now I've done over 2,000 hours of AI consulting, especially over this recent run I've had on YouTube. We now have consulting calls lined up for the next three weeks, pretty much one a day.
+00:12 And my goal for you isn't that you have 10, 15, 20 consulting clients. It's more so that you become the person that people trust to not overly feed their curiosities that don't matter, that becomes the go-to person for that organization, that company.
+00:34 And most importantly, you can go deep in relationships with a handful versus having 20 very shallow relationships which are on and off.
+00:43 And very temporal, meaning you don't necessarily have predictable business income if you want to go down the path of doing AI consulting.
+00:51 Now why do I have this image here? This is typically the background for my phone depending on what mode it's in.
+00:59 It's either my wife and my husky or it's this one depending on if it's on filming mode. And I like this image, although it's pixelated, because it says, yes, you're all wrong, to oodles and hundreds of people.
+01:12 And a lot of times as a proper AI consultant, this is the stance that you should take. It's the take that I take on YouTube, which is why sometimes, not sometimes, many times I leave a lot of viewership on the table, subscriber growth on the table, because I don't want to get behind this one because 
+01:31 I don't want to get behind this one because watching that kind of content, we get some really grounded clients that are down for the iteration, understand the nuance, understand that there's a lot of noise, and look to us to pre-digest that noise so that they can better understand what matters for them
+02:11 . And you as the AI consultant is, basically, you're going to be in that position, and we're going to have a wave, I'm telling you.
+02:19 The next. Six to 12 months. Forget models and tools and fancy stuff. Everything on the macro side is going to change very rapidly, especially in at least the Western Hemisphere.
+02:31 EU definitely will lag behind a bit just due to regulations, but I even see at some point those regulations taking a step back as well.
+02:39 But just to focus on the general concept. Things will move so fast. Like, exponential is not even going to be a good word for it.
+02:48 They'll move so fast that you need to be the beacon of light to illuminate a lot of the darkness a lot of organizations will be in.
+02:56 They'll be asking very hard questions, which is not just should I do any then or make.com, those are easier. It'll be do you think we're at a point where I can let go 25% of my workforce?
+03:07 And that's a question I've had to answer multiple times. I could name CEOs of companies that you would know of, that we've consulted for, that have told me if not every single person in this company embraces AI, then we're going to have a policy we're going to implement, which is you don't learn AI, 
+03:26 you don't have a job, you don't have benefits. It's already been that extreme and that was in that specific area.
+03:31 The last a consult was in April of this year and it was a very long consult. We did a couple of different versions where I walked, I tried to walk them off the ledge of being a lot more realistic with what it takes to make a company AI first.
+03:46 So all this yapping, but it's better to be trusted than to say, here is everything that came out on OpenAI's dev day and here's what you can you should use all of it and this is how you can use all of it.
+03:58 At that point, you're just a parrot. And if you take the parrot strategy, you won't really have that much tenure in this AI consulting role.
+04:06 Because we will have models way smarter than you that can just parrot YouTube videos and features and tell someone why they should use something and how they should use it.
+04:15 And with all these Sora things coming out, it literally hits my timeline. By the end of the year, I think we're going to be able to, you're going to be able to spin up your own YouTuber, which is infinitely more handsome and has a better voice than me and better articulate than me and have them teach
+04:31 you a concept. So the moat, about even teaching someone a concept, will likely erode over time. And it's only those who won, have a really great reputation slash personal brand.
+04:39 You don't need a YouTube channel to have a personal- So, you brand, it just helps, will be the ones that stand out.
+04:47 So, your goal is to be able to tell someone, even if they're paying you to feed their AI addiction, you take them to AI rehab and you explain to them what matters and what doesn't.
+04:58 And you take them back to the basics that matter. So, that is, in a nutshell, my TLDR to intro. Now, when you- You should.
+05:08 Start consulting. You want to think about not just the start and assessment and the strategy, but also where the company you're dealing with is from a position standpoint.
+05:17 Do they have an understanding of how to use chat GBT? Or do they use it at a very basic level?
+05:23 Do they use Cloud AI? Or do they just use it because it's good at copywriting? Do they know, when I say they, do the majority of the people that move the- you know, in the company and day-to-day folks that actually push progress forward, are they aware of how to use these basic tools deeply or no?
+05:41 If the answer is no, there's your specific reason why teaching chat GBT and Cloud AI as workshops has been the most, like the best seller I've ever had in terms of AI workshops.
+05:52 People still don't know how to do that well. Let alone chat GBT pro- objects, custom GBTs now. Yes, uh, it hurts me to say you also have agent builder.
+06:02 If that's really what they want you to teach them, especially if it's, they are an AI, open AI only ecosystem.
+06:09 It's inevitable. You'll find companies that will over index on one ecosystem, in which case it helps to at least know what those are and you can speak to the limitations or what can- be done with those things.
+06:23 Now, core principle is you don't want to give someone what they want. You want to give them what they need.
+06:28 And what a lot of companies need is help to become eligible to use this stuff to begin with. A lot of companies are not eligible.
+06:38 Now, in the short term, if you compare me to whoever you want to compare me against, I might make you less- money.
+06:45 And I'll be candid about that because it is very alluring to see brand new stuff and then tell people, listen, if you want me to teach you this brand new stuff and pre chew it for you and spoon feed it to you after I've pre digested it, then I'm your person.
+07:04 I will take care of this You can get a lot more clients up from uh, faster making this kind of positioning.
+07:12 Totally viable. And you know what? I would have done it and I have done it at a point in time.
+07:16 I wasn't always mister trying to always be the best and brightest in terms of uh, what's in the best interest for the client long term.
+07:25 That's something that I've matured at over time, over years. I've seen what works and what doesn't work and realizing how much I like.
+07:32 I love when it works and people, it still works after I'm gone. That's kind of what I noticed. So, if you go to the honest route, what I can say, you'll have a lot less churn, a lot more money in the medium to long term.
+07:46 And more importantly, you're gonna be able to offer premium services at premium prices. Cause if I'm on honest person with you and you tell me that you're a company and you're spending $5,000.
+07:56 A month on subscriptions. And you are just a team of 20 to 40 people. Half of which are not even using those tools.
+08:04 And I save you 3,000 of that 5,000. And I build that kind of repertoire over time. And I don't nickel and dime you for a while.
+08:13 Then eventually comes that moment. Or when you say, yeah, those will be a 40k engagement or a 30k engagement. We can do it in a structure basis where there's a milestone, there's a lump sum payment, there's a retainer.
+08:26 We'll do like a big headlong tail so we don't actually have recurring costs that are too high for you. That's where you can have a conversation.
+08:33 And the amount of pushback will be either a lot less or non-existent. And one thing that we've been lucky lucky to experience is that for now, it's pretty much non-existent.
+08:44 Because the way we try to present ourselves on social, outwardly, hopefully in this community, is that we try to be arbiters of truth, not of hype.
+08:54 And we want to do what's best for you, not what you think is best for yourself. So if you take this approach in this positioning, and I know it sounds like I'm just being a yaposaurus rex, but I think it's really important.
+09:04 Because this image right now is how I see a lot of the market. Okay. Where people just want the newest thing to be the best thing, even though, if you go deep enough, the things that have been around are the things that will last.
+09:18 Now, I say a very provocative statement that I'm happy for you to steal from me. And that statement is AI, or using AI, is a luxury.
+09:30 It is not a right. It's not a, I'm not going to say. A human right, but a right of the business.
+09:35 You earn the right to use AI, you have to learn to use AI, but you don't actually have it to begin with.
+09:42 If you don't have processes, if you have no clue what you want to use it for. If you want to use it because you feel like you have FOMO in your behind, the last one, yes, you could use that fear-mongering technique to get clients.
+09:55 Totally. But if you want the best for a client, and you want them to actually succeed, and you want to be the reason why you were able to push them forward, and then want referrals.
+10:06 Like, I get so many referrals now, I'm so thankful for that. Because people know that if I can't help, or I don't think I'm helpful, or a good fit, I will tell the organization.
+10:16 I won't even accept their payment. Sometimes I'll refund a consult. If I feel- You'll be fine. I feel like they want to go in direction, in a direction rather, and they're pushing me to make them go in that direction, but I don't believe they should go there.
+10:27 I will happily refund it. And what I notice is the more I do that, the more business car I get back, and I get clients that hear that I did that for someone else, and they're like, listen, trying to assess us, keep the payment, don't refund it.
+10:39 We want you to give us an honest take, given your experience, since you've spoken to hundreds of companies. Now, a little pause here.
+10:47 You can do AI consulting for the few months, comma, for free, and do 15 minute free consults. Again, we have this window of arbitrage, where it might still be perceived as valuable, because we don't have that perfect AI that can spin up a handsome or beautiful version of an avatar that can teach you 
+11:05 and guide you one to one the same way we can have an intimate- to That will be a thing, but while we have this arbitrage window, if you're starting at zero, in terms of consulting clients, but you have knowledge, or you have a natural, unfair advantage in one domain, then this can be golden for you.
+11:26 They can take advantage of this opportunity, rack up tens of consulting calls, especially if you're also on the technical- Google side, and you're a developer, and you're less...not acquainted, but maybe you're less astute at the verbal and non-verbals on sales calls, and you're more of a builder than
+11:41 a seller, then these calls will give you the ability to also acclimate, and see what kind of clients you resonate with, what kind of stacks you feel like you can really speak to, because if you are on the technical side, and that's why I always want to, rise the tide in the community, so that it can 
+11:59 lift all the boats, so that as many of you can be technical, even if you want to implement non-technical, and just tell people what to do, right?
+12:09 Because if you know, then your opinion will have a lot more value, you'll have the bean there done that experience, and that's really what people are valuing and looking for.
+12:19 So, when it comes to readiness, I like to stop, and ask certain questions. Number one, do you have processes? Numero dos, do you have data?
+12:28 Amazing. Where does that data live? Does it live in a SQL database? Fantastic. Do you guys have a data dictionary?
+12:34 What a data dictionary is? It's like an encyclopedia of where certain types of data live in the organization. Data types.
+12:42 Basically, it's a litmus test for me. If they even know what a data dictionary- There is. That's one little check mark.
+12:47 If they have one, amazing. If they actually update it, incredible. And this is assuming, by the way, you're doing something, or they want to go in a certain direction, or they need to use data in combination with Gen of AI to accomplish XYZ.
+13:00 Okay, there's a little bit of a subtle assumption there. See, very important. Do they have buy-in from the stakeholders that you would need- Good.
+13:09 Buy-in from to move things forward. Because if you are being entered as a Trojan horse in an organization, by someone that is not a shot caller, that is not C-suite, it is an upward battle.
+13:22 And every single time they see a payment come through, and it says your agency's, or your personal name on it, those C-suite people, that might be threatened by you for whatever reason, maybe not by replacement, cause- Typically, they are older enough that replacement is less of a concern, they have 
+13:38 too much tenure for that to be a worry, but maybe they don't want to feel like they're inept in a category that's brand new, given their stature in the organization and how used to being a genius they feel in that company.
+13:52 Sounds hypothetical, but I can tell you from experience, happens at least 40% of the time, where- right client, right place, right person, wrong management.
+14:02 And for those, you can do a couple of consults, but you'll see once you go deep, either you'll do a workshop and nobody retains it, or cares, or the- you'll go in a room where you're the most hated person.
+14:15 And I've literally had a slide, there's a very funny slide deck, where I walked in to a room of- Love.
+14:21 50 people, and I was briefed, like, five minutes before going on stage that half the people in the room would hate me.
+14:29 It was just my existence. They don't know me, but just me- my existence would be hated. So, I actually added two slides before I walked in, and it was an AI generated three versions of an avatar.
+14:41 And the very first avatar I said was, listen. Let's call it out before I even speak Be careful. What I'm here to speak about today, which is why you should consider using Jenny on your business and how we can do that.
+14:51 This is Jim. I put a picture of someone who's really angry, uh, burning down, like, chat chippy tea. This might be indicative of many of you in this, in this room, and this might not be gender specific.
+15:03 Some of you might hate that I exist or that I'm here. And some of you might be hyper skeptical. That all of this AI stuff is a bunch of slop.
+15:12 There's no use in it, and it's all negative. You don't have to put up your hands, but as I look across the room, as I see smiles and smirks, I can confirm there's a little bit of a population of that here.
+15:23 And let me tell you, I do come in peace, and I also believe, and I am skeptical myself of a lot of these solutions, which is why XYZ person hasn't trusted me to bring this to you, because I don't believe love the b- e-s that's out there.
+15:34 I also worked with AI, the OG AI, before all this hype AI came out. I did stats by hand. I learned Python from a textbook two years in a coffee shop.
+15:44 I did XYZ. So, on the buy-in side, there are techniques to also inch yourself in, and a non, non-typical, consulting, boring, lifeless, lack of personality way.
+15:55 So buy-in can be acquired. It's not a stone wall. It's helpful to develop those people skills to be able to navigate those tricky ones.
+16:04 But again, if you're starting out, if you're trying to pitch to an English-speaking audience in you, that's your third or fourth language.
+16:11 It's my, English is my, Yeah, 2.5 language. So, for a while, I wasn't that good at English when I was a kid.
+16:17 Umm, so I understand that predicament. But, I wouldn't, Start with a client that has a tricky area of buy, lack of buy-in at the very top.
+16:27 And the last one is systems. If they've built automations before, especially NNN, make.com, they can speak that language. At least, you're in a different hemisphere.
+16:35 Now, you can have a lot more productive conversations where you can dial in on exactly the pain points they're looking for.
+16:41 So, assuming they have three or four of these, then, and you could build a strategy for them. I would say, like, process is the number one thing that if they don't have, it's really hard for me to build a proper strategy.
+16:56 Because you can build automations. You can build workflows. But if it's built on a house of cards or a garbage truck on fire, it will not scale well.
+17:06 The next one is no. Fix first and what you want to sell in this case. Okay. This is, you sell the implementation plan to get them to a place where they have most of these things.
+17:16 Obviously, this one will be the hardest. And then once you do that, we can come to the tools section. So it's the reason why I like to, well, I made this community, an AI generalist community, AI, super human generalist community, is if you know enough about, every domain of AI, then you can have a really
+17:37 competent conversation. Because you will find companies that don't just need voice agents. They don't just need chat agents. They need maybe ones that share the same brain, so you need some lag in there.
+17:48 They need some systems that live in their database, as well as some lag outside the database. Maybe they have really crappy data.
+17:55 So your initial implementation of AI will need to be on, tools external from their stack, so it kind of frees them from that technical debt that they have to fix in order to be AI-eligible on the back end of things, especially in their main systems.
+18:08 So there's many versions of these tools, but understanding their existence and why you'd use each one is very important. And then just to end off this portion, we're going to have multiple portions, because I don't want to make this a one hour, one and done.
+18:22 We're going to- break it up into more actionable chunks, is in strategy tiers, we have tier one that they're ready, in which case you can do AI implementation.
+18:30 And assuming, ideally, if they have a sticky stack and you don't want to build the automations yourself, which totally makes sense, it's less overhead on you, less stress, and more profitability and margin, especially if you were going to subcontract a dev to do this for you, then either- You you consult
+18:47 them so well that they give you the chance to build the automation or build the thing or vibe code the app, which is awesome.
+18:53 Otherwise, you can just keep selling the implementation and the strategy. And then, what's cool is you can sell a retainer for a very tiny amount, so that you're always there.
+19:05 So you can be like, listen, for 200 bucks a month, I have this program or offer the service where I'll just- just respond to around four or five emails a month asking questions.
+19:14 Now you can price this at whatever you want, but keeping your foot in the door will always keep your name in the conversations and keep you as that expert.
+19:22 So in the medium long term, you really get embedded and build that, uh, that trust in the organization. And then in tier two, if they're not ready, like I said, you want to organize, prep them, go through the different process they have.
+19:34 out. And then tier three is education where you train them. And one part of the training you could do is not just like about the AI tools and chat between Claude.
+19:42 Totally good though. You can train them on how to fix all the problems they have in their organization. So these three tiers primarily are the ones that I look at when I look at the consulting ecosystem.
+19:55 And you can make a decent amount of money over and over again. And recycling a lot of content in tier one because most companies are not ready for AI.
+20:04 Enterprises are a lot more ready. But enterprises usually need a combination of one, two, and three altogether like it's a mega tier.
+20:15 But to conclude this one, this is going to be one of the biggest opportunities in at least the next six to twelve months.
+20:21 But it's only an opportunity. If you bring a holistic overview of the field, not just an over-indexed one on just voice, or just chat, or just chat GPT, or just cloud, or just Gemini.
+20:34 The more you know, so my parents taught me when I was a kid, info is power, or knowledge is power.
+20:42 I would say this is another time where it's very powerful because we will be able to- You know what I'm crush huge consulting firms because they're not nimble, and they're bloated, and a lot of those people watch videos, not just like mine, I won't be arrogant, but mine, I've been told by some, from 
+20:59 companies you recognize, that they watch my videos to create their decks sometimes. They watch nades videos, nades videos, other creators videos, to make their decks for their clients.
+21:10 So- No. We're trying to pierce and remove the middle entities, who are overcharging for that, and we're going to undercut them while still making money, and still positioning ourselves as valiant, honest people that are here to actually move the needle forward.

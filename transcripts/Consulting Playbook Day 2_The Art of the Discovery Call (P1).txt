@@ -1,0 +1,125 @@
+00:00 All right, so yesterday we walked through the basics and the concept about AI consulting, and in this one, we're gonna go through the art of the call, the discovery of the call.
+00:09 So like I said, we want to be, we want to aspire to be AI doctors where we diagnose, we provide prognosis.
+00:16 We don't want to be AI drug dealers where while you're telling me your pain points are, I already have the sexiest and the best looking solutions that I think will wow you more so than satisfy you.
+00:29 So many people in the market will optimize to be drugged dealers because being a drug dealer, very profitable like it is in the real world, but being a doctor can also be very profitable.
+00:39 You build trust and most importantly, you actually focus on what the pain points are instead of trying to get the call over with, with some of your go-tos that you're familiar with.
+00:50 So with that, let's get more tactical on the framework itself, so you always have an option. Let's opening and some people hop on the call and they'll ask you, so how do you usually run these things?
+01:02 Very common question because discovery calls are, especially if they're paid, are confusing to people because they're not very consistent from one vendor to the next.
+01:12 And what I always like to say is my goal is to fix whatever your pain point is or we want and go through what your goal is.
+01:20 Or both. So you can frame the conversation. I already read what you wrote in the Calendly or the email, like I've briefed myself on your company, so have a decent idea of what you do, but I would love to hear in your own words, what are the day to day pain points yourself and your team and your company
+01:36 slash organization are dealing with? And then when you start with that one, it just shows that you're very astute at understanding the dynamic of the call.
+01:44 There you are here to fix their problem. And one responsibility you have comma, especially if this is a paid call.
+01:50 The reason why I'm differentiating between a free and a paid is if someone spends 10 minutes telling you about their business and their pain point, it might be useful context for you, but you don't want to nickel and dime them if it's like a 15 minute call or a 30 minute call.
+02:04 If it takes them 10 minutes to walk through what their pain point is, it's your job to be the honest person and extend the call by another 10 minutes because those were 10 minutes of them basically venting to you, not you actually solutioning.
+02:17 And even if you could come to the conclusion very quickly, I would just say, if you are in the business of building longterm relationships, which you should be, then don't nickel and dime people that hop on a call with you.
+02:29 All right. So discovery phase. What are some scope questions? Number one. The number one thing I like to ask is scale.
+02:35 What kind of scale am I dealing with? So this comes in the form of saying how many employees, usually it's a good proxy.
+02:41 When I used to work in people analytics, we basically had tiers of companies where we saw different dynamics in HR, the organization, an organization going from flat to a hierarchy because even startups that BS you and say, we are all flat hierarchy.
+02:56 I like 300 employees is full of it because at some point, hierarchies are made, managers are there. So there is a chain of command, especially above a certain limit.
+03:06 So five to 20 employees looks like something, 21 to 50 employees looks different. Now you start having maybe a need for policies and processes.
+03:17 You have different people in the organization. You have different dynamics. I'll next Bye bye. 51 to 100 now, depending on what kind of the nature of the company is, they could have raised a series B or a series C, even depending on how lean the company is, 100 to 500 with its own tier, 500 to a thousand
+03:36 . Typically some could even an incorporated company, like they've gone public or series D series E, depends on obviously the market.
+03:44 at the. And then 1,000 to 5,000 is another tier, and then you have 10,000 plus, where usually that is your big enterprises.
+03:54 Each one of these typically have a pattern of different resources, different dynamics, different politics, and even investor politics at play.
+04:04 It's even helpful to differentiate between a company that's, that's a startup that reports to a board of directors or investors versus one that is bootstrapped.
+04:14 And one helpful cheat sheet on that is if it's a startup, and it's 50 to 100 employees, and they are VC-backed, there will be money that can be set aside or committed by the investors to make the company more efficient, because for them, they just care about their ROI and return on capital.
+04:31 So, those kinds of companies, These companies are usually very AI-first, very AI-leading. They're a lot more open to investing in these kinds of things, automations, et cetera.
+04:41 And that's typically how I like to shape and initially understand who I'm dealing with. How many employees? Stack. That's my number two question.
+04:50 Walk me through what you guys do day-to-day. And while I'm listening in, I am listening to see are there tools I've never heard of before?
+04:57 If so, while they're speaking, sometimes I will just do a quick perplexity search. Hey, does this, this, this have an API endpoint, that's open to developers?
+05:04 I'll just let that run. And if I see it, no, I'll have like another screen just running. I'll be like, okay, cool.
+05:10 We're going to put that on the side. I'm going to come back to that one later. Let's see how important that one is.
+05:14 And would they ever be open to migrating from this thing that doesn't have an API that seems to be integral in this process?
+05:20 Right? Can we move the data somewhere where they, where there's an even plane on being AI enabled? So they say, you know, we are a, on Google, we are, we use Google drive.
+05:31 We have things like notion, we use Slack, or we use Microsoft teams or we use Outlook. The way I think about the automation will change in real time.
+05:39 And this isn't necessarily something I can spoon feed to you, this is tacit knowledge. But there are patterns and I, I'm going to try to put together some form of pattern matching to help you cheat time from having to go through thousands of hours of consoles to get to this.
+05:53 But if someone says we are a Microsoft stack or an Outlook stack, a lot of public organizations, at least on the Western hemisphere in North America, usually public sector organization, not-for-profit.
+06:06 Outlook is a is fine. sometimes very annoying to deal with things like OneDrive. It's absolutely, like, sometimes devastatingly painful to do simple things because with OneDrive, which is the equivalent of Google Drive or Dropbox, permissions and policies of access become a headache and you need some
+06:22 help involved on the other side of the team. So when I listen in for things like that, I try to basically suss out what are the quickest wins that I could either help you with.
+06:31 Ideally, we're not building automations. I'm doing consulting primarily. But what can I do to increase the likelihood that you can get a win very quickly?
+06:40 Next one, knowledge. Where does your data live? Does it live all over the place? Does it live in one central repository?
+06:48 Is it completely disparate and scattered? If the answer is the last one, I already know that the third one. First exercise will not be an automation, it will not be a vibe coded app.
+06:58 Most likely. It depends on what it is. Most likely, the first exercise is getting your beep in order or your beep together so that you are eligible to even benefit from AI.
+07:10 If you don't have one source of truth, it makes it that much harder, especially if they are trying to automate or AI-ify a workflow where they're not able There are multiple touch points in that process that touch many systems or CRMs that all are basically half-baked in terms of how they're maintained
+07:27 and updated, and data gets stale over there. That alone, to me, I'm going to dive into that first. I want to see how bad this is.
+07:34 So myself, as the AI doctor, can provide a very honest diagnosis, and a lot of times I'll just be very blunt and say I don't think that this should be your primary worry right now, using this AI to be more efficient, because it sounds like your business is not efficient as it is in the way you handle
+07:51 your day-to-day transactions. So let's see what we can do to alleviate that as quickly as possible. And you can charge, if you want to be the person or the organization taking care of with us to go in the systems, make a data entry.
+08:06 If engineering plan, a data migration plan, if that is within your skill set, if that's in your interest, that could be an upsell for you.
+08:12 For myself, pretty messy, pretty involved also, and if it's not an enterprise, they won't have 100, 200K lying around for you to transform all their systems and to make it easier to implement AI.
+08:24 And just to extend the a doctor, if you look at the notes that a doctor will write, they'll say what the patient presented with, meaning what was their current situation, that's where you have the context.
+08:40 So in this case, you want to look at the, what they presented in the form of the five minutes you asked them about contextualizing their business, their pain point, their stacks.
+08:49 I like to get to brass tacks very quickly, and I like to quickly qualify. So I can increase the span of time that they feel like I'm helping them versus just being a therapist and hearing them out.
+09:00 Because if it is paid, you want to make sure that you're providing as much information density per minute time that you would want from, I don't know, someone like me, if you are paying me for my time.
+09:11 So let's say the, what they present with is they use AI individually, they have no integrations, They have scattered knowledge they're overwhelmed by options, they want AI to AI-ify everything in their organization, they spend days on LinkedIn looking at people misleading them saying, AI agent builder
+09:28 kills insert name of tool here. And they are being pulled in all kinds of directions. What they actually need, right, as the doctor, is they need a reality check.
+09:38 So, centralize your data, then pick, try, and find true solutions based on where you end up centralizing. Maybe you guys love Google Drive.
+09:48 Maybe Outlook and OneDrive, despite my hatred towards it, would work. Maybe it makes sense because Jim in sales actually has a relationship with Sarah at Dropbox.
+10:01 Maybe they move their entire stack or all the information to Dropbox. Now, Dropbox becomes, this neutral ground or bridge to the organization to take all that data that will not be stale, hopefully.
+10:13 And then you can work off of that. So now in a way, you have a blank slate as an automation specialist or an AI consultant that you can start to really ideate with them.
+10:22 Great. Now that this is taken care of, what are the tools that you can marry for this new world, this new stack?
+10:29 Most organizations, There's a little aside here. In the next two years, we'll come to this reality on their own. You might as well be the person letting them know now, because money is not just in terms of how much you invest in a tool, or a consult, or a project, or an engagement.
+10:45 It's also opportunity cost. So if you're ever pushed back on, yeah, but this might cost us a lot. We're not really budgeting for this in FY2026.
+10:51 They like to use those f- I would say, I'd kind of call BS on that. Did you budget for losing 200,000 hours of productivity time in FY2026?
+11:04 Because budgets can always be revisited. It doesn't matter if you think you closed your books, everything can be revisited, especially if eventually a lot of these companies will be on the brink because of what AI can do.
+11:14 So it's helpful not to be condescending, but to be firm and s-s urn about the reality of how fast this stuff is going to change, and if they don't do the basics now, which is just getting their house in order, this is going to be very painful later on.
+11:28 Alright. And by the way, the one last thing I would say is you can have an AIA engagement where you do an incredible job, like stellar.
+11:36 You killed it. But despite that, after you leave in six to eight months, it might fall apart. Maybe- Maybe the hero or the champion pushing this initiative forward to AIA, AIA, the organization deals with so much bureaucracy that they end up leaving, turning over.
+11:53 They have other parts of the organization where something catastrophic happens in the business. Focus changes. So, if you get a company's house in order, that is an evergreen and everlasting change.
+12:05 Meaning that's a win on its own, and it's likely to be a win that spans longer than just the AI win.
+12:12 So that's why I would really like to focus on the getting your house in order, and even if it takes you, subcontracting a data engineer or a solution architect to make your- your solution that much more robust and professional, then do that.
+12:28 I don't expect you to have my seven years- of data engineering experience to go into an organization, look at their database and say, okay, this is in shambles.
+12:37 It's more so, instead of worrying about hiring a developer to build automations, don't worry about the automations right now. Worry about just guiding them the right way and equipping them with the best information tailored to them possible to move the next step forward.
+12:51 Alright, so diagnosis process. So like I said- you want to map their tools, their common stack categories, so it could be Slack, Gmail, Zoom, understand where their comms is, understand, or rather, understand where their docs and knowledge are.
+13:06 Then like I said, I mentioned a few. If they have a CRM, what those CRMs are, use you when I hear things like HubSpot or Salesforce.
+13:16 Even though you might know what integration- integration. You also have to remember that these systems or platforms are only as good as the people that set them up, as well as the hygiene in which they use the tool.
+13:34 So many times we've found sales teams that use HubSpot. And the core question was, we want to enable sales to do better, we need more revenue, we need to make- their life easier on qualification and nurture and everything associated with that.
+13:47 And then you dive into their HubSpot, and you see that their salespeople are commenting their campaigns as zero, zero, one, date, week, that's it.
+13:57 Zero, zero, one, week, same week. Nothing's differentiated outside of, like, in brackets one, you know, when you copy paste the same file over and over again, and it adds this little suffix.
+14:06 Perfect. That's how some people's systems are set up. And even HubSpot, if you misconfigure or misset it up, you can already nuke your ability to get the value and potential out of it by just not having the system set up properly.
+14:22 So, I've personally made mistakes where I've made assumptions saying, oh, make that, sorry, HubSpot, that makes sense. Yeah, I know you can write a contact.
+14:30 You can update a contact app. This sounds all doable. And then you get into the system after they've signed the contract, you've gotten your milestone payment, and you dive in, and you're like, uh-oh, this is gonna be way more work than I expected.
+14:43 and then you regret the moment you accepted that strike payment because now they think that you understand the assignment, but you barely understand what's really involved in here.
+14:52 The next one is, if- if they have project management, where does this live? A lot of times, you'll find a lot of, money.com, saunas.
+15:00 If it's on some weird platform that doesn't have an API, which happens, I would typically recommend them listen. Are you able and willing to go somewhere else if project management is important, which most companies is?
+15:13 And then in terms of where their data lives, is it Power BI, is it Tableau? It's Is it Looker? Is it Hex?
+15:19 Is it a Google Sheet Empire? Surprisingly, sometimes it's easier to move off of a Google Sheet Empire than it is off of Tableau or Power BI, because some companies have teams, especially offshore teams in India, Pakistan, Bangladesh, that will build all the Power BI reports or Tableau.
+15:36 And you'll have 80% of the company using reports that con- on. Contractors are building offshore, and no one really has an understanding of the data integrity, the solutions, how Power BI is even set up.
+15:49 And if you try to sever that relationship to migrate it elsewhere, some political things can happen, where that offshore team then holds the company hostage by not giving them all the rights to their own data.
+15:59 Things can get messy. So that's why I kinda like dating. I think I've given this analogy before. I used to- to go on a date, and if I was doubtful of the person I was on the date with, I would make it 15 minute coffee meetings.
+16:13 So, if things were looking off, or I knew there wasn't a fit, I could walk away. my stomach could hurt.
+16:19 I could have a meeting at work. I could have all of these hypothetical or real scenarios pop up. Within the same thing, this discovery call is your coffee chat.
+16:28 and to have and you in that, this is where you look for red flags. Now, having an offshore team manages is not necessarily a red flag, but this is an area where you can look at it and say, okay, let me just dive in a little bit deeper.
+16:39 let me see the dynamics at play with this specific feature. Then you have, if applicable design and creative where that lives, a lot of companies use Figma and Canva, luckily things like Figma, I'd rather, have natural connectors, MCP servers.
+16:55 There's a lot of infrastructure that they're building. I think Chatsubitee just released apps that have Canva built in, especially Figma, which a lot of them use.
+17:03 So this will be very helpful as well. And then you want to ask in terms of if it's applicable again, if they have development in their company, what dev tools they use, do they use GitHub?
+17:14 Or I've worked in companies where they use something called b- bitbucket, which is more internal. If it's more internal, that just means that you have to get your hands dirtier.
+17:22 If, cult code is involved, if vibe coding is involved, GitHub is just more out of the box, more straightforward. But if you go on a developer's profile, 99% of the company's repos are private, right?
+17:33 So there's just some stuff here that even if you hear the words GitHub, you just nod your head. It's, there's more behind that.
+17:40 And just the tool itself. How are they using the tool? How are they implementing the tool? If it's Vercel versus Netlify, why are you using Vercel?
+17:48 It's just kind of like a convenience thing. You're comfortable with it. Does the pricing make sense for you? Superbase. Amazing.
+17:54 Are you married to that? How many tables do you have on the Superbase? Do you just start using it because, I don't know, lovable came out and then had it hooked up and that became, in your source of truth?
+18:06 And then if it's Firebase, which can sometimes be a garbage truck on fire, depending on the scope of the automation or the build, are you willing to migrate from Firebase into a better place?
+18:17 Like, there is another database as well, other than Postgres SQL. I think it's called, Convex. Convex is kind of a competitor to Superbase.
+18:25 It's basically a, very AI agent-friendly database. Superbase is as well, but, I find, I'm increasingly finding that a database like that is pretty solid for future-proof use cases.
+18:39 But anyway, it's good to know all the stack as well as meeting and calls. So they use Fathom, they use Gong, they use Fireflies.
+18:47 And the reason I'll ask this again is over time, you'll, realize that there's also a pattern in tools. So Fathom doesn't have a native API that you can just call.
+18:57 And they've only integrated with Zapier. That's why sometimes you will need Zapier, even if you are an N&N person, because Zapier will have the native integration.
+19:04 You can't do anything about it yourself, you can send a ticket to Fathom. But until they come up with their own native integration and make, or N&N, you have to use the, Cool, if they want the automation involved.
+19:17 Now that you can bring it in in different ways, you can use Zapier MCP. and then link Zapier MCP to N&N if you want to.
+19:23 There's all these ways you can MacGyver it. But it's good to know and build a mental repertoire over time. As you recognize tools, ah gong.
+19:31 Yeah, gong I know you can do on make, Zapier, and N&N were good. Or, you know, chorus. I don't know if that has an API.
+19:38 Fireflies. Oh, cool. Fireflies has a native MCP server that you can integrate anywhere. And you can even bring it into Chat GPT, which I have myself right here if you go to Chat GPT.
+19:49 And you go into, let's say, sources. And then right here, Fireflies. And I added it in dev mode. That came like a month ago.
+19:58 For me, like, Fireflies is, my go-to for- a lot of things, but you want to meet them where they're at.
+20:04 So the whole point of this is you want to identify gaps. Is the data organized? Usually no. Are the processes clear?
+20:10 Usually no. This is by and exists sometimes. Is the budget defined? A lot of these budgets depend on severity and urgency.
+20:19 And as well, if they are venture capital backed, or angel investor backed. And VCs just want- on things to go faster.
+20:27 So if AI will make it go faster, which the majority of VCs worship AI like a god of its own, then budget can magically appear if the use cases warrant it.
+20:38 Technical skills is good to know. Do you have anyone, I like to call them a friendly, like an worried comica?
+20:44 Not friendly fire, but someone that is on your team aligned incentives with you. Do you have a technical team? Yes.
+20:52 Does that technical team know anything about X? No, okay. Can your technical team help me provide access to certain systems?
+21:00 Because sometimes just getting an API key or getting approval for a seat for someone that's not technical or involved in the process will take a week on its own.
+21:08 The relationship will become more stale. the clock already starts on the- on their side. Whereas for you, it just starts, like, bleeding on your side, but nothing's actually changed for you.
+21:18 So if you have a technical ally or allies on the other side of the table, it'll just make you upgrading or onboarding yourself onto their stack that much more easy.
+21:29 And that's it for this one. We will go through in the next one on common scenarios that pop up and how to handle them.
+21:35 you

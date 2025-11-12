@@ -1,0 +1,516 @@
+Post Content:
+I made this second last module a special one. The secrets to how I teach any audience.
+Teaching is acquired through reps, feedback, and stimuli. Not talent.
+37 minutes on the workshop structure that captures attention from minute one: the airplane analogy framework, using silence as a weapon, why you need 50 slides for a 30-slide presentation, and how introverts survive radio-silent audiences.
+What you'll watch:
+- The 5-part framework: Sell the dream → Show the path → Announce the flight plan → In-flight service → Land the plane
+- Why 80% of your audience is unaware but the hook determines if they stay
+- The Machiavellian silence technique for forcing participation
+- Over-preparing content for cricket audiences
+- Industry-specific examples as client magnets
+- Slide density rules and visual structure
+The core truth about teaching:
+Teaching is a skill like everything else. It's acquired through reps and feedback and stimuli.
+Most of the times, the majority of the audience you'll be speaking to is unaware of 80% of what you're gonna teach. But if you don't capture them in the hook, you lose them.
+The hook window: First 30 seconds to a minute. That's when you grab attention or give the plans so they understand what's in it for them if they stick around.
+The unpredictability problem: On YouTube people know the video is 8 or 38 minutes. But a presentation is unpredictable. The likelihood someone loses interest is very high.
+The 5-part framework:
+Part 1 - Sell the outcome (sell the dream):
+Not in context of sales. Paint the picture: If you listen to me, even if you don't like the way I look or the way I speak or both, this is what's in it for you. This is what you'll be able to hopefully do after I'm done speaking.
+Part 2 - Walk through the path:
+People need a map of where you'll be going, how you'll be transitioning them through novice to intermediate or advanced—whatever the scope of the workshop is.
+Be flamboyant and brash: Listen, I'm not gonna show you something you can just watch on YouTube. I've tried to distill all XYZ knowledge in the easiest way that you specifically will benefit from.
+Acknowledge their assumptions: I know all of you are probably thinking about these main pain points or this is the way you think you should use AI. But this is probably where you have to use AI and why some of those don't actually matter.
+Clarify and quantify: Step by step why this is the case.
+Part 3 - Announce the flight plan (the airplane analogy):
+Like a pilot announces: Today we're flying at 50,000 foot views, negative 23 degrees outside (you don't hear the muffled sound but in this case they should hear the specific agenda).
+We're going to move the next 10 minutes. Then we're gonna go in flight. Then we'll have in-flight service. Then there'll probably be turbulence one or two hours in.
+Why this works: Conditions you as a passenger to not be shocked. If you suddenly feel turbulence (analogous to teaching), if you're going through a very rough part where you know nine times out of 10 the average person would lose interest, you want to bring that up front.
+Example warning: I know you all hate coding or might not enjoy seeing code on screen. But around one hour in, I'm going to quickly but surgically and precisely walk through a technical part that if you don't understand, the rest of this is useless. But depend on me. I'm going to make this as digestible as I possibly can.
+Acknowledging everything upfront: The passenger on the flight is less likely to be shocked or surprised.
+The disclaimers (health and safety demonstration):
+Walk through assumptions: Listen, I'm going to assume you've used ChatGPT at least once before. If not, you can ask me a clarifying question throughout, but my base here is I'm assuming you've written some prompt.
+You've automated writing an email even if that email was kind of trash. You've at least tried to create an image, whether that's a Ghibli image or an image of yourself holding a unicorn. You've at least tried XYZ feature.
+Apply this to whatever you're trying to teach.
+Part 4 - In-flight service (retention through golden nuggets):
+On YouTube, retention is the game of games. You have the hook that gets someone to click, but then retention is a series of golden nuggets you plant throughout the presentation to keep people's interest, attention, and wanting more.
+The show-first strategy:
+Common thing I do on YouTube: Show the end result first in the first two minutes.
+Hook → This is what I'm trying to do. I'm going to show you how we can do X with Y.
+Now before I even walk through how to do X and Y, let me walk through the end solution. Walk through the final outcome.
+If you click on this little thing in n8n and you can click on execute workflow, watch what happens. Boom boom boom boom boom.
+As the viewer, you get satisfaction that okay clearly this thing works.
+Then: Great, now that I've shown you this works, now I'm going to show you how this works step by step.
+Result: I've already created some level of retention. I've dropped a little golden nugget and I'm validating that it's worth your time being here.
+The retention drop reality:
+Four to five minutes in: Look at any retention graph, even if you're not a YouTuber. Go on Google Images and put on YouTuber Retention Graphs.
+You will see dwindling after minute one, two, three, even on the most famous videos. Videos with millions of views will have retention graphs if you're lucky between four to five minutes.
+The solution: Keep giving nuggets. Plan out when you'll have your cool nuggets.
+Example nuggets: Did you know you could actually do this in ChatGPT, or you could do this in Claude? If you connect your connector and it does this to Claude AI, you can actually accomplish ABC.
+Drop those every couple minutes. That's what keeps people's retention.
+The 80/20 attention rule:
+When you have parts where you're explaining, 20% of people are actually listening to you. 80% are staring at your mouth or thinking about what they want to eat tomorrow.
+That's where you want to really recapture the audience over and over again.
+The blunt check-in:
+Depending on how comfortable you are with teaching, be blunt: Listen, am I just moving my mouth or is this actually helpful for people? Give me a silent nod if this is helpful, just so I know there's a pulse on the room.
+When you say stuff like that, you'll get some wry smiles.
+The hardest scenario: Teaching workshops to cameras off, 150 people with like three people on cameras, and me saying any questions with like a long 30 second silence. Those are the hardest ways to manage a workshop.
+The independence principle: Sometimes it's going to be out of your hands. You have to learn the skill of not requiring external validation for every single thing you do.
+When I do get participation, when people are nodding and smiling and asking questions, that just makes me a better teacher because I feed off of that energy. But the trick is you don't make your energy dependent on the audience you're teaching or speaking to.
+Part 5 - Land the plane (the conclusion):
+Just as important as you begin and you're very explanatory and explicit in where we're gonna go, how we're gonna get there, and what are we gonna use to get there—you also wanna conclude recapping what is it that you learned, and how they could apply this, and what could happen next, and that you invite questions.
+This process: Pretty straightforward. If you master this, then all kinds of lectures and workshops will become easier.
+The deep dive framework:
+Pre-workshop design:
+Know your avatar:
+- Who are they?
+- What are their role and daily responsibilities?
+- Are they an analyst? Are they C-suite?
+Those are two very different audiences. C-suite like to be focused on ROI and very high level. If you're going through n8n, you would less likely explain what a curl request is to C-suite versus an analyst, because an analyst is meant to go into the weeds. C-suite is basically trying to design what the forest looks like.
+The key question: Do they want to be here or were they told to be here?
+Also very important. If a company's mandating that their employees upskill themselves and they're all having to be here instead of doing something else or they're cancelling meetings or pausing their work—you're already going to have an audience that's looking at you with a blank stare, mad at your existence.
+What you can do: At the base case, all you can do is outperform their expectations.
+If they're told to be there, there's going to be higher resistance to them wanting to listen to you. I'll probably show more magic tricks in that workshop than the one where people want to be there.
+People that want to be there probably want to learn first principles. They want to learn foundations. You want to be able to double click on that.
+Address fears directly: People are there and they're worried, potentially subconsciously, of losing their job. If they don't learn this stuff, you want to acknowledge the fear.
+Say things like: Someone using AI is going to replace you (even though that's kind of cope in my opinion for a lot of things). You might want to say that or acknowledge it.
+Or if it's true: Let's say AI can do 80% of what they do but they're needed in the last 20% or the last 8%. A human's still needed there.
+What's in it for them: Listen, I know things sound scary. AI's kind of overhyped a lot of things. So maybe acknowledge things that make them feel better because AI is overhyped. Generative AI is not the solution to all problems. It's the solution to a lot of problems, not all problems.
+Content planning - The over-preparation rule:
+Design 100% of the needed content.
+This is something I learned a long time ago when I used to teach lectures at university, when I used to teach for my public speaking course, anytime of being a teaching assistant.
+The burn scenario: There's a few times I've been burnt where I've gone from having classes—and I've had thousands of students now—I've had classes where people are talkative or they're at least medium level talkative. So time flies, and the same content that got me through class one, two, and three, I expect to get me through class four.
+But once in a while: You'll encounter an audience, a class, or people around the table that are radio silent. They give you no stimuli, no feedback, or validation that you're doing a good job.
+The insurance policy: If you think it's going to take you an hour to deliver 30 slides, I make 50 slides. I like to have the insurance policy that if I'm getting zero back in terms of participation, even if I feel like I'm doing a good job, I want to make sure I can persist until the end.
+Why this matters: The people hiring you to teach are paying you for that time. You want to make sure you don't end up 40 minutes in and you have nothing left to go.
+The awkward reality: That radio silence hits different when you're done, you got nothing, and you're praying and you were betting that questions would arise, and nothing has arisen.
+Always over-prepare on the amount of content.
+High engagement: Time flies, you have many questions. Questions can fuel really good discussions.
+Low engagement: It's helpful and productive to assume that the room you're going to walk in is going to be full of crickets. If it's the inverse of that, you'll just be happily pleased, which is awesome.
+The Machiavellian silence technique:
+Use silences to your advantage. I've learned a lot of Machiavellian techniques when it comes to teaching and negotiation because it's very helpful.
+When you command silence and you use it as your weapon, you can make people uncomfortable.
+The trick I like to use: Let's say I'm dealing with a radio silent crowd that non-verbally I can tell, outside of this room they would be talkative. Meaning they're not mute, they're not super introverts, they just either don't want me to exist or they were forced into that meeting to begin with.
+If I know I want participation: What do you guys do in the day to day that offers you that 80-20 where you feel like automation could be helpful? Because I want to make sure I can tailor my examples to you.
+I will stay silent and I'll wait for 15 seconds. Because after 15 seconds, people look at you to see if you crack under the weight of the silence.
+What I like to do: After 15-20 seconds, I'll say, listen guys, I've done this hundreds of times before (authority play). I can stay silent for the next 10 minutes. So we can either stay silent or you can offer me what you think. And don't be shy about perfecting it. I just want some stimulus.
+Then I'll go silent again for 10 seconds and I'll smile.
+The weight of that silence will force somebody, nine times out of 10, to respond.
+If they don't: It is what it is. I'll basically play it off. I'll joke and say wow okay I'm going to send you guys a liter of coffee stat. Maybe I'll try to get a smile or a smirk or something.
+If that doesn't work: I'm just going back at the content and I'm going to shield myself. If it's that bad, I won't ask for participation again. I'm just going to keep rolling.
+What happens: Now the managers might get embarrassed that their employees or whoever's in that room is not engaging with you despite you attempting to engage with them. So they might hop in, they might force their own employees to participate.
+It depends: You have to read the room and you run with the room. It's a dance. You have to dance with who your dancing partner is.
+The rules: Never rely on audience to fuel your workshop energy.
+Opening structure - The creative element:
+Notice how I opened this specific video. I didn't just walk into the Excalidraw and the text and the words. I created some images on Gemini 2.0 that I was thinking about.
+The question: How could I best explain how to explain things to an audience? How would I create an analogy that would bridge the concept so you can always refer to that analogy?
+Why this matters: Not everyone's going to be at your experience level or even your competence level. So how do you make your opening and your hook so approachable, so rated E for everyone, that everyone can feel like we're all at the alignment step or we're all at the same step when we start?
+You can't control: Whether they'll be able to keep up with you. You can increase the likelihood that the majority end up at the destination with you by the words you use, the inclusivity in terms of your examples, the analogies that you use that hopefully relate to what they do.
+Industry-specific examples: If it's a hedge fund, you talk about creating DCF evaluations. If it's real estate, you talk about building listings and the time between someone submitting an inquiry and you responding to it. You want to create the examples to be at a ground level.
+Non-traditional hooks:
+My best presentation I've ever done: This was to hundreds of people. Although I had a lot of reps at the time, I was still nervous.
+The setup: I had a picture on the screen. I made sure that the organizer of the conference kept that picture on the screen for 15 minutes before I even went up on stage.
+I wanted people to wonder what that image was. I made sure it was so abstract and seemingly unrelated to the presentation I was delivering that in a way, people that would be non-participating or wouldn't care about my existence there kinda just cared out of curiosity on how does this image relate to what this bozo is about to say on stage.
+I love that. Because that means in the first 30 seconds to a minute, if I execute well and I don't stutter or stammer or say ah or umm, and I deliver with precision and surgical accuracy, I've captured the audience.
+The payoff: I've already pre-captured you because I've made an analogy and you even wanna give you the analogy that explains why the picture relates to how we are going to go through this journey today. You're gonna wonder how is he gonna land this plane?
+The open loop: I even leave that as this open loop that most humans need to close open loops.
+The future-proofing reality:
+In the next 12 to 18 months, we're gonna have things like HeyGen that are so good and so perfect that you'll be able to create lectures at scale. You'll be able to do it as a company and do it internally. Just clone the CEO and have him teach you or have her teach you how to write prompts.
+The question: So how will you stand out as a presenter, as someone that is coveted to speak and teach at workshops? This is one of the many ways you can do that.
+Creative element options for presentations:
+- Before and after image that could be a hook
+- Unexpected visual
+- Provocative data point that you just keep on screen
+For automation workshops: Run a live 18-node automation. Start off clicking the n8n workflow or the Make workflow and you have things spin. While it's spinning (assuming it works, make sure it works a hundred times): See this will run and by the end of me giving you my introduction to the presentation, it will complete XYZ task. For years you have probably had to do this manually.
+In this workshop I'm going to walk you through without being boring how we can go from zero to automating something like this so that by the end of a minute or the end of your coffee break, this task is completely off your plate and you can focus on things that matter.
+Bonus points and brownie points: If you can time the automation to stop running by the end of your hook. But that's more advanced showmanship.
+For AI training: Live AI solving their problem, real use case transformation, an immediate wow moment. Similar to what I do on YouTube, show the final outcome, the glamorous golden spotlight on the outcome.
+The purpose: Get buy-in from the first word, especially for reluctant attendees—those who don't necessarily want to be there, hate the AI, buck against the word AI—and you want to get their buying.
+Set the tone: Show the outcome, answer the questions. What will they learn? Why does it matter? How does it help them? What will they take away?
+Obsess about what they will get. Why? Because attention is one of the last things that people have an abundance of or a lack of an abundance of at least. They want to be very judicious on where they spend their attention dollars.
+The so what slide: I like to always have a slide sometimes that says SO WHAT. Which is like, why should you care to listen to me for the next 36 minutes? Then I walk through boom boom boom boom boom boom. This is why.
+Ideally you want to make sure those points are salient enough that they have that buying as well.
+The agenda structure:
+Bad agenda: Topic one, two, three, four
+Good agenda: Topic name, why we're going to go through this topic, and it leads to topic two
+Show interconnectivity: Between the subjects you're going to go through step by step. And that if they miss a part, they're going to miss out on the continuity. If they miss out on the continuity, they won't get the point or the golden nugget you're offering them.
+You're weaving in: Your strategy of retention with offering value and golden nuggets with making sure that you capture and keep as many people as possible.
+Content structure layers:
+Foundation:
+1. Outcome (your why)
+2. So what
+3. Actual content and examples (more examples the better)
+4. Recaps
+Foundational layers:
+1. The what (what we're doing today)
+2. Why (why we're doing it)
+3. How (how we're doing it)
+4. Analogies breaking down complex concepts
+The example strategy:
+Instead of 30 slides, make 50 slides. A lot of those slides, I wouldn't make brand new content. I would make more examples about my existing content.
+When I think about examples: I think about it as increasing the surface area and increasing the chances that someone gets to stay between your different parts of your presentation.
+More examples gives you the opportunity for more hooks.
+Example types:
+1. Generic example that everyone understands
+2. Role-specific example (how an analyst would see themselves in the room, how a C-suite person would see themselves)
+3. Industry-specific example (being very inclusive)
+4. Big picture example
+5. Day-to-day examples (what their actual work looks like)
+The result: Multiple entry points for people to engage with your content.
+The client magnet effect:
+One thing I noticed a lot on YouTube: If I make an example using n8n, especially when n8n views were frothy, if I spoke about making an AI agent army in real estate, nine times out of 10 the people that would join the community and book paid calls and paid consults would be from real estate.
+People will resonate with examples that apply to them and assume you have expertise in that area.
+Real feedback I'd get: Oh you made a video when you included something about record labels. We are actually a record label. So we'd love to engage with you because it's great to speak to someone that kind of gets our world.
+I started realizing: Interesting. So if I want more clients in finance and hedge funds, I should give an example in hedge funds and high finance.
+What do you know: Especially in the last couple of months, we have a decent number of clients or consults that have been in high finance, hedge funds, M&A strategy funds, etc.
+You get what you give. This is very intentional.
+Delivery techniques - Addressing resistance:
+Know when they're scared. If you have that law office example plus AI training, they probably fear you. They might want to hate you. You threaten their livelihoods.
+Your job: Acknowledge this and spell that out. Listen, you're going to be needed because there's so many edge cases and fringe cases. LLMs are in their own right very prone to hallucination.
+Cool the audience: Maybe show a couple memes from Twitter or X of LLM having major fails. Someone says can you fix this color in my codebase and it destroys the whole codebase? Go through three or four quick memes and screenshots to lighten the mood.
+The reassurance: I don't think that this stuff is going to take your job, at least hopefully not, but at least not now. But look at where it's failing. So you're definitely needed. If you stick with me, I'll make sure you are as superhuman as possible so that you have an edge especially around all other law offices and all other analysts.
+Bringing from shadows to light: Say what people are thinking out loud. This has been very helpful for me not only with presentations but also negotiations.
+Reading non-verbals: Especially when you start to read non-verbals (with Zoom it's a lot harder), but I usually try to get the person that is buying my time to teach or provide a workshop to make sure their people are on camera.
+I will basically pick on people using non-verbals. Is someone like wincing or thinking too hard or they're back in their chair meaning they're probably not engaged?
+I might try to call them out and make them uncomfortable: Hey sorry, who's that one in the back? The one with the beautiful blue blouse? Oh that's Jeremy. Jeremy, I just want to double check, am I losing you? Am I putting you to sleep? I want to make sure this is engaging for you.
+You catch someone off guard. People start to nervously laugh. Then you pull on the thread of that nervousness and try to get something out of it.
+It's kind of like a comedian: Comedian will go on stage and they have all their bits already organized and lined up. But they will try to pull on certain people. Sometimes they even plant people to make sure they can look like they're pulling from the audience.
+Doing that takes them: From a 2D human on screen or 2D human in person to a 3D human that people feel like okay he kind of gets us, he's more than just a teacher or professor or workshop instructor. There's more to this person.
+Example could be: I know some of you might be thinking AI will replace your job. Let's talk about that directly.
+Watch for: Smiles, nods, relief on faces, body language shifts. When you see it, that's your hook. That's when you reel the—that's when you ask follow-up questions and you get them engaged.
+Question cadence strategy:
+Stop for questions regularly (assuming you're dealing with a normal audience). If it's just pure crickets, then you want to reduce this on the fly.
+Ideally every 5 minutes if people are invested. If questions flow, keep the momentum.
+I would rather not finish my presentation nine times out of 10 versus not having questions. If I have questions, end of the day, you just need the organizers of the event or the workshop to feel like their people derived value from this. That is the only really the core metric.
+Usually you don't have someone with a stopwatch watching the number of slides saying ah you only got through 20 of the 32 slides, we're not going to pay you. That's never happened and likely wouldn't happen unless I either was awful or I had a brain aneurysm during stage.
+But if it's because people were asking questions, no one will blame you for that.
+Low engagement adjustments: Make it more sporadic, every 10 minutes. After complex topics, acknowledge things.
+I know this is complex. What questions do you have?
+I don't even say do you have any questions? I'll say you have to have some questions. There's no way on Earth unless everyone here has a 200 IQ and you've done this before, which you said at the beginning you haven't done this before.
+I'll also use the responses against them to provoke engagement. What questions do you have? Then you do the whole silence thing.
+I can wait forever guys. I can be here for like three minutes pure silence. I'm an introvert by nature.
+Then you might get nervous laughter, you pull on that, you wryly smile.
+If it's crickets after all that: You gotta know you just push through your content. You know it's not gonna be a fireworks show. It's gonna be you completing what you set out to do.
+Reading the room - Three cameras on scenario:
+If you have 150 people on call, three people are on camera, only three people speak, everyone else is silent—your content dance is gonna be your main priority.
+Ideally you're gonna have to keep steamrolling and knowing that you're not gonna get validation or some wow that's cool or a good job throughout the presentation. That's a muscle that you train.
+Just because I've told you this doesn't mean it will apply. All of us kind of want some validation that what we're saying is landing with people. When we're deprived of that it makes us upset and sad and makes us feel useless.
+But if you have that stimuli: Similar to how when I post something in the community, the reason why I do all these courses and build in public is not just so I can get some cheap engagement. It's more so so that you are invested in the course.
+You influence the direction: If I see more love for one thing versus another, that will steer what I thought was gonna be lecture 14 or 15 or 17 because I know this is landing more with people.
+Same concept. Everything I'm telling you to do, I apply myself in every single way that I teach.
+Energy management for introverts:
+Don't rely on:
+- Audience validation
+- Visible engagement
+- External energy
+Because you'll feel like you're not doing your job.
+Rely on: The quality of your content. Think through how can I make this content so easy that the majority people would be able to understand it in one shot?
+If you need to: Prepare your hooks, prepare how you're gonna go through things, especially if you're not as attuned to speaking.
+I'm so used to speaking: That I can do this staring at my Mac camera alone in this frigid basement and just keep yapping forever. Also a lot of this knowledge has crystallized. While I prepared this Excalidraw and the images, I was subconsciously thinking through how I'm gonna frame everything I'm presenting to you right now.
+That's why I can be a Yappasaurus Rex machine.
+Sample presentation structure:
+Slide 1: Title, your topic and your hook, who it's for, session number if it's a series
+Slide 2: What we'll cover today (3-4 main modules, brief description per module, connect the entire journey)
+Next slides: Section divider slides
+- The problem (current state of affairs or what they might be encountering in terms of pain points)
+- The solution (what we'll learn and why it matters, the so what)
+Module content pattern:
+1. Concept slide (what's the concept, here's the definition)
+2. Next, when to use it (some form of key insight or golden nugget)
+3. Before and after slides (common mistake, why something fails and the after, why your idea is the genius better approach and why it works)
+4. Example slide (applying it in action, don't just talk about things, exhibit and demonstrate things)
+People will remember the example and work their way to rooting back to the concept, not the other way around.
+Technical deep dive: How it actually works, the architecture of how it might work without getting technical.
+Example: If someone's never seen an automation tool before, never seen a no code tool, and I'm just showing them the sorcery of me clicking play or execute workflow and this whole thing runs—they might be so far removed from me we're not even in the same plane of existence and understanding what n8n is.
+I might want to be able to have:
+1. What is n8n?
+2. Why should you care?
+3. Why n8n versus something like Zapier or Make.com (at least for maybe that company, assuming that is the best choice)
+4. This is what's happening behind the scenes technically
+All of these no code tools are just code. It's just the way they're being hosted is on some server with a nice little puffy cloud. They are just Lego blocks or different parts of a board game. I've already taught a lecture or YouTube video on how I make n8n analogous to a game board.
+Using those examples will make things a lot more digestible. It gives basically people this railing to hold on to, especially if they perceive your presentation not as the beautiful cruise ship where it's nice and smooth sailing, but as a sailboat where they're constantly holding on to keep up with you.
+You want to lower the chances: They perceive this as a sailboat in a storm. You want it to not be a storm. You want it to be calm winds.
+Common mistakes slide structure:
+Mistake one: Why (go through why it's bad, multiple steps)
+Then: Instead, the right approach. You want to basically ideally call out a couple mistakes, the couple mistakes that they really care about, and then focus on the after. What would you do instead?
+Advanced techniques slide sequence:
+1. Concept introduction (what it is)
+2. Why advanced (when is it needed)
+3. Framework (visual breakdown, components, how they connect)
+4. Real implementation (actual example with metrics and numbers, expected outputs shown)
+5. Edge cases (what's the exception to the rule you're telling them is a rule, what could go wrong and how should they handle it)
+6. Integrations and everything around that
+Every few minutes: Have that nugget.
+Presentation best practices:
+Slide density: Information rich but scannable. Use bullets, sub-bullets to your advantage.
+I like more minimalistic slides than ones with tons of text.
+The dependency rule: If you have text on the slide that if someone read the slide they would know what's about to come out of your mouth, then either you or the slide is not needed.
+You need enough on the slide: That it can complement what's coming out of your mouth. But you want to make sure the audience (assuming we're dealing with slides) is dependent on you to exist to deliver the information, not the slide and you saying the same thing.
+That's where you get lack of engagement: Someone will speed read like me and be like okay I can turn off my ears now.
+Instead: Common mistakes, major failures, and then just enough that I know what you're talking about but not enough that I can auto fill the rest of the point.
+Visual markers:
+- Good approach, bad approach
+- X's versus check marks
+- Using color to advantage
+- Putting divider slides
+- Putting problem statements
+- Transitions
+Workshop timing breakdown:
+60-minute workshop:
+- Opening: 5 minutes (setting foundation, not hook)
+- Module 1: 15 minutes
+- Module 2: 20 minutes (the meaty one, lot of sauce is there)
+- Module 3: 15 minutes (more ADHD friendly because if people focused on module 1 and 2, their attention span must be waning, especially if there was no break in between)
+90-minute workshop:
+- Opening: 7 minutes
+- Module 1: 20 minutes
+- Questions: 5 minutes
+- Module 2: 25 minutes
+- Questions again (assuming we have level of engagement that would warrant questions)
+Design checklist:
+1. Walk through the outline
+2. Write more content than you need
+3. Visual structure (try to have some form of consistency throughout, have same theme through)
+4. Bonus points: Make the theme or colors of slides related to the actual company's logos (feels like it's being done internally instead of someone from the external)
+5. Have backup slides (appendix that you can revert to if you feel like they're not liking the direction you're going, assuming you have time to do so)
+The final framework value:
+All of this together will hopefully allow you to build presentations, workshops, walkthroughs that are engaging. That they can't just get on YouTube. That requires someone with distilled knowledge and the ability to deliver said knowledge to take a point from A to Z.
+Creating and delivering workshops not only makes you a better speaker, a more confident negotiator, but most importantly it shows crystallized knowledge.
+If you can teach it, people can assume that you can build it. So if you want to be able to do service delivery on top of service education, then you can do both. This will help strengthen your position to do so
+
+Transcript:
+00:00 So teaching is a skill that like everything else is very much acquired and it's acquired through reps and feedback and stimuli.
+00:07 But in this video I'm gonna walk you through how I structure teaching so that people can learn as easily as possible and you can take this mental model or series of mental models and you can apply it to setting up your own AI workshops.
+00:20 Most of the times the majority of the audience you'll be speaking to is on a where of 80% of what you're gonna teach.
+00:27 But if you don't capture them in the hook, and the hook is just like on YouTube, you have the first 30 seconds to a minute.
+00:34 And that's when you grab the attention or you give the plans so they understand what's in it for them if they stick around and not watch the end of the video but watch the end of your presentation.
+00:45 On YouTube people know that the video is gonna be eight minutes. it. Or 38 minutes. But a presentation is unpredictable.
+00:52 So the likelihood that someone loses interest is very high. I'm gonna show you, in this case, what I do in terms of the core five things of how I manage a presentation or a workshop to increase the likelihood that people make it to the very end.
+01:06 Now the number one thing I'd like to do is to sell the outcome or sell the dream. So this is not in the context of sales.
+01:12 and we'll see you in in the next few I like to paint the picture of if you listen to me, even if you don't like the way I look or the way I speak or both, just, this is what's in it for you.
+01:22 This is what you'll be able to hopefully do after I'm done speaking. And then the next part is walking through the path.
+01:28 People need a map of where you'll be going, how you'll be transitioning them through a novice to an intermediate or advanced- whatever the scope of the workshop is.
+01:39 And you want to be very, ideally flamboyant and blasey and saying, listen, I'm not gonna show you something that you can go just watch on the YouTube video.
+01:48 I've tried to distill all XYZ knowledge in the easiest way that you specifically will benefit from. I know that all of you are probably thinking about these main pain points or this is the way that you think you should- to use AI.
+02:01 Insert where you think they use AI. But this is probably where you have to use AI and why some of those don't actually matter.
+02:08 But again, if you stick with me, I'm gonna walk through step-by-step why this is the case. So you clarify and you quantify exactly how you're gonna walk them through this brand new concept.
+02:18 And you'll see here I'm using an airplane analogy. So we're going from planning the destination and talking about the beach.
+02:24 . We're gonna end up to talking through the flight plan like you would on a plane. And then like a pilot would, you have the announcement where someone says today we're flying at 50,000 foot views or whatever.
+02:36 And then there's negative 23 degrees outside. And then you basically don't hear the muffled sound. But in this case, they should hear the specific agenda.
+02:44 So we're going to move the next 10 minutes. Then we're gonna go in flight. Light. And then we'll have in flight service.
+02:50 And then there'll probably be turbulence one hour or two hour in. This thing really, it just conditions you as a passenger to not be shocked.
+02:58 So you suddenly feel turbulence, which if we make that analogous to teaching, if you're going through a very rough part of the workshop where you know that nine times out of 10, the average person would lose interest, you even want to bring that up front and say listen.
+03:12 I know you all hate coding. Or you might not enjoy seeing code on screen. But around one hour in, I'm going to quickly, but surgically and precisely walk through a technical part that if you don't understand, the rest of this is useless.
+03:26 But depend on me. I'm going to make this as digestible as I possibly can. So communicating that up front is super important because if someone knows, you're going to- go on the technical path and you preface it saying, listen, I feel you probably don't care.
+03:42 I know you probably have a bunch of work to do if it's a nine to five employee in a company that you're doing a workshop for.
+03:47 When you acknowledge everything up front, the passenger on the flight is less likely to be shocked or surprised. Next one is disclaimers.
+03:57 So that's similar to the health and safety demonstration. Administration? You always have is you walk through, listen. I'm going to assume that you've used Chats of T at least once before.
+04:07 If not, you can ask me a clarifying question throughout, but my base here is I'm assuming that you've written some prompt.
+04:13 You've automated writing an email, even if that email was kind of trash. You've at least tried to create a image, whether that's a ghibli image or an image of yourself holding a unicorn.
+04:24 You f least tried XYZ feature. Again, apply this to whatever it is that you're trying to teach. The next part is the in-flight service.
+04:33 On YouTube, retention is the game of games. You have the hook that gets someone to click, but then retention is a series of golden nuggets that you plant throughout the presentation or throughout the video per se to keep people's.
+04:49 Interest, attention, and want them, like, wanting more. So, a common thing that I do on YouTube is I will show the end result first in the first two minutes.
+04:59 So, hook, this is what I'm trying to do. I'm going to show you how we can do X with Y.
+05:03 Now, before I even walk through how to do X and Y, let me walk through the end solution. So, I walk through the final outcome.
+05:11 So, if you click on this little thing in any day, and you can click on execute workflow, watch what happens.
+05:15 Boom, boom, boom, boom, boom. So, now, as the viewer, you get satisfaction that, okay, clearly this thing works. And I'll be like, great.
+05:22 Now that I've shown you that this works, now I'm going to show you how this works step by step. Now, in doing that, I've already created some level of retention.
+05:30 I've dropped a little golden nugget, and I'm validating that it's worth your time being here. Now, the next part is for minutes in, or five minutes in, when you look at any retention graph, even if you're not a YouTuber, go on Google Images and put on YouTuber Tension Graphs.
+05:45 You will see dwindling after minute one, two, three, even on the most famous videos. I'm talking videos with millions of views.
+05:52 We'll have retention graphs if you're lucky, between four to five minutes. The key is to keep giving nuggets. So you want to also plan out, wh- when you'll have your cool nuggets.
+06:02 So when you say, did you know that you could actually do this in chat with you, or you could do this in Claude, if you connect your connector and it does this to Claude AI, you can actually accomplish ABC.
+06:13 You want to drop those every couple minutes, because that's what keeps people's retention. When you have the parts where you're explaining, where 20% of the people are actually listening to you, 80% and they're staring at your mouth, or are thinking about what they want to eat tomorrow.
+06:30 So, that's where you want to really recapture the audience over and over again. And depending on how comfortable you are with teaching, you want to be also blunt in saying, listen, am I just moving my mouth, or is this actually helpful for people?
+06:44 It's going to give me a silent nod if this is helpful. Just so I know there's a pulse on the room.
+06:48 And when you say, Hey, stuff like that, you'll get some rye smiles. Acknowledging, hopefully they're there. I've had to teach workshops to cameras off 150 people, with like three people on the cameras, and me saying any questions, with like a long 30 second silence.
+07:05 Those are the hardest ways to manage a workshop. And sometimes, it's going to be out of your hands. You have to learn the skill of not requ- I'm going to go.
+07:13 Wiring external validation for every single thing that you do. Now, when I do get participation, and when people are nodding and smiling and asking questions, that just makes me a better teacher, because I feed off of that energy.
+07:24 But the trick is you don't make your energy dependent on the audience you're teaching or speaking to. And again, like I said, at the end of the day, this is a very common phrase people use, which is land the plane, land the plane, which is the equivalent of saying, being finish your point, or finish 
+07:38 your thought. Just as important as you begin, and you're very explanatory and explicit, and where we're gonna go, how we're gonna get there, and what are we gonna use to get there, you also wanna conclude recapping what is it that you learned, and how they could apply this, and what could happen next
+07:55 , and that you invite questions. So this process, pretty straightforward. And if you master this, Then, all kinds of lectures and workshops will become easier.
+08:05 Now, we can go more in depth here, and that's what I'll do right now. So the main flow is you have a pre-workshop design, you have your opening structure, you have your content delivery, and then you have your engagement tactics, which is just referred to, then you have your closing and takeaways.
+08:20 So before you even design the workshop, know your avatar, who are they? What are their role and daily responsibilities? Are they an analyst?
+08:29 Are they C-suite? Those are two very different audience. C-suite like to be focused on ROI and very high level. If you're going through N-A-N, you would less likely explain what a curl request is to a C-suite versus an analyst, because an analyst is meant to go into the weeds.
+08:44 A C-suite is basically trying to design what the forest looks the key question. The thing you want to ask is, do they want to be here, or were they told to be here?
+08:53 Also very important. If a company's mandating, that their employees upskill themselves, and they're all having to be here, instead of doing something else, or they're cancelling meetings, or pausing their work, you're already going to have an audience that's looking at you with a blank stare, mad at 
+09:10 your existence. And it's not something you can do much about. Look, I- Bye. At the base case, all you can do is outperform their expectations.
+09:17 If they're told to be there, there's going to be higher resistance to them wanting to listen to you. Meaning, I'll probably show more magic tricks in that workshop than the one where people want to be there.
+09:28 Because people that want to be there probably want to learn first principles. They want to learn foundations. And you want to be able to double click on that.
+09:35 If you can, address any- fears directly. So people are there, and they're worried, potentially, subconsciously, of losing their job. If they don't learn this stuff, you won't acknowledge the fear.
+09:46 It doesn't say the lines like, you know, someone's not AI is going to replace you. Someone that uses AI is going to replace you.
+09:53 Even though that's kind of cope, in my opinion, for a lot of things. You might want to see that, or acknowledge it.
+09:58 Or, if it's true, let's say AI can do 80% of- what they do, but they're needed in the last 20%, or the last 8%.
+10:06 A human's still needed there. So, you can say what's in it for them. Listen, I know things sound scary. AI's kind of overhyped a lot of things.
+10:14 So maybe acknowledge things that make them feel better, because AI is overhyped. General of AI is not the solution to all problems.
+10:20 It's the solution to a lot of problems, not all problems. And then, obviously, if- If they're there, then you can do whatever you want, because they just want to acquire the knowledge.
+10:30 Now, in terms of content planning, design 100% of the needed content. And this is something that I learned a long time ago, when I used to teach lectures at university, when I used to teach for my public speaking course, anytime of being a teaching assistant.
+10:43 There's a few times I've been burnt, where I've gone from having classes, and I've had, what, thousands of students now.
+10:49 I've had class- classes where people are talkative, or they're at least medium level, talkative. So, time flies, and the same content that kind of got me through class one, two, and three, I expect to get me through class four.
+11:02 But once in a while, you'll encounter an audience, a class, or a people, or people around the table that are radio silent.
+11:09 They give you no stimuli, no feedback, or validation that you're doing a good job. drop. And that's where you want to design and add way more content than you expect.
+11:18 So, if you think that's going to take you an hour to deliver 30 slides, I make 50 slides. Because I like to have the insurance policy that if I'm getting zero back in terms of participation, even if I feel like I'm doing a good job, I want to make sure that I can persist until the end.
+11:33 Because the people that are hiring you to teach are paying you for that time, right? All right. So you want to make sure you don't end up 40 minutes in and you have nothing left to go.
+11:42 That is even more awkward, especially if you have follow-up sessions, and I've been there. That radio silence hits different when you're done, you got nothing, and you're praying, and you were betting that questions would arise, and nothing has arisen.
+11:55 So, always over-prepare on the amount of content. With high engagement, like I said, time flies, you have many questions. Questions?
+12:02 And those questions can fuel really good discussions. Low engagement, and you know what? It's helpful and productive to assume that the room you're going to walk in is going to be full of crickets, because if it's the inverse of that, you'll just be happily pleased, which is awesome.
+12:18 Use silences to your advantage. This is more a Macavilian technique. I've learned a lot of Macavilian techniques when it comes to teaching.
+12:26 And negotiation, because it's very helpful. When you command silence, and you use it as your weapon, you can make people uncomfortable.
+12:35 And one of the tricks I like to use is, let's say I'm dealing with a radio silent crowd, that non-verbally I can tell, outside of this room they would be talkative.
+12:43 Meaning, they're not mute, they're not super introverts, they just either don't want me to exist, or they were forced into that meeting to begin with.
+12:50 If I know I want participation, like, what do you guys do in the day to day that offers you that 80-20 where you feel like automation could be helpful?
+12:57 Because I want to make sure I can tailor my examples to you. I will stay silent, and I'll wait for 15 seconds, because after 15 seconds, people look at you to see if you crack under the weight of the silence.
+13:11 But what I like to do is, after 15-20 seconds, I'll- say, listen guys, I've done this hundreds of times before.
+13:17 Authority play. I can stay silent for the next 10 minutes. So we can either stay silent, or you can offer me what you think.
+13:25 And don't be shy about perfecting it. I just want some stimulus. And then I'll go silent again for 10 seconds, and I'll smile.
+13:32 And then the weight of that silence will force somebody, 9 times out of 10, to respond. If want to see more if they don't, then it is what it is.
+13:40 I'll basically play it off. I'll joke and say, wow, okay, I'm going to send you guys like a leader of coffee stat.
+13:47 Maybe I'll try to get a smile or a smirk or something. And if that doesn't work, then I'm just going back at the content, and I'm going to shield myself.
+13:54 And if it's that bad, I won't ask for participation again. I'm just going to keep rolling. Because what happens is now the managers might get- .
+14:02 . Embarrassed that their employees or whoever's in that room is not engaging with you, despite you attempting to engage with them.
+14:09 So they might hop in, they might force their own employees to participate. It depends. You have to read the room, and you run with the room.
+14:16 It's a dance. You have to dance with who your dancing partner is. So the rules, like I said, never rely on audience to fuel your workshop energy.
+14:25 And when it comes to opening, like I said- That's it. Add a creative element. So notice how I opened this specific video.
+14:31 I didn't just walk into the Excheloridra, and the text, and the words. I created some images on Nanobanana that I was thinking about.
+14:40 Okay. How could I best explain how to explain things to an audience? How would I create an analogy that that would bridge the concept so you can always refer to that analogy.
+14:49 technology. Because, not everyone's going to be at your experience level, or even your competence level. So how do you make your opening and your hook so approachable, so rated for E for everyone that everyone can feel like we're all at the alignment step, or we're all at the same step when we start.
+15:06 Now, whether they'll be able to keep up with you, you can't control for that. You can increase the likelihood that the majority end up at the destination with you.
+15:14 Bye. I, the words you use, the inclusivity in terms of your examples, the analogies that you use that hopefully relate to what they do.
+15:21 So if it's a hedge fund, you talk about creating DCF evaluations. If it's a real state, you talk about building listings and the time between someone submitting an inquiry and you responding to it.
+15:33 You want to create the examples to be at a ground level. So non-traditional hooks for a wh workshop is my best presentation I've ever done.
+15:42 And this was to hundreds of people. And although I had a lot of reps at the time, I was still nervous.
+15:48 I had a picture on the screen. And I made sure that the organizer of the conference kept that picture on the screen for 15 minutes before I even went up on stage.
+15:59 I wanted people to wonder what that image was. And I made sure it was so abstract and it was so seemingly unrelated to the presentation I was delivering.
+16:08 That in a way, people that would be non-participating or wouldn't care about my existence there, kinda just cared curiosity on how does this image relate to what this bozo is about to say on stage.
+16:21 And I love that. Because that means in the first 30 seconds to a minute, if I execute well. 3 and I don't stutter or stammer or say, ah, or and I deliver with precision and surgical accuracy, I've captured the audience.
+16:33 Because I've already pre-captured you. Because I've made an analogy and even wanna give you the analogy that explains why the picture relates to how we are going to go through this journey today.
+16:44 You're gonna wonder, how is he gonna land this plane? I even leave that as this open loop. Boop. That most humans need to close open loops.
+16:53 So I try to do that and you'll notice, if you try to go outside the confines of being a boring parrot, just remember.
+17:01 In the next 12 to 18 months, we're gonna have things like Hagen that are so good and so perfect that you'll be able to create lectures at scale.
+17:08 You'll be able to do it as a company and do it internally. And just clone the CEO and have him teach you, or have her teach you.
+17:14 Do how to write prompts. So how will you stand out as a presenter, as someone that is coveted to speak and teach at workshops?
+17:23 This is one of the many ways you can do that. So like I said, you have a creative element for presentations.
+17:29 You can do a before and after image that could be a hook. You can have an unexpected visual, like I said, or a provocative data point that you just keep on screen.
+17:37 Green. 9 8 8 8 9 Now for automation workshops, let's say you run a live 18 node automation, you start off clicking, let's say the end and end workflow or the make workflow and you have things spin and you say, while it's spinning, assuming it works, make sure it works a hundred times, you see this will
+17:53 run and by the end of me giving you my introduction to the presentation, it will complete XYZ task. For years, you have probably had to do this manually.
+18:02 Anyway. And in this workshop, I'm going to walk you through without being boring, how we can go from zero to automating, automating something like this so that by the end of a minute or the end of your coffee break, this task is completely off your plate and you can focus on things that matter and bonus
+18:18 points and brownie points. If you can time the automation to stop running by the end of your hook. But that's more, again, advanced and.
+18:26 Showmanship. For AI training, live AI solving their problem, real use case transformation, an immediate wow moment. So similar to what I do on YouTube, show the final outcome, the glamorous golden spotlight on the outcome.
+18:42 Now the purpose is obviously to get buy in from the first word and especially for reluctant attendees. Again, those who don't want to necessarily want to be there, hate the I'm it.
+18:51 AI buck against the word AI and you want to get there buying. So you want to set the tone as part two, show the outcome, answer the questions.
+18:58 What will they learn? Why does it matter? How does it help them? What will they take away? So obsess about what they will get.
+19:06 That's pretty much it. There are a why because attention is one of the last things that people have an abundance of or a lack of an abundance of at least.
+19:14 It's pretty good. They want to be very judicious on where they spend their attention dollars. And ideally, I like to always have a slide sometimes that says so what?
+19:23 Which is like, why should you care to listen to me for the next 36 minutes? And I walk through boom boom boom boom boom boom.
+19:30 This is why. Ideally, you want to make sure that those points are salient enough that they have that buying as well.
+19:36 Then you go to the agenda. So bad agenda is-d-d-d-d-d-d topic one, two, three, four. Good agenda is topic, name, why?
+19:44 We're going to go through this topic. And it leads to topic two. So now you want to show that there's interconnectivity between the subjects you're going to go through step by step.
+19:53 And that if they miss apart, they're going to miss out on the continuity. If they miss out on the continuity, they won't get the point or the golden nugget that you're offering them.
+20:01 So again, you're weaving in your strategy of retention with offering value and golden nuggets with making sure that you capture and you keep as much, and many, as many people as possible.
+20:13 So this is the steps right there. So content structure, like I said before, you have your outcome, your why, your so what, your actual content and examples, the more examples the better, and then recaps.
+20:27 And then you have your foundational layers, which is number one is the what, what we're doing today, two, why we're doing it, three, how we're doing it, and then analogies breaking down complex concepts that I've tried in this video.
+20:40 And when we talk about examples, let's say we're making, you know, that analogy, instead of 30 slides, make 50 slides.
+20:47 A lot of those slides, I wouldn't make brand new content. I would make Thank you. More examples about my existing content.
+20:54 So when I think about examples, I think about it as increasing the surface area and increasing the chances that someone gets to stay between your different parts of your presentation.
+21:06 So more examples gives you the opportunity for more hooks. An example strategies you have a generic example that everyone understands.
+21:13 Then a role specific example. Apple. So how an analyst would see themselves in the room. How a C-suite person would see themselves in the room.
+21:20 And you show that you have the crystallized knowledge to be able to speak to everyone. Which is a super power.
+21:27 And it's a rare one. And maybe you make an industry specific example. Where again, you're being very inclusive. So if it's about a law, then you talk about what a law office could automate.
+21:35 Or how AI could influence what a law office will look like 10 years. Which from now. Big picture example. And then you could go to the day-to-day examples.
+21:43 Which is what their actual work looks like. And the results. So, the results is, in many places, multiple entry points for people to engage with their content.
+21:53 And, so one thing I notice a lot on YouTube, and this is something that I noticed a while ago. Is if I make an example using any of them, especially when any of them views were frothy.
+22:02 If I sp- spoke about making an AI agent army, in real estate. Nine times out of ten, the people that would join the community, and the people that would book paid calls, and paid consults, would be from real estate.
+22:16 So people will resonate with examples that apply to them, and assume that you have expertise in that area. So I would get things like, oh, you made a, video, when you included something about record labels.
+22:26 tables. We are actually a record label. So we'd love to engage with you, because it's great to speak to someone that kind of gets our world, and I started realizing, interesting.
+22:36 So if I want more clients in finance and hedge funds, I should give an example in, in, hedge funds and high finance.
+22:43 And what do you know, especially in the last couple of months, we have a decent number of clients, or consults, that have been in high finance hedge funds.
+22:50 M&A strategy funds, et cetera. So you get what you give, and this is very intentional. Now, delivery techniques, like I said, addressing resistance, know when they're scared.
+23:02 So if you have, again, that law office example, plus AI training, they probably fear you. They might want to hate you.
+23:08 You threaten their livelihoods. So your job is to acknowledge this, and you wanted to spell that saying, listen, you're going to be.
+23:15 Because there's so many edge cases and fringe cases, and LLMs are, in their own right, very prone to hallucination. And if you want to cool the audience, maybe show a couple memes from Twitter or X, rather, of LLM having major fails, where someone says, can you fix this color in my codebase, and it destroys
+23:33 the whole codebase? Go through three or four quick memes and screenshots to lighten. But listen, I don't think that this stuff is going to take your job, at least, hopefully not.
+23:45 But, at least not now. But look at where it's feeling. So, you're definitely needed, and if you stick with me, I'll make sure that you are as superhuman as possible so that you have an edge, especially all around all other law offices and all other analysts.
+24:01 So this is what's called, bringing from the shadows to the light. So say what people are thinking out loud, this has been very helpful for me, not only with presentations but also negotiations.
+24:12 Especially when you start to read non-verbals, and with Zoom it's a lot harder, but I usually try to get the person that is buying my time to teach or provide a workshop to make sure they're people are on camera.
+24:23 Cause I will basically pick on people using non-verbals. Bye bye. Is someone like wincing, or thinking too hard, or come, like they're back in their chair, meaning they're probably not engaged?
+24:34 I might try to call them out, and I might try to make them uncomfortable. And I might be like, hey, sorry, who's that one in the back?
+24:40 The one with the beautiful blue blouse? Oh, that's Jeremy. Jeremy, I just want to double check. Am I losing you?
+24:46 Am I kind of like, putting you to sleep? I want to make sure that this is engaging for you. And you catch someone off guard.
+24:51 People start to nervously laugh, and then you pull on the thread of that nervousness, and you try to get something out of it.
+24:56 It's kind of like a comedian, where a comedian will go on stage, and they have all their bits already organized and lined up.
+25:02 But they will try to pull on certain people. Sometimes they even plant people, to be honest, to make sure that they can look like they're pulling from the audience.
+25:11 And then doing that takes them from a 2D human on screen, or For a 2D human in person, to a 3D human, that people feel like, okay, he kind of gets us, he's more than just a teacher, or a professor, or a workshop instructor.
+25:24 There's more to this person. So an example could be, I know some of you might be thinking AI will replace your job.
+25:30 Let's talk about that directly. Anyone watch for smiles, nods, relief on faces, body language shifts, and when you see it, that's your hook.
+25:38 That's when you reel the- That's when you ask follow-up questions, and you get them engaged. The next part is question cadence.
+25:44 So you want to stop for questions regularly, again, assuming that you're dealing with a normal audience. If it's just pure crickets, then you want to reduce this on the fly.
+25:53 So ideally every 5 minutes, and people are invested, if questions flow, keep the momentum. Like, I would rather not finish my presentation 9 times out of 10.
+26:03 Versus not having questions. If I have questions, end of the day, you just need the organizers of the event, or the workshop to feel like they're people derived value from this.
+26:12 That is the only, really, the core metric. Usually, you don't have some of the stopwatch watching the number of slides saying, ah, Mark, you only got through 20 of the 32 slides.
+26:22 We're not going to pay you. That's never happened, and right likely wouldn't happen unless I either was- awful, or I had a brain aneurysm during stage.
+26:30 But if it's because people were asking questions, no one will blame you for that. So if it's low engagement, I'll make it more sporadic every 10 minutes.
+26:38 Then after complex topics, I will acknowledge things. Again, you want to acknowledge what's in the room, or in the virtual room.
+26:45 I know this is complex. What questions do you have? So I don't even say, do you have any questions? I'll say, you have to have some questions.
+26:54 There's no way on Earth, unless everyone here has a 200 IQ and you've done this before, which you said at the beginning, you haven't done this before.
+27:01 So I'll also use the responses against them to provoke engagement. What questions do you have? And then you do the whole silence thing.
+27:08 I can wait forever, guys. I can be here for like three minutes, pure silence. I'm an introvert by nature. And then you might get, again, nervous laughter, you pull on that.
+27:15 . . And then you riley smile. And then, like I said, if it's crickets after all that, then you gotta know if it just pushed through your content.
+27:23 And you know it's not gonna be a fireworks show. It's gonna be you completing what you set out to do.
+27:29 And like I said, reading the room, three camera calls scenarios. If you have a 150 people on a camera, three people are on, only three.
+27:36 These people speak, everyone else is silent. So your contents- Dance, dance. It's gonna be your main priority. Ideally, you're gonna have to keep steamrolling and knowing that you're not gonna get validation or some, wow, that's cool.
+27:46 Or a good job throughout the presentation. And that's what a- a muscle that you train. Just because I've told you this doesn't mean it will apply.
+27:53 You will- all of us kind of want some validation that what we're saying is landing with people. And when we're deprived of that, it makes us upset.
+28:01 And it makes us sad. And it makes me feel useless. Useless. But if you have that stimuli, similar to how- when I post something in the community, let's say, the reason why I do all these courses and I build in public, is not just so I can get some cheap engagement.
+28:13 It's more so so that you are invested in the course. Meaning, you influence the direction. If I see more love for one thing versus another, that will steer what I thought was gonna be lecture 14, or 15, or 17, because I know this is landing more with people.
+28:28 Same concept, so everything I'm telling you to do, I apply myself in every single way that I teach. So energy management, so introverts, especially don't rely on audience validation, visible engagement, external energy, because you'll feel like you're not doing your job.
+28:44 rely on the quality of your content think through how can I make this content so easy that the majority people would be able to understand it in one shot.
+28:53 If you need to prepare your hooks, prepare how you're gonna go through things, especially if you're not as attuned to speaking.
+28:59 I'm so used to speaking that I can do this staring at my Mac camera alone in this frigid basement and just keep yapping forever, because also a lot of this knowledge has crystallized and while I prepared this Excalidra and the images I was subconsciously thinking through how I'm gonna frame everything
+29:17 I'm presenting to you right now. So that's why I can be a Yappasaurus Rex machine. So a sample presentation structure, just to make it more tangible, so we leave on a note where all of you have a starting point.
+29:29 So slide one, you have a title, you have your topic and your hook, who it's for. The session number, if it's a series.
+29:36 Slide two, what we'll cover today. Three to four main modules, brief to we've just. Description per module. Connect the entire journey.
+29:43 Your next slides. Section the divider slides. So the problem, the current state of affairs or what they might be encountering is in terms of pain points.
+29:52 The solution, what we'll learn in white matters, the so what. And then module content pattern, so concept slide, what's the concept?
+30:00 Here's the definition. Next, when to use it. Some form of key insight or a golden nugget, like I said, like an oh wow, like did you know that in clod code, you can actually connect clod code to open source lms.
+30:13 You just have to have a router. And people are like, well, interesting. I don't know that. Assuming they care about clod code.
+30:18 Before and after slides. So common mistake. Why, why something fails and the after. Why your idea is the genius better approach and why it works.
+30:27 Thanks. Thank you. You have an example slide applying it in action. So you don't just want to talk about things.
+30:32 You want to exhibit, demonstrate things. People will remember the example and work their way to rooting back to the concept, not the other way around.
+30:41 Now, if it's technical deep dive, you want to go through how it actually works. The architecture of how it might work without getting technical.
+30:49 So if someone's never seen an automation tool before. Like. Never seen a no code tool. And I'm just showing them the sorcery of me clicking play or execute workflow and this whole thing runs.
+31:00 They might be so far removed from me. We're not even in the same plane of existence and understanding what NNN is.
+31:06 So I might want to be able to have a, what is NNN? Why should you care? Why NNN versus something like Zapier or make dot com, at least for maybe that company, assuming that is the best choice, right?
+31:16 All right. And number four might be, this is what's happening behind the scenes. Technically, all of these no code tools are just code.
+31:23 It's just the way that they're being hosted is on some server with a nice little puffy cloud. And they are just Lego, Lego blocks or different parts of a board game and I've already taught a lecture or taught a YouTube video on how I make NNN analogous to a game board.
+31:39 So using those examples- we'll make things a lot more digestible. And it gives basically people this railing to hold on to, especially if they perceive your presentation not as the beautiful cruise ship, where it's nice and smooth sailing, but as a sailboat, where they're constantly holding on to like
+31:55 keep up with you, you want to lower the chances that they perceive this as a sailboat in a storm. You want it to not be a storm.
+32:02 You want it to be calm winds. Now, common mistakes on the slides is basically mistake one, why, or you go through why it's bad multiple steps, and then you go through instead, the right approach, you want to basically ideally call out a couple mistakes, the couple mistakes that they really care about
+32:19 , and then focus on the after. What would you do instead? So advanced techniques, so slide sequence, concept, introduction, what it is.
+32:27 is Why advanced, when is it needed, framework would be visual breakdown, components, how they connect, real implementation would be actual example, with metrics and numbers, expected outputs shown.
+32:40 Number four, this is where, again, you can have that nugget every few minutes, is edge cases. What's the exception to the rule that you're telling them is a rule?
+32:49 What could go wrong and how should they handle it? If it'll apply integrations and everything around that. So a few last things here.
+32:57 Some presentation best practices is slide density. You want it to be information rich, but scannable. So you want to use bullets, sub-bolisture advantage.
+33:06 I like more minimalistic slides than ones with tons of text. If you have text on the slide, that if someone read the slide, they would know what's about to come out of your mouth, then either you or the slide is not needed.
+33:19 So you need enough on the slide that it can complement what's coming out of your mouth, but you want to make sure that the audience, assuming we're dealing with slides, by the way, you want to make sure that the audience is dependent on you to exist to deliver the information, not the slide, and you 
+33:34 saying the same thing. That's where you get a lack of engagement, because someone will speed read like me, and be like, okay.
+33:40 I can turn off my ears now. Instead of you saying, common mistakes, major failures, and then just enough that I know what you're talking about, but not enough that I can auto, you know, auto fill the rest of the point.
+33:54 Visual markers, so good approach, bad approach, x's versus check marks, and then using color to advantage, putting divider slides, putting problem statement.
+34:03 See you. That's how things work, common mistakes, and then transitions. And the last thing here, I'll show you is just an example structure.
+34:10 So we have the title, agenda with purpose, creative elements with a demo, learning outcomes, why this matters. Then we have a foundation, which could be anywhere between three to ten slides, usually eight to ten slides, if it's like an hour or plus delivery, concept divider, the problem explained, so
+34:28 . Evolution introduction, how it works, multiple examples, before and after, common mistakes, and a quick recap. And then if it's a technical kind of presentation, concept dividers, technical architecture, walk through the edge cases, like I said, best practices, hands-on scenarios, and then if it's 
+34:47 super advanced, you want to walk through basically everything that I've taught you in module one and two. Thank you. This is when we apply it.
+34:53 This is how we apply it. Here's some examples scenarios where you would apply it and a quick recap on everything.
+34:58 Then you have your closing slides where you have key takeaways, summaries, implementation, resources, and support. In terms of timing for workshop timing, a 60 minute workshop, typically you'll have five minutes for your opening.
+35:12 That's not like your hook. That's like, that's setting the foundation. Then module. module. One, two, and three. Fifteen minutes, twenty minutes, fifteen minutes.
+35:19 Module two, I'll usually make the medius one. The one where a lot of the sauce is there. I'll make module three more ADHD friendly because if people focused on module one and two, their attention span must be waning.
+35:32 Especially if there was no break in between. For a 90 minute workshop, maybe opening would be seven minutes. Module one would be.
+35:40 Twenty minutes. Questions would be five minutes. Module two would be twenty five minutes. Again, questions again. Assuming that we have level of engagement that would warrant questions.
+35:50 And we went through all that. And here I basically just reiterate the design of the slide itself. So walking through the outline.
+35:58 Writing more content that you need. The visual structure. Try to have some form of consistency throughout. Have the same theme through.
+36:04 Bonus points if you make the theme or the colors of the slides related to the actual company's logos. That just feels like it's being done internally instead of someone from the external.
+36:14 And then like I said, have backup slides. Backup slides are gonna appendix that you can revert to. If you feel like they're not liking the direction that you're going.
+36:23 And assuming you have the time to do so. So all of this together will hopefully allow you to build. Hold.
+36:28 Presentations, workshops, walkthroughs that are engaging. That they can't just get on YouTube. That requires someone with distilled knowledge and the ability to deliver said knowledge.
+36:38 To take a point from A to Z. And like I've said multiple times. Creating and delivering workshops not only makes you a better speaker.
+36:45 A more confident negotiator. But most importantly, it shows crystallized knowledge. And if you can teach it, people can assume. soon.
+36:52 That you can build it. So if you want to be able to do service delivery on top of service education, then you can do both.
+36:58 And this will help strengthen your position to do so. Mhm.

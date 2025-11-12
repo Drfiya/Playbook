@@ -1,0 +1,464 @@
+Post Content:
+Communication beats coding & n8n ability. Every. Single. Time.
+This video is way longer than usual, but I'm very passionate about this topic, because few things matter more
+~40 minutes on the business communication rubric that determines whether clients hire you, trust you, and refer you—regardless of how well you know N8N or Claude Code.
+What you'll watch:
+- The university-level communication scoring system (verbal + non-verbal breakdown)
+- Pre-call AI research workflow (Perplexity → N8N workflow generation in 15 minutes)
+- Discovery framework: Problem scoping, requirements gathering, constraints
+- The "ask why 5 times" technique for getting to root problems
+- How to handle accents and improve articulation (speech coach hack)
+The brutal truth: It doesn't matter how smart you are at coding, vibe coding, Make.com, N8N. If you suck at communicating, if you don't have proper verbiage, proper way to frame problems, show you're listening—it doesn't matter how good you are. You won't get clients. Or if you get clients, you won't retain them.
+Communication is everything.
+The background story:
+This comes from teaching Business Communication Skills for 5 years at university.
+Personal journey: Failed first presentation (got 51%). Eventually did so well they asked him to teach the course. Used to do competitive French and Spanish debates. Started as introverted, shy, pure nerd.
+"My operating system is as dry as a rock. I've had to put makeup and teach myself to be a real human being over time instead of a bot that just does Claude Code."
+The university rubric (adapted for consulting):
+Original rubric: 5-minute presentation with PowerPoint, scored on:
+- Setup/Agenda
+- Body content
+- Conclusion
+- Transitions
+- Message clarity
+- Creativity
+- Verbal communication
+- Non-verbal communication
+Real student example shown: 56 "ums" in 5-minute presentation.
+"How many times do you think people got distracted or stopped paying attention? If you can't articulate a thought succinctly and concisely, it doesn't matter how great the solution is. People won't trust you."
+Verbal Communication Breakdown:
+Voice control:
+- Speed
+- Intonation (critical for authority)
+- Projection
+Clarity and fluency:
+- Filler words (uh, um, like, you know)
+- Every filler word = listener distraction
+- Can't demonstrate mastery with constant fillers
+The upward inflection problem:
+Bad example: "Are you looking for some form of automation service?"
+This sounds like you're asking permission, being subservient, at the beck and call of customer.
+Good example: Downward inflection on declarative statements. Confident, not questioning.
+"Many declarative statements end with upward inflection. Like: 'And that's a huge opportunity, right?' This undermines authority."
+Non-Verbal Communication Breakdown:
+Projected confidence and mastery:
+- Shadowed people on first sales calls: "Complete fear in their voice"
+- Everything was upward intonation
+- Made them sound unconfident
+Facial expression:
+- Especially important on Zoom
+- Technical folks often don't care about being animated
+- Explaining with passion matters
+"Non-technical people have advantage here. But if you're technical AND can do verbals/non-verbals, you become hard to beat on the battlefield."
+Eye contact (critical on video calls):
+"I visually look at the camera lens itself. I don't look at the screen. When delivering a message, I want to look piercingly through this camera to get to the other person."
+Why it matters: Strong eye contact shows you're not lying. People who lie look to the side. Exaggerators look to the left.
+"At some animalistic level, we can smell when the other person is not being forthcoming."
+Hand movements:
+- Less important on Zoom
+- But be aware (someone on YouTube told him to tie his hands together)
+- Now more conscious of hand gestures
+Posture:
+- Leaning back entire call = low engagement signal
+- For high-stakes C-suite calls, lean slightly forward = higher engagement
+The adapted rubric for consulting:
+Setup and Agenda (Intro):
+- Who are you?
+- What makes you different?
+- What's your goal? (intertwined with THEIR goal)
+"Best relationships in business = aligned incentives. Shouldn't be zero-sum game."
+Body (3-4 minutes):
+- Walk through their problem
+- Obsess about it
+- Don't ask from ground zero (use qualifying questions beforehand)
+Critical shift: "Instead of saying 'What problems are you trying to solve?' say: 'Based on my research, I feel like these are the top three things. Please correct me if I'm wrong.'"
+This gives you different leverage. You've done homework. Easier to edit an essay you've written than stare at blank canvas.
+Conclusion (Next Steps):
+- Always book a call from a call
+- Don't leave saying "I'll send you a proposal" and then get ghosted
+- Get next meeting on calendar BEFORE ending current call
+"Very different to be on someone's calendar vs in someone's inbox competing with all kinds of distractions."
+Transitions:
+- Don't be choppy
+- Don't go from "Where are you from? Colorado? Cool. So what are you trying to accomplish?"
+- Make smooth segues
+Example: "I love Boulder. But let's discuss the boulder you're trying to push up a hill with this AI stuff."
+"You may get a little chuckle. This person is not a bot or NPC. They have personality."
+The pre-call preparation workflow (with AI):
+Real example demonstrated: Coca-Cola Canada marketing client
+Perplexity prompt used:
+"I have a client coming in from Coca-Cola Canada. They're responsible for marketing. They're looking for help to build agentic or automation workflows. Go through all Coca-Cola's operations, find most eligible AI automation scenarios that are practical (not hype-based agentic stuff). Also research N8N's new Text to Workflow feature. Come back with prompts under 500 characters I could input into N8N to draft workflows, with rationale for why each workflow matters."
+Takes 9-12 minutes to run.
+Result: Multiple workflow prompts + business rationale + ready to demo
+"In next minute this gives me something that's a cool talking point. I'm not just nodding and smiling saying 'yeah we can automate everything.' I can talk about THIS specific thing."
+Why this works:
+Most consultants: Generic discovery, asking basic questions
+You: "Listen, based on my background research, here are the top three things. Now please correct me if I'm wrong."
+Massive leverage shift. They respect that you did homework.
+"It's way easier to make really quick progress in a conversation if you already have an assumption and you're opening yourself saying 'This is everything I could do before I met you. Roast me.'"
+The automation for this:
+"I literally automate this in the community. Every time someone joins, I have an AI agent do background research on them. Sends me email about it. Helps me know the types of folks coming through the door."
+You can build same automation. Won't take too much time.
+Initiative and resourcefulness principle:
+From original rubric: Bringing a prop to make presentation lively
+Consulting equivalent: Going the natural next step beyond just Googling the company
+"Being hyper-prepared—not just knowing their name, where they work, what the company does—but trying to solve the problem before they've properly articulated it will make you look amazing."
+The discovery framework:
+Don't ask: "What's wrong?"
+Ask: "What's the goal you're trying to achieve? What's the pain point that's prevented you from fixing it until now?"
+Also ask: "Am I the first agency you're contacting? Or have you tried this in-house?"
+This dissects political issues, bureaucracy, why you're actually there.
+Problem scoping:
+Don't ask: "What do you want to automate?"
+Ask: "What repetitive, low-value tasks really waste your team's time that could be eliminated? What golden nugget tasks where your team spends 8 hours but it's responsible for 20% of revenue?"
+The "ask why 5 times" technique:
+Client: "We want to implement a lead qualification nurture system."
+You: "Why?"
+Client: "Our 3 salespeople are overwhelmed. We get a lot of lead flow."
+You: "Why can't you just upskill them or have them work more?"
+Client: "They work really hard. One is both an account exec and salesperson—filling two roles. We're waiting to hire after our next funding raise."
+You: "Why are you waiting for funding?"
+Now you've discovered: organizational issues, hierarchy problems, budget constraints, money about to arrive.
+"Are you going to extort them because you know they're getting more money? No. But you might offer bigger scope projects with bigger budget because you know they can afford and rationalize it—as long as those projects actually benefit them, not just your pocket."
+Requirements gathering (the "what" phase):
+Turn vague into specific.
+Client: "We have a lot of tickets in HubSpot"
+You: "How many per day?"
+Client: "Process is slow"
+You: "Let's define slow. How many hours? Per day? Per week? Per month?"
+Scope the problem in tangible metrics to work your way to solution.
+The magic success question:
+"Fast forward 6 months from now. This project is a wild success. Everyone's bought in. Your board loves you. What specifically changed in the business? What does that look like?"
+Helpful to go blue sky, especially when someone's in the weeds memorizing YouTube tutorials about agents.
+"As soon as I hear those words, I turn off my ears. I'm ready to go back to big picture. Step away from the tools. Let's talk about why we're actually here."
+Identifying constraints:
+Technical: "What platforms does this process touch? Talk to me dirty in data. Salesforce, HubSpot, QuickBooks?"
+Budget (the elegant way):
+Don't ask: "What's your budget?" (This sounds like: Are you poor? Can you afford nice stuff?)
+Do ask: "Do you have any funds allocated in the company for these AI initiatives? Separate pot for that? Helpful for me to work backwards from your expectations."
+"Notice how I'm not asking a very blunt, awkward question. Asking in elegant, confident manner makes you look better. You worry about them first, money second."
+The paraphrasing technique (active listening):
+When you paraphrase what someone said—even just repeating their last word—it shows you're listening.
+Example conversation:
+"I'm so tired, been working on tutorials, haven't released YouTube video yet."
+"No YouTube video released yet?"
+"Yeah, it's hard to juggle everything..."
+"Overwhelming?"
+Done elegantly: "If I'm hearing you correctly, the real issue is X, not actually Y. Is that correct? Y is just the vehicle to solve X."
+This is how you get to the bottom of things.
+Talk-to-listen ratio:
+Requirements gathering call: They speak 80%, you listen, you speak 20%
+Paid guidance call: You speak 80%, they listen 20% (because they paid for your guidance)
+The personality and charisma question:
+"A lot of people struggle with: what are the micro actions that make someone charismatic? You can't just give a command 'be more charismatic.'"
+Micro actions:
+- Compliment something when they join ("Cool background," "Nice painting")
+- Look for things to build rapport instead of having them handed to you
+- Be proactive
+"Society is dying in personalities, trust, ability to build relationships. If that trend goes downward, and we keep these values while everyone else is good at vibe coding but bad at communicating, you'll have an advantage."
+Pre-call checklist:
+Deep recon:
+- Business model, revenue
+- Key personnel
+- Industry trends and competitors
+- Recent news, launches (especially if they're in AI market)
+Form hypothesis: Guess 2-3 pain points before the call
+Have ready:
+- Demo tabs open
+- Case studies from prior engagements
+- Screenshare prepped
+- Pricing sheets or proposal drafts
+"Sometimes failure is in the proposal. I've taken 72 hours to drop a proposal when I would've closed if it was done in 12 hours."
+Even if client no-shows, not wasted effort. You build discipline and habit of being 10× more prepared.
+Opening framework:
+"Thanks for your time. I want to make sure this is valuable for you."
+Obsess about their incentives. They're the only thing that matters on the call.
+"Your goal is their goal."
+The accent and articulation reality:
+For non-native English speakers selling in English:
+Real story: Friend (smaller YouTuber) had thick European accent affecting views. Hired speech coach on Upwork for 4-5 weeks of weekly exercises.
+Result: "Not unrecognizable. Still has accent. Not magic. But way more articulate, way easier to listen to."
+The truth: "Very unfortunate world we're living in. If you're not easy on the ears to someone native, the AI stuff is already complicated. Add accents, it's amplified complication. Even more subtle friction to conversation."
+Two options:
+1. Hire speech coach or articulation coach (not to remove accent, but articulate better in non-native language)
+2. Use ChatGPT voice mode for free practice:
+"Tell it: I have an accent. I want to practice. Help me focus on phonetics, pronunciations I get wrong."
+Personal example: Before Spanish consulting call (first in a while), used ChatGPT voice mode to practice discovery questions. "It corrected my pronunciation because my Spanish was rusty. I'm not too proud to do this."
+Also hiring speech coach in December: "For next year's podcast appearances. Sometimes I don't find words I'm looking for, look up a lot. Helpful to know where you have deficiency."
+"If I'm not too proud, you shouldn't be too proud."
+The call structure breakdown:
+Pre-call: Due diligence
+On-call: Discovery → Diagnosis → Solutioning → Close with next step
+Post-call: Follow-up
+All supported by communication fundamentals.
+Why this matters more than technical skills:
+"When ChatGPT-6 comes out and it's way better than you and me at articulating, researching, putting the whole picture together—the one thing humans will want is someone who has been there, done that. Has empathy for where they're struggling. Understanding of organizational behavior, human behavior. Can marry everything together."
+Technical skills = one thing
+Communication skills = the multiplier
+"If you have no idea how to carry yourself in a way people want to work with you, they see you as advisor they see themselves working with 3-6-12 months from now, all technical learning will be in vain."
+The 2-3 month project:
+"This could be a 2-3 month project. It's not the fact you don't know N8N stopping you. It's the fact you can't communicate, or can't communicate effectively enough."
+Focus on communication. Nothing else in this community or other communities will matter without it.
+
+Transcript:
+00:01 Alright, so in this video I'm gonna walk you through in dial-in on client communication. Because it doesn't matter how smart you are at coding, or vibe coding, or anything, or make.com, if you suck at communicating.
+00:14 If you don't have the proper verbiage, the proper way to frame a problem, the best way to actually show that you're listening to someone you're speaking to, it doesn't matter how good you are.
+00:23 It doesn't matter. It doesn't how much I teach you, and from a technical side, you won't get the clients. Or if you get the clients, you won't retain them.
+00:30 Because communication is everything. And especially when we're now moving into a world where we're gonna have AI generated everything, we're gonna have AI generated videos.
+00:39 It's really important that you're able to stand out with your ability to articulate. And even if English is not your first language and you want to sell in English, I'll- I'll keep a little tip, a very blunt tip for you at the end of this video.
+00:53 But let's assume we all want to integrate with whatever language you want. You still have to communicate properly in that language.
+00:59 Now, what are we staring at right here? This is a rubric that I used to use for a course. I used to be a teaching assistant for in my bachelor's degree way back when in, uh, university called business communication skills.
+01:12 I taught this for five years. I initially had to take the course. I failed my very first presentation. I think I got, like, a 51.
+01:20 So I call that a fail. That's what my parents would call a fail. Um, actually, they didn't even call it a 60% a fail.
+01:26 But I eventually ended up doing so well in the course that they asked me to teach the presentation course. A little background on me.
+01:33 I used to do debates. I was very introverted. Very sh- shy, just a pure nerd growing up. So my parents made me do French debates.
+01:41 So I won a French debate, like, national competition in Canada in, like, grade seven. And then eventually started doing Spanish.
+01:48 I did competitive Spanish debates. So it wasn't my first time doing communication skills. But this course kind of pushed you to the edge.
+01:54 Because once I go through this rubric, and I came up with a analogous rubric to consulting, it'll help sh- shape your mind in terms of the things that you might think doesn't matter.
+02:05 But, honestly, it's way more important than how great you can put together a workflow or a chat agent. Now let's dive into this.
+02:11 Now for the respect of the students, uh, identity, wherever they are now, ten years later, uh, we've removed the name.
+02:18 But initially they would have five minutes to create a presentation and to end. They'd have to stand and- of the class with a PowerPoint that they had to also curate to make sure it would compliment what they're saying and not have too much text.
+02:32 So I would go through and I would check off four main things that I'm looking for in their agenda or their setup for the presentation, which is that they introduced the topic.
+02:41 If they have some form of creative element. Now, if you're on a call, a zoom call, you're not gonna come up with some weird creative element.
+02:47 But you can have a way to- frame problems that make it very known to the other client at the other end of the screen that you understand their pain points.
+02:56 You've already done due diligence on their company. There's something there that you can liken this kind of rubric to this kind of experience.
+03:03 And then when it comes to the body and the conclusion and the transitions and all this stuff, you can notice right here under communication, um, now Google, Gemini, when I'm- There go.
+03:13 Move the name and kind of, uh, split up some of the words. But this says verbal. So some things when it came to voice control, was speed, intonation, and projection.
+03:24 And then you had clarity and we had something called this fluency. Now you can't see this number very well. But this fluency just means, uh, uh, uh, any one of those filler words where you're saying nothing except for making face noise.
+03:35 Like literal face noise. This person had 56 ums in a five minute presentation. How many times do you think people got distracted or they stopped paying attention?
+03:47 If you have an inability to articulate a thought or an idea, very succinctly and concisely, it doesn't matter how good you are or how great the solution you're trying to sell is.
+03:57 If you can't articulate it properly and concisely and, demonstrate that you have a mastery of the topic, people won't trust you.
+04:05 So, this is the verbal side. On the non-verbal, this was projected confidence in mastery. So, on a call, I've literally shadowed people before, getting on their first sales call.
+04:15 This is the way back in the day. And I would just hear complete fear in their voice. And everything was an upwards intonation.
+04:23 Kind of like asking a question. So, like, are you looking for some form of automation service? It makes it sound.
+04:31 Like, you are not subservient, but you are at the beck and call of the customer. And anything from the way you intonate.
+04:38 To the way you orchestrate your words, the way you position, and the way you focus on listening more than speaking about yourself and how awesome you are, your one person agency.
+04:48 It's much more important. point. To, like, get all these foundational things right. So, next thing was facial expression, hand movement.
+04:55 Now, if you're doing this over a zoom, you know, my hands like to move around, like crazy. Hand movement is going to be less important here.
+05:02 Facial expression, very important. I speak to a lot of people, and especially developers. I'm going to say very technical folks.
+05:10 They don't care about coming off as animated. Or, explaining their ideas with as much passion as someone who's sometimes less technical.
+05:19 So, in a way, when it comes to consulting, a lot of non-technical people have an advantage, but if you are technical and you are able to focus on the verbals and non-verbals, it just gives you that extra edge.
+05:30 Because now you have the ability to articulate, you actually know your stuff, you know how to problem solve, you know how to solution, you know how to collect requirements, and now you become a really hard person to beat on the battlefield.
+05:43 And then eye contact. This is one, by the way, I struggled with quite a bit. Where every time you look up or look to the side, when you're actually not looking at the screen itself, that's where things would fall out of the wayside.
+05:53 And even on a Zoom call, or a Google Meet, or whatever platform you use, it's important. I visually look at the camera lens at the, itself.
+06:01 I don't look at the screen, even though you probably want to see the person you're speaking to. When I'm delivering a message, I want to look piercingly through this camera on screen to get to the other person at the other end of the line.
+06:14 When I have and maintain strong eye contact, it shows the other person that, one, most likely I'm not lying, because people that lie, typically, nonverbal stuff, will look to the side.
+06:25 Bye! Or if you're exaggerating, uh, basically what you can do and what you can offer, you will notice people's eyes go to the left side.
+06:32 There's actually more of a, uh, psychological thing. If someone's talking to you and you ask them a question, straight up, and they're very sheepish in answering, they look to the left, odds are there's a lie or an exaggeration.
+06:44 You might not know this, and you might assume that people don't know this either. But at some animalistic level- we can smell when the other person at the end of the line is not being forthcoming.
+06:54 Now that's on this side. Now slides we won't focus on, because most likely you're not showing slides, you could be showing slides.
+07:01 Timing was more so how much time you'd spend on each part of the presentation. So 30 to 40 seconds on the intro, 3 minutes, 15 seconds to 4 minutes on the body, and then some form of conclusion that wraps up- What did we learn today?
+07:14 Now in your case, intro is really, what is your elevator pitch when they say, how does this call work? Or what do you do into your agency?
+07:23 Or your consultancy? You would say, hey, my name is Mark. Yeah, I run prompt advisors. We've been running this for the past 3 years.
+07:29 We primarily focused for the last few years on custom development, but now we're really taking a focus on strategic consulting.
+07:35 So we've been working with quite a few companies but- both in SMB and enterprise space to try to implement AI where it makes the most sense, given a lot of these companies' day-to-day workflows.
+07:44 There's a lot of hype out there and the most important thing for myself and my team is that we're always forthcoming honest and if we can help you, then we really get into the weeds and the trenches to make sure that we reverse engineer based on the outcome you're going for.
+07:57 That's me, by the way, improving. Now, have I done this enough times that I can just riff? Yes. Can't- will you sound like this necessarily on your first try on a call?
+08:05 Maybe not. Also, life happens. Uh, moods happen. Everyone has a lot of things going on. It's just important that you focus on these things because I can promise you.
+08:15 There's other communities that maybe have very, very technical people in there. Very smart people, right? Just because they're smart doesn't mean they're gonna get business.
+08:24 And even if they get business, this- doesn't mean they'll retain that business. Because business is relationship based. The- the AI, the software stuff, is a vehicle.
+08:33 That vehicle will change. I'm guaranteeing you two years time prompt advisors will specialize in helping set up humanoid robots, four factories and SMBs using humanoid robots to prompt them properly.
+08:44 Cause you're gonna need to prompt them the same way you prompt a model today. A- a textual prompt. That will change.
+08:51 But the focus and mastery on relationships and articulation will just keep getting better if we focus on it. So that's what's really important.
+08:58 Now, the next one is engage audience and rapport. Now, a few days ago, I believe on day six, I walked you through an example, day five, I think.
+09:05 Uh, I walked you through an example of using Gemini to analyze your calls. Now, this helps you look for non-verbals that you might take for granted.
+09:12 Now, it's one thing to no- Otis that it's wrong, or it's not going well. And it's another thing to do something about it.
+09:18 So even when I am looking at a counter, I actually hate meetings. Every meeting that's on my counter, I loathe it.
+09:25 I like being on my own and like when my headphones on and just deep, either building something. I like teaching asynchronously.
+09:33 Uh, I like doing all this stuff. So when I see something on my counter, five minutes before, I mean- Make sure, like, I'm at my computer.
+09:39 I'm not on a meeting. But I'm at my computer. I'm just getting myself in a mind state where I'm like, okay, this person has taken time out of their day to meet with me.
+09:47 They have reached out to me, versus vice versa, for a solution of some sort. Let me give them the best version of me I possibly can.
+09:55 Now am I always there? No. I'm gonna record a module where I walk you through a recent failure. I have probably done two refunds in my entire career on consulting calls, and one just happened.
+10:08 I wasn't on my A-game, and I also didn't read the client well the first time I met them. But that all aside, it's important to get yourself in a head state where you don't come on looking like you're miserable or tired.
+10:20 So when they ask you, oh, how are you? How's your day? If you say, I'm tired, and that's your first interaction with that person.
+10:26 What is the odds that they think that you're a very positive person with great energy that they want to work with?
+10:31 Probably very low, especially if we're now going to be entering a very competitive market. So if we look at this, when we look at appropriate level of enthusiasm, initiative, resourcefulness, this is one that I really want you all to focus on.
+10:43 If I can zoom in just to emphasize it, okay? In our case, initiative and resourcefulness. In this world, it was like bringing a prop.
+10:52 Something to compliment your presentation. To make it more lively so people wouldn't be bored out of their minds. In your case, it's about going the natural next step.
+11:00 And not just googling what the company or the person does. It's about coming to the meeting with a bunch of firepower in your back pocket that makes you look like you prepared for hours.
+11:10 And I can guarantee you out of everything that I'll show you today or walk you through today. Being hyper-prepared, not just knowing their name and knowing where they work and knowing what that company does, but trying to solve the problem that it seems that they have before they've even properly articulated
+11:26 it will make you look amazing. Genuinely, will make you look amazing. So just to give you an example, let's keep this tactical.
+11:34 Let's say it was someone from Coca-Cola. Okay? And I wanted to guess what kind of things they wanted to automate.
+11:42 I would go to something like perplexity, and I would say, okay, so I have a client coming in from Coca-Cola, Canada.
+11:51 They're responsible for marketing there. They're looking for help to build either agentic workflows or automation workflows based on what they might be doing.
+12:01 So what I want you to do, is go through all Coca-Cola's operations, try to get a sense for what might be the most eligible AI automation related scenarios that pop up day to day that are very practical, not something airy, fairy, hype based, agentic stuff.
+12:16 And I want you to also google this new feature that came out from N8N called the Text to Workflow feature.
+12:23 And I want you to research the company, and I also want you to come back with, a couple prompts that are less than, let's say, 500 characters that I could input into this new feature into N8N, so I could draft a few workflows beforehand, and I'd be able to show them some ideas of things that could be
+12:39 automated, but what I want you to do is complement those prompts with a rationale as to why you slash me thinks that this would be a proper workflow for them to, ideate about in their business.
+12:53 So I'll do something like this. Now, whatever the medium is that you want to do this with, up to you.
+12:58 I just like perplexity for that reason. I will put it on this labs thing, because it comes back with assets.
+13:03 It'll usually take anywhere from 9 to 12 minutes. I'm just gonna double check that I've spelled N8N correctly, so we don't go down the wrong rabbit hole.
+13:11 Uh, it detects the workflow. Okay, I'm just gonna say, text to workflow released October 2025. Excuse my lack of spelling here.
+13:24 Boom. And boom. Alright, so I'll let this run while I keep on the Aposaurus Rex here. Now, if I were to take that exact same rubric and make a version of it, try to apply it to the cine- area, you'd have the same thing.
+13:40 Where, like I said, you want your setup and your agenda. Who are you? What makes you different? What's your goal?
+13:46 And make sure that that goal is intertwined with their goal. Because the best relationships in business are the ones where incentives are aligned.
+13:55 It shouldn't be a zero-sum game. Even sometimes say, like, it's a good negotiation if both people feel like they've lost something, but they've won- and overall game, fine.
+14:04 It's also awesome when both think that they won. They are receiving the information, the guidance, the insight that will set them on the right path.
+14:14 They'll reduce the noise and the BS that's out there every single day. They'll have more focus. And you will be compensated and hopefully build a longer-term relationship.
+14:23 So this interest is very, very concise and you should be- very targeted. The body really depends on the scope of the call, if it's technical or non-technical.
+14:32 But you should spend three to four minutes, very similar to my presentation style. Walking through their problem, obsessing about it, and ideally you're not asking from ground zero.
+14:42 Hopefully you would have had a kindly form or whatever you use to book appointments with some form of qualifying questions where you have enough that you can exercise- Thank you so much for your eyes, what I just did right now in perplexity, and come with an understanding, and you make assumptions out
+14:56 of the game. So instead of saying, what kind of problems are you trying to solve? You would say, listen, based on my background research, I feel like these would be the top three things.
+15:05 Now, please correct me if I'm wrong. That one conversation gives you a completely different shift in leverage in the conversation.
+15:11 Cause now it's not like, okay, here's another AI consultant to have to- explain myself, again, too. They've actually done some research.
+15:18 And it's way more productive to be able to edit an essay you've already written, already have a draft of an essay, versus staring at a blank canvas or a blank screen.
+15:28 Exact same thing for this. It's way easier to make progress, really quick progress, in a conversation, if you already have an assumption, and you are opening yourself up saying, listen, these are- This is everything I could do before I met you.
+15:41 Roast me. But even while they're roasting you, there's gonna be like a level of respect that you've had the ability to take the natural next step, right?
+15:49 Now can you automate this? For sure. I literally automate something in the community, where every single time someone joins, like, I have an AI agent do background research on whoever you are.
+15:59 It sends me an email about it. So, cause once in a while, like, it's hell- careful for me to know the types of folks coming through the door.
+16:06 So I can make sure that when I'm making content or making content like this, I can try to tailor it to the ever-growing audience if I see a trend.
+16:13 You can do the exact same automation. They'll not take you too in too much time to actually accomplish. Now conclusions always gonna be next steps.
+16:21 And you always want to book a call from a call. What does that mean? If this is- This is a discovery call, and assuming it goes well, and you actually want to work with this client, you don't want to leave that call saying, okay, next steps is, I will send you a summary of a proposal, what we offer, 
+16:39 and you go through all this laundry list of stuff, and then you spend the next evening until midnight drafting it, and then surprise surprise you get ghosted, and no one responds to you.
+16:48 That'll happen quite a few times, and I've had that happen to me a few times. Until, ta-ha, and myself, both agreed that on any call, moving forward after a point, that we felt that there was a fit, we would not leave that call till the next call was on the calendar of everyone on that meeting.
+17:05 So that guaranteed, now, could they delete that meeting? Could they remove that meeting? Yes, but it's very different to be on the calendar of someone versus in someone's inbox.
+17:15 box. Where you're competing with all kinds of distractions and different priorities. So that's very, very helpful to do. And I think it's called b-mad, book of meeting, b-mad, no, something like that.
+17:26 Book of meeting from a meeting, b-m-f, something, something. But you got the topic. Now, transitions. You don't want to be choppy.
+17:34 So, when you're doing the intro, you're like, oh, awesome. Where are you from? Oh, Colorado? I love Denver. Like, I actually went to Boulder three, four years ago.
+17:43 It was beautiful. A lot of people go, like, from that side to, like, cool. So, what are you trying to accomplish today?
+17:50 It's just really cringe to listen to these calls. Even, obviously, to be on these calls. You want to be a little bit more swab in the way you, you make a transition or a segue.
+18:02 So, taking that exactly- Exhale. Act, example. I'm improvving. So, forgive me. But if I'm talking about how beautiful Boulder is, right?
+18:09 Boulder called the Rado. I might try to set myself up by saying called Boulder, Colorado specifically. So, I can say, I mean, that's that Boulder.
+18:16 But let's discuss the Boulder that you guys are trying to push up a hill with this whole AI stuff. Right?
+18:21 So, you may get a little chuckle. Oh, this person is not a bot or an NPC. They actually have a way to articulate themselves.
+18:26 health health health health health health health Personality is awesome. Now, all of us are reborn with personality out of the box in our operating systems to this extent.
+18:34 No. My operating system is as dry as a rock. But I've had to, you know, put some makeup and put all kinds of things and teach myself to be a real human being over time instead of a bot that just does cloud code.
+18:49 I'm not saying that you are in that camp. Damn. But you want to be honest with yourself in terms of how, how charismatic are you?
+18:57 And when you say charismatic, a lot of people struggle in saying, like, what are the micro actions that make someone charismatic?
+19:04 You can't just give a command that be more charismatic. It's all about the micro things that you do. The fact that when they come in, you maybe compliment something.
+19:12 You say, oh, wow, that's a cool background. Oh, that's really cool painting. You look for things to build rapport instead of having things handed to you to try to build that relationship.
+19:22 Okay? It's being proactive. The supply is to every part of your life, by the way. Society is now dying in terms of personalities, trust, the ability to build relationships.
+19:32 So if that is a trend going downwards, and we as a community have the unified effort to try to, make sure we keep those values, and we keep that communication going, when everyone else is so good at vibe coding, but they're so bad at communicating, and you're good at both, you're gonna have an advantage
+19:52 . Right? So, that is transitions. Message. Obviously, you wanna focus on whether you wanna talk about solution design, or architecture, or just big picture.
+20:02 Like, our organization needs help. Tomorrow, I'm meeting a venture capital firm, and they wanna discuss how to teach all their investment analysts about how to use Claude properly, for those use cases.
+20:13 They wanna teach all their HR people how to use these systems properly for HR procedures. What about GPDR? What about data?
+20:21 So, you wanna follow the conversation? You don't wanna be yapping, ideally, unless they're waiting for you. Thank you. In your guidance, it needs to be like a 20, 80, 20.
+20:31 They speak 80, you listen, you speak 20. That's in a feeling out requirements conversation. Now, if they're looking for guidance and they've paid you, then it should be, I would say in some cases, 80, 20 in your side, where you have listened and you are now delivering that information.
+20:49 Okay? So, next one is creativity. Creativity. Innovation. So, in this case, it's about, like, expected outcomes. So, in the next steps, it's not just about booking a call.
+20:58 It's about what's gonna happen next. What I think this project might look like if it is a project or an engagement.
+21:05 Talking about what you've done before. And little expert hack here. If you've had a total of zero clients before. And you feel like you need some form of social proof so people don't take you for granted.
+21:15 You might say, okay, what we've done in the past is X, Y, Z. Yes, even if you haven't done it.
+21:21 Assuming that we're talking about a workshop. Something that you know you can upskill on in 24 to 48 hours. If it's, yeah, yeah, we built the whole system for someone before.
+21:30 And you've never done it before. That is just a pure lie. You don't want to lie. There's sometimes some form of puffing of the chest that can occur.
+21:39 And I'm just being- We should be be ready to ready, honest with you. Because if I just- I've had to puff my chest many times over my career, but I always had a promise, an implicit promise between myself and me, which is, I will only puff my chest if I can back it up within 24 to 48 hours.
+21:54 So I can learn the thing, I can obsess about the thing. If I said that I built this in make, but I've never really built it in any den, but I know any den is also an automation platform.
+22:03 for And there's probably a like for like, for a lot of things. I might say, yeah, yeah, we've done like this in any den, primarily, you know, a couple times in make, as long as I know that I can learn it.
+22:13 Don't lie. If puffing needs to happen, to progress, but you know you can back it up, then use that with judgement.
+22:23 Exercise with caution. Now the rest of stuff I've already discussed, which is the nonverbal- terrible. Stuff, the projected confidence. Like people want to draw confidence from you.
+22:32 It's not the other way around. So, especially when it comes to intonations, this is very important. Every time you finish a sentence saying, well, do you guys use any den?
+22:42 Oh, okay, I understand. Well, no, does it make sense if we do this? So if you keep asking, it's like, why am I here?
+22:48 Am I helping you? Or are you helping me? And you can only tap. Hell, that you're doing this wrong? By listening to yourself.
+22:54 And it's painful to listen to yourself. I have to listen to myself every single week when I listen back to my YouTube videos.
+23:00 And I cringe. Even if, hopefully, some of you think they're good. Sometimes I can't stand my own voice. But at least now I'm getting better at putting that aside and focusing on, okay, I worded that wrong.
+23:11 Or I should've explained this using an analogy. I tried to rush this because maybe- like I wasn't happy recording this.
+23:18 Or I was in a rush recording it. These are the things you start to really take note of. Anyone be brutal with yourself.
+23:23 As like brutal as possible. Now, let's just shift gears for a bit. Let's go check in on our perplexity thing.
+23:30 Here's an example. So the whole Coca-Cola analysis gives you some prompts optimized for the text to workflow. So I could take this, go into LN- N-A-N, put this in there, send it over.
+23:46 Right, you can do the same thing, cross the board. It gives you a rationale as to why that automation might be important.
+23:52 You can see expected business impact, campaign performance auto reporting. So now we can go from just like a bunch of prompts.
+23:59 Now, this will take you what, 15, 20 minutes to put this together, to literally copy paste a- Please don't. Workflow, it doesn't even need to work.
+24:06 You can make it work if you want to go the whole nine yards, but this in the next minute will give me something that is just now a really cool talking point where I'm not just sharing my face with someone else, nodding and smiling, saying, yeah, yeah, we can automate everything.
+24:20 I can actually talk about this and be like, listen. This is totally automatable. Here's an example flow. Now, the things that we need, the annoying stuff.
+24:28 Oh. If we probably have to set up, at some point, a one hour handoff call is logging in and getting your API key for X.
+24:35 X can be kind of a pain. Then using Facebook. Then these code nodes here, we just want to make sure that you or your dev team, if you have one, are clear on what you would change after this engagement.
+24:45 This is where you can have a much richer conversation. And you're kind of empowering them. A lot of people have this very scarcity mind.
+24:52 point. I've said that the more I share with a client, the less leverage I have. I am the complete opposite where I will tell them everything.
+24:59 I'll even tell them, listen, we're using text to workflow. The thing with text to workflow is it can do this really quickly.
+25:04 So what we can do is, we can focus on the business requirements and obsess about that instead of obsessing about this.
+25:09 Cause this will need some setup time. Don't get me wrong. But now we can move a lot faster. We've actually gone.
+25:16 Exclusive access to this feature from this company called N&N that allows us to build a lot more easily. Kind of like a very generative workflow.
+25:24 To them, clients don't care how you built the thing. They just want the outcome. Whether you vibe coded it, whether you downloaded it, whether you, whatever, they just want it to work.
+25:34 Right? Now, just shift gears. I want to focus on a few points just to drive these points home. So, the full process of the AI console call is the pre-call, due diligence.
+25:45 Then you do discovery. On the call, you're doing diagnosis, solutioning, and some form of clothes with the next step. Pre-call prep, like I said, you want to do some deep recon.
+25:57 So, research any business models or revenue, any key personnel. Really important, like the deeper you dive. There will be moments in the conversation where you can just look like really smart and like you did your homework.
+26:09 And again, despite AI making this easy for everyone, most people won't even read the summaries from their AI workflows before the call.
+26:17 Cause that's how lazy they are. The less lazy we are, the more options we'll have. So industry trends, and competitors, recent news, launches, this is especially important.
+26:26 Let's say it's a company that's actually actively in- the AI market are trying to release AI powered solutions, this will give you an unfair advantage to know about what's coming.
+26:36 And then you want to form your own hypothesis. So before the call, guess two or three pain points that the customer or client is likely having.
+26:44 So what problem they likely have, another potential issue, a third possible pain, and then you want to test the following during the discovery phase.
+26:51 So- Go. Ideally, you want to have some demo tabs open, like I have now here. You want to have some case studies ready, if you have some, from your prior engagements.
+27:03 Screenshare, prepped, if you have pricing sheets or proposals, have that ready before the call. Like, sometimes the failure is in the proposal.
+27:12 I've taken sometimes 72 hours to drop a proposal, then I probably would have closed business. Is this, If it was done in 12 hours.
+27:18 If you even have a draft of what the thing is going to look like, but the numbers need to change, for whatever reason, anything you can do is not wasted effort.
+27:25 Even if that client no showed you, you start to build the discipline and the habit of always being 10 times more prepared, then the other person that's about to hop on that call.
+27:35 Next one. So, opening, like I said, you can say whatever you want, have a personality. Thanks for your- Time, I want to make sure this is valuable for you.
+27:43 This is more so just, like, obsessed about the other person's intentives. You don't matter, right? Obviously you matter, but on the call, they should be the only thing that matters, or the only entity that matters.
+27:55 So your goal is their goal. And don't ask questions like, what's wrong? You want to ask, what's the goal you're trying to achieve?
+28:02 And what's the pain point that's prevented you f- from fixing it up until now? Am I the first agency that you're contacting?
+28:09 Or have you tried to do this in house? That is proper discovery. Try to dissect. Okay. Is there some political issues here?
+28:15 Is there some bureaucracy issues? Why are we here? So problem scoping, like I said, the business impact. You don't want to ask, what do you want to automate?
+28:24 You want to ask, what repetitive, low value tasks really waste your team's time- that could be eliminated? Or, what golden nugget tasks?
+28:33 Where your team spends like eight hours on it, but it's like responsible for 20% of revenue, or we could just like remove that and like just double down on how many times or the volume of those tasks.
+28:46 And then one of my favorite things to do is ask the question why. And you can keep asking the question- Thank your question.
+28:53 Why? Until it becomes annoying. So if they have some surface level request, yeah, we really want to implement a lead qualification nurture system.
+29:01 Now logically, I can think of many reasons why someone would want to do that. We want to ask why. Okay, so, yeah, we want to do that because our sales people, we only have like three of them, and they're already overwhelmed as it is.
+29:12 We get a lot of lead flow. Amazing. Now, why can't they- See ya. And like, why can't you just upskill them?
+29:19 Why can't they work more? Why can't they work better? Now you keep going. No, they actually work really hard. The thing is, one of them is both an account executive and a sales person.
+29:30 So they're kind of feeling two rules. We're trying to hire for a new role, but we're waiting for a new raise in funding.
+29:36 Amazing. Well, uh, why are you waiting for a new raise in funding? Like, is there something, like, you're trying to get- two in terms of milestone in the business?
+29:43 This is a meaningful discovery where I can scope out multiple things at once. Like, okay, who am I dealing with?
+29:49 Are there any organizational issues, hierarchical issues? Are there budget issues? Is money about to come to their doorstep? Right? If so, now are you going to extort someone because you know they're going to get more money?
+30:00 No. But it's more so you might offer solutions or projects. Well, Jack's. There may be a bigger scope and a bigger budget because you know they probably will be able to afford it and rationalize it.
+30:11 As long as those projects actually would benefit them, not just your pocket. Now, obviously this is everything about the root problem.
+30:19 So, examples in action. If you want to automate invoicing, why is that a priority? Well, client says, takes too much time.
+30:26 How much time? What's the impact? Client. How many hours a week? Fifteen days, cash flow delay. And you're having a humble in it.
+30:33 Problem is, 80 hours a month, wasted, plus cash flow delayed, not just invoicing. So, it's not an invoicing problem. There is something from a business standpoint, a needle that needs to be moved, that they want your help to move.
+30:47 Now, it's helpful from a communication standpoint, and this is what I used to teach to people, is you want to pair- here.
+30:53 For phrase, what someone has just told you. When you paraphrase things, even if you say the last word of someone's sentence, it makes it look like you listen to what they're saying, and more importantly, you're listening to them.
+31:06 So, if I were to say, man, I'm so tired, I've been working on a bunch of tutorials, and I still haven't had a YouTube video released yet.
+31:13 Oh, no, YouTube video released yet? Yeah, it just- . . It's just really hard to juggle everything, because I'm not always in the mood to record, and I gotta make sure I record for the community first before YouTube, but I also don't want to lose my momentum on YouTube, because it becomes really overwhelming
+31:28 . Overwhelming? Now, it's annoying if you keep doing that. But while you're pulling the thread of the last word, you're showing that, ah, I'm hearing you.
+31:37 And this way, you can do it a lot more elegantly. So if I'm hearing you correctly, the real issue is X, not actually Y.
+31:46 Is that correct? Y is just the vehicle to solve X. And then you say, yeah, that's actually it. And this is how you get to the bottom of things.
+31:53 Now, requirements gathering is the what phase? So turning VEGS into specific? So when they say, oh yeah, we have a lot of tickets in HubSpot.
+32:01 We're trying to solve? You want to ask? Amazing. How many per day? A process- I'll see you in just slow.
+32:06 Amazing. What's the cycle time? Yet all of these things take forever. Great. Let's define forever. How many hours? How many minutes?
+32:14 How many hours per day? How many days per week? How many days per month? Like, you want to scope the problem in as tangible metrics as possible for you to work your way to the solution.
+32:26 Now, magic success question. So if we, let's see your- You're trying to do a longer term relationship with someone. You want to ask about the future.
+32:34 Kind of like, employers used to ask you, what do you want to do in five years? So in this case, you could say, fast forward six months from now.
+32:41 This project is a wild success. Like, this is awesome. Everyone's bought in. Your board loves you, right? So like, what specifically changed in the business?
+32:50 What does that look like? Sometimes it's helpful to go blue sky. It's- Especially if you feel like someone's going in the weeds.
+32:56 We'll get clients sometimes, and just like, have memorized words, or memorize the YouTube tutorial saying, yeah, we saw these really cool agents for like, make.com and Zapier.
+33:05 And we now want to implement that all in the organization. And we need to drive efficiency. Whoa, okay. Uh, do you know how Zapier works?
+33:12 Nope, but we kind of got the gist. You put things together and they, you know, you create this little orchestra.
+33:17 straw. Of different bots, and all the AI agents do, and as soon as I hear those words, I, I turn off my ears, and I'm now ready to go back to big picture.
+33:26 Let's step away from, step away from the tools. Put your hands up, step away from the tools. Let's talk about why we're actually here.
+33:32 What's the big picture? The more tool oriented is about a solution, the less solution oriented they are. No. We'll time.
+33:41 You can keep going, and have a full list of these. So the last one is, identify constraints, so technical ones.
+33:47 What platforms does this process touch? So, I want to ask platforms. Talk to me. Talk to me dirty in data.
+33:55 Salesforce, HubSpot, QuickBooks. What's the bu-? Don't ask what's your budget? It's a very provocative question. It's kinda like, let's see myself and my wife go to a card dealership, and someone ask- I'm started.
+34:05 Ask me my budget. Now, assuming that we've already talked about it, that's fine. But let's say I wanted to walk in, and I just wanted to check things out.
+34:15 When someone asks what's your budget, it's kinda like, are you poor? Or can you afford the nice stuff? Oh, you're poor, let me show you X-Car.
+34:24 It's better to worth things a bit better. So, do you have any money allocated- Okay. Or funds allocated, don't say money.
+34:32 Any funds allocated in the company for these AI initiatives? Like, do you have a separate pot for that? Because it's helpful for me to work backwards from what your expectations are.
+34:40 Notice how there, I'm not asking a very blunt, awkward question. Especially now with some people that I see selling automations, they're like, yeah, I could do this for $2,500.
+34:50 Like, I haven't even asked you if I want to work with you yet. Why are you telling me numbers? KATHRYN I mean, let's work our way there.
+34:55 You will get a feel throughout the conversation through this discovery what you're dealing with anyway. So asking this in a very elegant, confident manner will make you look a lot better, make you look like you're actually going back and forth.
+35:09 You worry about them first, and then the money second. The money that is fair to charge to make them happy.
+35:17 So all in all, the big- The next thing I want you to take away from this whole thing is communication is not a luxury.
+35:23 It is the most important thing in this conversation. Consulting doesn't matter. When CHAT GPT-6 comes out and it's way better than you and me at articulating, researching, putting the whole picture together.
+35:35 The one thing that humans will want versus just listening to CHAT GPT is someone that has been- there, done that, has empathy for where they might be struggling, has an understanding of organizational behavior, has an understanding of human behavior, and can marry everything together.
+35:54 So if you don't focus on this, nothing else, you'll learn in this community or other communities will matter. Your technical skills will be one thing, but if you have no idea how to carry yourself in a way that people want to work with you, they see you as- advisor and the person that they see themselves
+36:08 working with three, six, twelve months from now, this will all be in vain. So focus on communication, and I did promise one thing for anyone that didn't have an accent.
+36:17 So let's say you have an accent, you want to work in English, let's make that assumption. We have some friends, I have some friends, YouTubers, smaller a bit, uh, on the size, better- They're still doing really well in the eye space.
+36:32 One of them, I won't name, he actually told us that he has a very thick European accent, and he noticed it was affecting his views.
+36:40 So what he did is, he hired a speech coach, he actually hired a speech coach off of Upwork, and they would do exercises every single week for four, five, six weeks, and his content before, And after those videos, it's not unrecognizable, he still has an accent, it's not magic.
+36:59 But it was way more articulate, it was way easier to listen to. And it's very unfortunate the world will be living, but if you're not as easy on the ears to someone that is native, native, the whole AI stuff is already complicated enough.
+37:12 Now if you add accents in there, it becomes even more amplified as complication. You add even more subtle f-b-b friction to a conversation.
+37:20 So, if you need to go down that route, one, don't be shy and don't have an ego for getting a speech coach, or an articulation coach, to help not remove the accent, but to allow you to articulate yourself better in a language that might not be yours, right?
+37:36 Not your first mother tongue. If you don't want to hire a speech coach, what you can do, it can- can be helpful.
+37:43 Especially if you have chat GBT, and you go on, let's say, voice mode. One thing you can do is tell it, listen, I have an accent, I want to like, just go back and forth with you in practice.
+37:54 I want you to help me focus on all the phonetics, all the slight pronunciations that I get wrong, and you can do this quote unquote for free using voice mode.
+38:05 I personally, you- use voice mode. Especially when I'm about to go into a sales call, I'll do them once every blue moon.
+38:12 I had to do one purely in Spanish, uh, a month and a half ago. And I speak decent Spanish, I'm not- wow, like, I used to be way better back in the day.
+38:22 But it was with this Mexican lawyer who only spoke in Spanish, but really wanted advice on a particular topic, and wouldn't leave me alone.
+38:30 Until we got into a paid consult. So I went back and forth, because I wanted to prepare my mental- mental math, okay.
+38:36 How are some ways I can position some questions, some like, discovery questions? So it would correct my pronunciation, because my stuff was really rusty.
+38:45 So I'm not too proud to do this, right? It's important that you invest in where your flaws lie. And last thing I'll say is I'm also hiring- a speech coach for me in December.
+38:57 Because next year we're gonna go aggressive on going on some podcasts that I've been shy to get on, because I feel like, although I can't articulate myself, my storytelling when it comes to that kind of format is not fully there.
+39:10 Sometimes I don't find the words that I'm looking for, and I look up a lot. I notice myself even while I'm describing this to you right now.
+39:16 Obviously I'm improving this whole video. Like I'm not scripted at all. But it's helpful to know where you have a deficiency.
+39:24 So I'm gonna be zeroing in on my deficiency to know how to go back and forth on a podcast, and not look up, not have to recall stories, but kind of have things readily available to me.
+39:35 So if I'm not too proud, then you shouldn't be too proud. I know this is a bit longer than the average ones, but I thought this would be super important for you.
+39:42 Because if you got, this down, this alone could be a two, three month project. It's not the fact that you don't know how to do any then that's stopping you.
+39:49 It's the fact that you can't communicate, or can't communicate effectively enough.

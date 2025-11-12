@@ -1,0 +1,261 @@
+Post Content:
+How to diagnose three client scenarios and when to pump the brakes
+24 minutes on pattern matching by company type, the recommendation framework that prevents scope creep, and the red flags that scream "this client will be a nightmare."
+What you'll watch:
+- Three company archetypes and what each one actually needs
+- The platform prescription framework (ChatGPT vs Claude vs Gemini vs Custom)
+- Blue sky scenario sessions that unlock hidden use cases
+- Red flags that mean pump the brakes immediately
+The core problem this solves:
+Discovery calls fail because of noise on both sides:
+- You're rambling, adding too much context
+- They're confused, pivoting left/right/center
+- The message gets lost in translation
+Goal: Bridge the gap when articulation fails on one side and digestion fails on the other.
+Scenario A - Small Team (5-20 people)
+The setup:
+- Everyone uses free ChatGPT
+- Real startup, broke, maybe bootstrapped
+- Core tools: Gmail, Notion, Slack
+- Budget: $500-$2K/month (including your fee)
+- Needs: Simple setup, quick wins, low overhead
+The diagnosis:
+If max budget is $2K and ChatGPT Teams is $25/person:
+- 20 people × $25 = $500/month (25% of budget)
+- If they're risk-averse and only spend $1K, that's 50% of their AI budget
+Can you do everything with just ChatGPT? Yes.
+Why: Gmail, Notion, Slack all have MCP servers/connectors → Everything can route through ChatGPT Teams → Add agent builder, custom GPTs, projects, workflows → They're set.
+Your prescription: "Just pay for ChatGPT Teams. Higher security than free version. You can connect to any API with custom schemas if there's no native connector."
+This team needs ONE tool done right, not 15 tools done poorly.
+Scenario B - Mid-Size (21-100 people)
+The setup:
+- 10-15 paid AI tools
+- Using each tool only 20% of potential
+- Tools conflict (didn't know ChatGPT does images like Midjourney)
+- Knowledge in multiple places
+- Budget: $2K-$10K/month
+- Needs: Phased rollouts, department focus, integration priority
+The diagnosis:
+Not broke. Not lacking resources. Lacking direction.
+Your goal here: Small retainer to keep your foot in the door ($200-500/month)
+Why: You stay embedded → Trusted advisor position → When workshop/roadmap opportunity comes up, you're already there
+The phased rollout strategy:
+1. Start with 10 power users (revenue-adjacent roles)
+2. Run a pilot for 2-3 weeks
+3. Get scattered data into central repo (Google Drive/Dropbox/OneDrive)
+4. Cut 15 tools down to 5 (or even 3)
+The secret weapon: Claude Code
+"I don't care if you're not developers. I don't care if you're afraid of the terminal. This is your Swiss Army knife for building anything at scale."
+Focus on sales/revenue-adjacent departments first.
+Why: If they report to a board, they need tangible return on initial value (not ROI, but first taste of what's possible) → More budget gets unlocked → Skeptics start paying attention
+The Blue Sky Scenario Session:
+After 2-3 weeks of pilot success:
+Bring in people who experienced the first "aha moment"
+Ask: "Now that you know a sliver of what's possible, what would change your day-to-day? How could you become 10x more efficient? In a perfect world where AI didn't hallucinate, was affordable, what would you want to accomplish?"
+Will you grant 90% of these wishes? No.
+But you'll hear ideas from people who wouldn't otherwise speak up.
+Take those ideas → Run them through RICE scoring framework:
+- Reach: How many people affected?
+- Impact: What gets solved?
+- Confidence: Out of 100, can you actually build this?
+- Effort: How much work required?
+Use this to prioritize the blue sky ideas systematically.
+Scenario C - Enterprise (100+ people)
+The setup:
+- Many systems (Workday, Greenhouse, Salesforce, HubSpot, Zoho - 8 systems where 1 would satisfy a normal company)
+- Heavily siloed knowledge
+- Complex approval processes, bureaucracy, red tape
+- Needs: Pilot programs, security reviews, change management
+The brutal reality:
+6-12 months to fix their system architecture → That's long-term, not immediate win
+These enterprises need to LOOK like they're embracing AI (public/private shareholders) → They need shiny things that work NOW
+Your hack: Build something that lives OUTSIDE their spaghetti back-end mess
+Example use case: Knowledge sharing tool for 522 product SKUs
+Vibe code something immediately accessible by dozens of users → One central knowledge repo → User research to populate it → Shows the org what "moving quick" looks like
+Why you care about moving quick: Break down red tape ideologies, resistance to change, inspire them to throw resources at manifesting the AI dream
+Enterprise warning: Never the same content twice. Each situation has unique political factors, EU regulations, medical constraints, controversial products, etc.
+The Recommendation Framework:
+Step 1 - Choose the platform (match requirements to tools)
+ChatGPT when:
+- Need broad integrations
+- Google Workspace heavy
+- Team collaboration required
+- Want image generation + voice features
+- Want one ecosystem (plus fine-tuning, assistants, agent builder)
+Claude when:
+- Deep reasoning required
+- Complex analysis needed
+- Document-heavy workflows (unless docs are too large)
+- Research tasks
+Gemini when:
+- Google ecosystem locked in
+- Video input required
+- YouTube integration needed
+- Cost-sensitive (very gracious free rate limits)
+Custom Build when:
+- Enterprise with resources
+- Blue sky scenario made it obvious
+- Production-level code deployed on cloud provider (not vibe-coded app)
+- This is enterprise play only
+Step 2 - Explain the trade-offs
+Make it abundantly clear: "Your recommendation comes with sacrifice."
+Example: They love Gamma's yellow/blue design. Claude's PowerPoints look more dry.
+These are touchy-feely things you need to rip off like a bandaid.
+Be politely savage: "Like a personal trainer, being nice when you're 100 pounds over your weight loss goal won't help. You need to cut refined carbs and hit the weights 5× a week."
+The honest advisor play:
+"I could charge you hourly and you'd need me for 6 months. I could accumulate billables. But I want to sleep at night knowing I gave you highest information density per minute. I want to get you there in as few steps as possible."
+Step 3 - Create Plan B (the redundancy plan)
+Every organization has its own heartbeat → Plan A might not work
+Plan A roadmap: 30/60/90/180/365 days
+Plan B: If you get crazy C-suite pushback or Luddites poison-pill the company
+Backup options:
+- Open source models?
+- Self-hosted N8N instances?
+- No licenses needed if someone blocks subscriptions?
+Real talk: "I've been on calls with 10 people who hate my existence just because I'm trying to help them embrace AI. You won't always be seen as the hero. Sometimes you're the villain." 👀
+Common pitfalls to warn them about:
+Don't chase features
+Don't overbuild (don't use 10 agents because YouTube made it look sexy)
+Don't skip foundations
+Don't rush rollouts
+Don't ignore training (upsell opportunity for workshops)
+Don't forget security (some companies will streak naked with customer data)
+Build philosophy:
+Simple > Sophisticated
+Build 80% first, worry about 20% later
+Foundational > Flashy (unless you need quick win for political reasons)
+In-house > Agency (business requirements change constantly)
+RED FLAGS - When to Pump the Brakes: 🚨
+"We need AI agents NOW"
+→ No you don't. You need to get your grip together. Even in best workflows, AI agents are used once or twice max. Determinism is the best way to build workflows.
+"I saw this on LinkedIn"
+→ Scope creep superhero. Red flag incarnate.
+"My competitor has it"
+→ You're building AI for wrong reasons. Different companies, different heartbeats, different bureaucracy. What works for them won't work for you.
+"It MUST be cutting-edge"
+→ Cutting edge = bleeding edge = high risk of bugs, landscape changes, technology shifts. Don't build enterprise-scale on something that came out last week.
+When you see multiple red flags: Pump the brakes. These clients will be more headache than blessing.
+The future-proof recommendation:
+"Here's the minimum stack this organization needs. No matter what Gemini or Anthropic releases next month, stick to this. Even if it looks like you're behind for one month, next month you might have the leading model. Once this permeates through your team's lens of AI, you'll be the trusted advisor."
+Next episode: Solution design - how to architect AI implementations that actually stick
+
+Transcript:
+00:00 Alright, so in part one, we looked at how to kick off a discovery call, how to go through the core needs of the client or customer, and in this part two will walk through not only some common scenarios, but some ways of creating mental frameworks around a call.
+00:15 Because what happens on a lot of discovery calls is you have face noise occurring on both sides, meaning you're making a bunch of statements and maybe somewhat rambling, maybe you're adding way too much context more than needed.
+00:28 And on the client side, sometimes they're genuinely confused. So they go left, right, center, they shift, they pivot, and the message really gets lost.
+00:38 So the core goal is, how do you bring a conversation that is destined for failure because of complication, overwhelm, and inability to articulate on one side, and maybe an inability to digest all the lack of articulation on the other side?
+00:52 How do we bridge that gap and split the difference? So, let's look at some comments there to start off. So one is, you have a small team, let's say 5 to 20 people, and everyone uses the free version of ChatGbT, real startup, real broke, maybe bootstraps, haven't raised any money.
+01:10 They have the core tools that you can get free trials on, or at least some credits on for a while, and then you have knowledge all over the place, you have a budget from anywhere from 500 to 2K a month, by the way, that includes the cost to hire you for your time, whether that's a retainer or an engagement
+01:29 . Then their needs, they want a simple setup, they want quick wins, and they want low overhead. This is a more than common scenario, especially now, with a lot of startups popping up everywhere.
+01:41 Alright, so a team like this is typically struggling, and what you want to focus on is what is worth their dollar.
+01:48 Now, if it's a team of 5 to 20, maybe they can't afford all of them to get chativity teams. So let's assume $25 a month.
+01:57 That's the price of chativity teams. This would be $500 a month. This would be assuming that 2K is their max.
+02:04 This would be a quarter of that budget, right? Ideally, most likely, they'll be very risk-averse, they'll only want to spend $1,000.
+02:13 So this is a half, 50% of their AI budget. Now, can you do a lot with just ChatGBT? In this case, yes, because if it's Gmail, Notion, and Slack, all of them have integrations, connectors, MCP servers, you can connect them all to ChatGBT.
+02:31 So most likely, you can do a lot of the solution on what can be done, even now with automation in terms of you had to live just on OpenAI.
+02:40 You could use the agent builder in combination with this and give them from automation to to custom GPs, to projects, to workflows, everything they'd need to be effective.
+02:51 And they can even use, let's say, an API, any API that has a very high rate limit. So you can even create custom GPs with custom schemas that connect to disparate services, assuming there's no connector or MCP service easy to hook up.
+03:06 You have options. But in this case, the diagnosis would be just pay for charity teams. It also gives you a level of security that's higher than normal charity BT.
+03:15 So if security is on their mind or if it's a good thing as an extra bonus to making this financial decision, that's probably the only thing this team would need.
+03:24 The next one, mid-size. So not necessarily broke and not necessarily lacking of resources, but maybe lacking direction. So scenario B is they have some some paid AI accounts, maybe they have 10 to 15 tools they pay for, they use each one only 20% of the way, meaning a lot of potential is left on the 
+03:45 table, there might be a lot of tools that conflict in terms of what they can do. They just might not be aware that you can create images in ChatGBT, the same way you can do images in mid-journey, unless you're going really deep in terms of detail.
+03:59 The next one is in terms of knowledge, it's also in multiple places, their budget could be 2k, 10k a month.
+04:06 Usually, this is a decent zone for you to position yourself for a small retainer. Your goal here is not to be bloodthirsty, your goal is to have your foot in the door of the business.
+04:17 So you are perpetually a part of the conversation and if and when something arises like a workshop or an opportunity to go deeper and build a roadmap or build the entire AI strategy for the organization, you're there for an affordable amount per month and you're looked at as the trusted advisor.
+04:34 Now in terms of needs, you have phased rollouts, department focus and integration priority, Meaning, they don't want to go all in across everyone now.
+04:44 Maybe for the, let's say it's 50, it's the midpoint of this size of company. Maybe we want to do for the first 10 employees, like power users, or the folks that have the most mundane monotonous tasks, but are also very revenue adjacent in terms of what they do day-to-day.
+05:00 These might be the people that you roll this out to, and you run a pilot, and again, name of the game.
+05:07 multiple places, disparate data, you want to make this into a central repo or a central hub. Scattered, take the list of all the tools they have, create some form of table, I look at the pros and cons with the tech marks of what each one can do, and I can guarantee you, you can get 15 tools down to five
+05:25 or even down to three, especially if you introduce what vibe quoting on steroids looks like. Not so not some lovable or bold.new business, We're talking cloud code all the stuff I've been teaching all of you if you can empower them to show them I don't care if you guys aren't developers.
+05:45 I don't care if you're afraid of a terminal This is what you can do. This is one magic Swiss Army knife that you can basically use anything with and build from Web apps to custom GPT's to whatever you want anything at scale That's where this makes a lot of sense to pitch and this is where department 
+06:04 focus is really important I'll usually focus on sales adjacent or revenue adjacent first and you'll work your way down. Because if they're looking for some form of tangible value, especially if they have a board or shareholders to report to, having a pulse for return on not necessarily investment, I'd
+06:24 like to call it return on initial value in brackets from Genevieve. It's that first taste of what's possible that will one make an organization want to invest more money and throw more money at the fire.
+06:38 And two, it will get different folks in the organization that might be a afraid of AI or B, not Luddites, but not really your first customers that will jump on AI use cases.
+06:50 Blue sky scenarios are basically creating blue sky scenarios where now, let's say after rollout and the pilot goes live after two, three weeks, you can have a separate session.
+07:01 And I like to call this a blue sky scenario session Where you bring people in that have now experienced the first aha, the first spark of the fire of AI, and then you walk them through and ask them, now that you know just a sliver of what's possible, what do you think would change your day-to-day life
+07:19 ? How could you become 10x more efficient? And I know that's a bit of a vague metric, but you're basically saying that to push them to think, like, okay, in a perfect world where Jenny and I didn't hallucinate, didn't BS, was super affordable, even for the smartest models, what would you want to accomplish
+07:35 with it? Or what do you wish you could do for you? Will you be able to grant that wish like a genie?
+07:40 90% no. But you'll be able to start hearing ideas from people that might not otherwise speak up. Then you can take those ideas and apply whatever framework you want.
+07:51 In Project Management, you can do something called Rice Scoring by Google that for you. So you see the breakdown of the framework right scoring is usually really good images to break it down.
+08:01 Let's go over here. Let's say we take this, right? Let's zoom out. Let's try this again. Let's do control plus.
+08:11 All right. All right, technical difficulties where we got it. So it's your reach is for particular solution. how many people or employees, or even customers, would be affected by taking this project from beginning to end, to end rather, the impact, which is, what is the effect of solving this?
+08:33 Like, what will we get solved? All of these things have numerical elements to them. You can use shasharty and cloud to help you come up with this.
+08:40 Confidence is, let's say, out of a hundred. How confident are you that you can actually build this thing and you'll reach the reach and impact clear prescribing will happen, and they divide this by effort.
+08:52 In effort also has its own parameter. Once you run this equation, you can start to help prioritize a lot of these blue skies in your ideas.
+09:01 Now, next one could be an enterprise. Now, while many of you might not start here, the goal is to eventually have one or at least a taste of working with one of these because they have much deeper pockets, much deeper use cases, and also usually much deeper, messy back ends.
+09:20 We're talking private equity companies that go through all kinds of mergers and acquisitions, where we have systems, not just like disparate data in those systems, we have systems that are all over the place, because they have acquired one company that uses Workday for their HR, and then another company
+09:36 that uses greenhouse, and then they have Salesforce going, then they have a HubSpot, then they have a Zoho, like eight systems that one alone would satisfy an average organization, they have all of them.
+09:49 How do you make use of that mess? How do you bring order to that chaos? How do you do it quickly?
+09:56 You're surely not going to do it from a system standpoint. That needs some bridging and migration and some data architecture planning that will take six to 12 months.
+10:04 That's long term. In this world, you could have, like I said, many systems, heavily, heavily siloed knowledge, budget, with complex approval, bureaucracy, red tape.
+10:17 So these will need pilot programs, security reviews, change management, and my biggest hack I'd give you is if you live in this world of enterprise, where most of these enterprises report to either internal shareholders, external shareholders because they're publicly traded, or both, rough scenario, 
+10:36 they need to at least look like they're embracing AI. So the need things that are shiny that work, meaning saying you have a six month idea for something that kind of might work, high, high risk of verseness to that, a version rather to that, they probably won't pursue that.
+10:53 You need something, or an idea, or an implementation that lives outside of this mess, this spaghetti linguine tortellini mess of the back end.
+11:03 So as an example, imagine you can come up with an idea of a use case, let's say, just simplify things, knowledge sharing.
+11:11 So everyone on their customer success and sales always struggle to remember their 522 skews of insert type of product here.
+11:20 What if you just quote unquote vibe coded, something that was immediately accessible by tens of users, one central repository of knowledge, you could do user research to come up with what that knowledge would be.
+11:32 And that's one thing that That shows the org of the power of moving quick. Now why do you care about moving quick?
+11:39 You care about moving quick because it's really hard to break down an organization full of red tape ideologies from the past, resistance to new things, resistance to change naturally which humans suck at individually and as a team.
+11:56 This will help give them a taste of what's possible and hopefully, hopefully no guarantees here. Inspire them to throw some resources, not just to you and your comp, but resources to help you Manifest that AI dream in the organization.
+12:13 So enterprise very sticky This will deserve probably a lesson of its own because it is never something you can reproduce.
+12:21 The same content The same spiel will typically not necessarily work from one organization to the next because each situation is different Sometimes it's just public, sometimes it's just internal, sometimes it's not only a combination of both, but there are political factors.
+12:35 There could be, they're in the EU, they are a medical company, they have a very controversial drug that people either love or hate them for, there's all these moving factors and variables.
+12:46 No. Recommendation flow. Now, when you make a recommendation in general, how are we going to be honest AI doctors instead of AI drug dealers?
+12:54 So, you want to choose the platform, basically understand their needs, try and match requirements. So if they do have six systems or 15 AI tools, your job as the consultant is to try to simplify things and simplify and lean down that stack and come up with a plan on how they might be able to do that.
+13:15 You might not need to prescribe this from a data or AIT architecture if you don't have that skill set, you could at least subcontract someone to help you do that, a solution architect.
+13:26 Now, for example, chat with you would be a great prescription if you need broad integrations. If they are Google workspace heavy, if they need team collaboration, image generation, voice features, right, and they want to live in one ecosystem where you can go on platform that open AI and do fine tuning
+13:46 , you can create assistance, now you can do agent builder which I hope will actually become usable and good. And then Cloud, if they need really deep reasoning, complex analysis, their document heavy, and their documents aren't too long or large, because then you'll hit that natural limit, which until
+14:03 they get to a million tokens on the front end, which who knows when that's gonna happen, probably wouldn't be the best bet, unless they're gonna use a connector or an MCP server to upload context to and then refer to it otherwise.
+14:14 otherwise. And then research tasks, clouds awesome for that. Gemini, if they're in the Google ecosystem, comma, they want to do things like inputting videos and having that understand it.
+14:27 They want to be on the cutting edge of anything that is in the Google ecosystem. So maybe they care about the YouTube integration, whether it's for their company channel, their company spokesperson, they want everything that is Google oriented integrated in one fails whoop without having to build and
+14:43 it didn't work close or get their hands dirty and then also cost sensitive because Gemini even from an API standpoint has very very gracious free rate limits as well as just like very strong APIs for inexpensive usage and then custom build is something you almost never want to look at unless you are 
+15:04 dealing with an actual enterprise that has the resources just to do this, or if during that blue sky scenario I referred to earlier, it becomes unbelievably apparent that there is something that you can solve if you build something custom.
+15:18 And when I say custom, I don't mean to buy a quoted app. I mean, actual production level code deployed on one of the cloud providers that's built properly with testing, with a whole code base, all the fancy stuff, all the stops.
+15:31 This is primarily an enterprise play. Nothing else I would do is for usually. So once you prescribe how to lean down and why you can lean down, you want to explain why.
+15:41 So in the recommendation, you want to go through why this fits, what you get, not you, but them. And what you lose by making the shifts that you recommend.
+15:51 So you want to make it abundantly clear. It's not just grass is greener on your side that your side comes with some sacrifice.
+15:58 Maybe they love having Gemini Claude and Gamma and insert like six more tools here that all kind of conflict. They love the way that Gamma creates the yellow and blue design for this thing or that thing, and they don't like the way that Claude, even though it's much better, sometimes has a PowerPoint
+16:17 that looks more dry and lifeless. These are little touchy-feely things that you need to rip like a bandaid. There are many touchy-feeling things.
+16:27 There are many rather touchy she feely things in business. It's hard to quantify, especially everything's personal-specific. One person might care about the design.
+16:38 One person who then replaces that person might not. So your job is, again, to be polite, but be politely savage, where if you want someone to reach their goal, kind of like a personal trainer in a gym, then being nice to you and saying, you're amazing when you have a weight loss goal and you are a hundred
+16:55 pounds over that goal, it's not gonna help you, right? being a bit strict on you until you listen. You're going to have to hit the weights five times a week, you're going to cut out all carbs or refined carbs like bread or rice out of your diet.
+17:08 And you're basically building that camaraderie as a partner because you're only being this strict not because you are not a such a beautiful pleasant human being is because you want to help them get to X in an additional play.
+17:21 And again, the honest person's play is to say listen, I would love like in a perfect world for me to just like charge you one hour at a time and you will want to use me as a crutch.
+17:34 You'll need me for six months. You know, I could be an evil genius like that and I could accumulate a lot of billables.
+17:40 But I like to go to bed sleeping at night knowing that I am doing my job and giving you the highest information density per minute.
+17:47 So in pursuing that goal, I want to get you there in as few steps as possible. So although you love this beautiful UI in Gamma, you probably don't need it.
+17:58 You could probably just get away with just using Claude and using their brand new feature that creates polished PowerPoint index, Google Sheets, even Microsoft Word documents, and we can leave that to the side.
+18:10 You guys raise more money. If you really find like a solid discount, then let's let's talk about that, okay? Let me go through alternatives if they're really pushing you back.
+18:19 So other options, again, going through the trade-offs and focusing on future proofing, which is, here's a stack that I think you should stick to.
+18:28 These are the minimum tools that I think this organization needs. Whatever happens, if Gemini comes out with this and a Thropic comes out with that, no matter what happens there, I think that the best course of action is for you to have this, this, and this tool.
+18:46 And even if it looks like they're behind for one month, the way this space works is one month they're behind the next month.
+18:52 They are the leading model in the world for XYZ. So once that's permeated through their lens of the AI space, it helps them a lot.
+19:01 It will help you a lot to one look like a trusted advisor, not look like you will be a trusted advisor.
+19:06 And to give a solid path to what can be unbelievably overwhelming, not just to us as practitioners, but to them as people that have to run a business version foremost in all of this other AI stuff is kind of like a side quest that they know they need to do but they don't have the time to dive as deep
+19:24 as we do in this particular topic. And you know what? It's good sometimes to create a plan B because creating a plan of how to use tools, even if you've done it before, you've seen other organizations succeed, every organization has its own unique heartbeat.
+19:42 So how do you make a plan B, a redundancy plan in case things don't go as planned? Create a pivot plan.
+19:50 So this is our plan A, road map for the next 30 days, 90 days, 120 days, 180 days, and if they're very long, long-sighted, 365.
+20:01 And this is what plan A is for each of those time intervals. And here is what plan B is, assuming that you You get crazy pushback from C-suite.
+20:09 You have the Luddites in the organization that hate the word AI that can spell it, but hate the way it looks, hate the way it sounds, and will push back no matter what.
+20:19 And we'll even poison pill the company to make sure that you can do your job. What is Plan B? Is it open source?
+20:25 Is it self-hosted NADN instances for everybody? You don't have to worry about paying for licenses. If someone is blocking finances or blocking, getting subscriptions and licenses to push your agenda forward.
+20:36 You might sound like I'm creating a very hypothetical scenario, but the reason why I can riff like this with no script in front of me is because I've been in calls where I have 10 people on the call who hate my existence from being there just because I'm trying to help the organization embrace AI.
+20:52 Zero in those cases trying to replace anybody, just trying to empower everyone. So just be aware that you will not be seen in all lenses as the hero, you can sometimes is be seen as the villain and you have to help like basically navigate your way to try to be seen as an actual person that wants to help
+21:10 not replace the disclaimer unless your job is to replace in which case that is a different lecture warning face some common pitfalls you want to warn them to not chase features to not over build don't use 10 agents because you saw it on someone's YouTube channel And it looked super sexy.
+21:29 Don't skip foundations. Don't rush rollouts. Don't ignore training. This training also gives you the ability to upsell for workshops. And don't forget about security.
+21:39 Now, some of the companies you won't need to lecture them about security because that's going to be baked in. But some companies, literally, will run the equivalent of streaking naked and not understand the consequences of what they're doing and what data, what customer data they are are putting into
+21:54 the ether, into the abyss, and not understanding any of the fine print as to what happens to that data. And just to finish off, in terms of explaining, we're moving to a world, like I said before, where I think that building AI in house, especially automations, is gonna be much better for an organization
+22:09 than having an agency build it, and then having to iterate a thousand times as business requirements inevitably change. Then we have simple oversophisticated, build the easy stuff first, build the 80, then worry about the 20 and then foundational stuff versus the flashy stuff unless you need a quick 
+22:27 win, in which case sometimes you need that balance of foundation and flashy. Some additional red flags are spot in a client as to whether or not, not necessarily they're worth working with, but whether or not it spells trouble.
+22:43 So we need AI agents now, enormous red flag. You need a grip, you don't need AI agents. Even in the best workflows, I will use an AI agent maybe once or twice, maybe.
+22:57 And I don't think I don't see that changing, even if we get better models. The terminism is the best way to build a workflow.
+23:04 I saw this on LinkedIn, wow, like this is, scope creep, avatar, champion, superhuman. Next one, my competitor has it, that means you're building AI stuff for the wrong reasons.
+23:17 build on things that will move you forward. And most likely, these two organizations don't have the same heartbeat, don't have the same bureaucracy, don't have the same personnel.
+23:28 So just because it works for one competitor doesn't mean that you have to. Maybe there's urgency to innovate because of that competitor.
+23:35 That's fine. That's where things again can become a little bit more exciting. thing. Next one must must be cutting in.
+23:43 Again, this falls into the agent scenario. No, it doesn't need to be cutting edge, cutting edge bad. Cutting edge means highly, basically, highly risky that things chain, landscape changes, technology changes, bugs up here.
+24:00 We do not want blood bleeding edge. We do not. And what I mean by bleeding edge is to define it something that came out last week.
+24:07 We're probably not going to build an enterprise scale thing on something that came out last week. Now an upgrade to a version like you were building on Claude, and then you went to Claude Code 2.
+24:16 That's an upgraded version. Will there be bugs possibly? Sure, but because it's the sequel, most likely it is an improvement or a positive step change from zero.
+24:27 And then this is typically where you want to pump the brakes. If you have a lot of these that sound like they're gonna be more of a headache than a blessing.
+24:36 And in the next one we'll look at solution design.

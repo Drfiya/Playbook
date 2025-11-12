@@ -1,0 +1,193 @@
+Post Content:
+You're probably not as good at discovery calls as you think you are 😳
+You can use Gemini 2.5 Pro's video input capability to audit your own performance, catch verbal and non-verbal mistakes you don't notice, and systematically improve every call you take.
+What you'll watch:
+- The "Arya" prompt system that reviews your calls frame-by-frame
+- Scorecard framework: Clarity, vocal delivery, body language, questioning, client engagement
+- Real autopsy of an actual client call (name redacted)
+- How to catch filler words, pacing issues, and moments where clients disengage
+- Why AI feedback hits different than human feedback
+The brutal reality:
+"You can get curveballs left and right. Sometimes it takes 30-40 minutes for someone to get to the point of why you're there to begin with. You assume it's either a good call or bad call, rarely neutral."
+Most consultants take the outcome at face value. Winners dissect every call systematically.
+The problem with self-assessment:
+On the call:
+- You think you're articulate
+- You think you're smiley and composed
+- You think your points are landing
+Reality:
+- You used 47 filler words in 15 minutes
+- Client's body language showed confusion at 7:35
+- You leaned back the entire call (signals low engagement)
+- You spoke for 45 minutes of a 60-minute "discovery" call
+You need an external audit. Human feedback = defensive reactions. AI feedback = neutral truth you can actually absorb.
+The Arya System (Full Prompt Framework):
+Persona setup:
+"You are Arya, an expert in communication and executive presence coaching specializing in high-stakes B2B technology consulting. Your methodology combines principles of linguistic analysis, sales psychology, and nonverbal communication."
+Task:
+"Analyze the attached video. I need a comprehensive, brutally honest, yet productively constructive performance review. Your feedback should be direct, but framed as opportunities for improvement, focusing on actionable advice."
+The scorecard categories:
+1. Clarity (How clear were you?)
+2. Vocal Delivery
+3. Authority
+4. Body Language and Presence
+5. Questioning and Listening Skills
+6. Client Engagement and Resonance (Did your points land?)
+"These things you can see in person easily. Posture. Tone. But virtually, much harder to gauge on the fly."
+How to use it:
+1. Record call on Fireflies, Zoom, Google Meet, or Fathom
+2. Download the video file (doesn't need high resolution)
+3. Upload to Gemini (accepts video input)
+4. Run the Arya prompt
+5. Get timestamps, quotes, and specific moments to improve
+Critical: Only do this if calls don't have sensitive client information.
+Breakdown by principle requested:
+Principle 1 - Clear Articulation:
+- Are you structured and concise?
+- Filler words and pauses (uhh, uh, you know)
+Principle 2 - Verbal and Nonverbal Cues:
+- Eye contact (or looking up when ideating)
+- Posture and confidence
+- Gestures (are you moving hands too much?)
+Real comment from YouTube: "Someone told me to tie my hands together. Interesting. I actually more consciously see what I'm doing with my hands now."
+Principle 3 - Client Analysis:
+- Analyze CLIENT's body language throughout call
+- Pinpoint moments they seem convinced, unsure, or skeptical
+- Timestamps with quotes: "This is where you could have done better"
+Principle 4 - Ask More, Say Less:
+- Talk-to-listen ratio
+- Are you giving them space to process?
+Principle 5 - Storytelling and Analogies:
+- Did you articulate thoughts in a consumable way?
+- Did analogies land?
+Output request:
+"List top three most impactful things I can focus on to improve my next client call."
+Real autopsy example (actual call breakdown):
+Executive Summary:
+"High energy session where your passion and deep subject matter expertise were clearly evident. This strength is currently coupled with a rapid-fire delivery that risks overwhelming the client and undermines your authority."
+Scorecard results:
+- Client Engagement: Amazing
+- Questioning and Listening Skills: Clearly not the best
+- (Other categories scored and broken down)
+Actionable feedback received:
+Issue 1 - Over-indexing on ideas:
+"Your mind moves exceptionally fast. But you tend to present a fire hose of ideas without sufficient breaks for the client to process. At [timestamp], you rapidly list at least five distinct complex concepts in 12 seconds. This barrage can cause a senior client to disengage from the details and simply wait for the storm to pass."
+Fix: Rule of Three
+"When brainstorming, limit yourself to the top three points."
+Issue 2 - Filler words:
+Primary fillers: "like," "you know," "right" (with upward inflection)
+"These are the most prevalent." [Shows exact timestamps where they occurred]
+Real reaction: "I usually don't have these. I pride myself on speaking decently well presenting-wise. But in a call, you're taken from your zone of comfort into a different zone."
+Issue 3 - Fear of silence:
+"You often use a filler word to bridge the gap between your thoughts."
+Nuance discovered: "I've used pauses before. Then clients will use it to speak over me."
+Context matters for feedback interpretation.
+Body language breakdown received:
+Eye Contact:
+"Strong and consistent. Minor natural breaks when thinking at 7:35 are acceptable."
+Posture:
+"You're leaned back for much of the call. While this can signal relaxation, for high-stakes C-suite conversation, slightly leaning forward non-verbally communicates higher engagement."
+Context revealed: "This was me in a hotel in Dominican Republic working from there. I can totally see how I would be more relaxed than normal."
+Gestures:
+"Your energy is fantastic." (More praise than critique here)
+Client body language analysis:
+Moments of Conviction:
+"Client was most engaged when you provided clear, actionable frameworks. He nods his head affirmatively and leans in slightly when you start to discuss concrete models like RICE."
+Moments of Uncertainty:
+"Client displayed contemplative or slightly overwhelmed body language when your pace accelerated." [Exact timestamps provided]
+Speech mastery feedback:
+Pacing issue:
+"Many of your declarative statements end with an upward inflection. Like: 'And that's a huge opportunity, right?'"
+Why this happens: "Sometimes I do that to make sure the person on the other end of the line is still with me."
+AI catches the pattern you rationalize away.
+Talk-to-listen ratio:
+"Ratio is heavily skewed towards you talking."
+Context provided: "This client wanted to listen more than they wanted to share with me."
+Lesson: "Pull out some nuance. Keep in mind all your cases will be different."
+Why AI feedback works better than human feedback:
+"If anyone ever told me this themselves, I would definitely go into defensive mode. But because AI is neutral, I will take it more without the grain of salt."
+Human feedback = ego protection kicks in
+AI feedback = pure data you can act on
+The systematic improvement loop:
+1. Record every call (with permission)
+2. Run Arya analysis within 24 hours
+3. Note top 3 improvements
+4. Practice those 3 things on next call
+5. Re-analyze next call
+6. Track improvement over time
+Speaking headlines principle:
+Instead of: Five complex concepts in 12 seconds
+Do: Three clear points with pauses between
+Instead of: 45 minutes of you talking
+Do: 20 minutes talking, 25 minutes listening, 15 minutes co-creating
+Instead of: Leaning back entire call
+Do: Lean slightly forward during key moments
+The compounding effect:
+Week 1: Identify you use "like" 47 times per call
+Week 2: Down to 23 times
+Week 4: Down to 5 times
+Week 8: Clients describe you as "articulate and confident"
+Small fixes compound into massive presence upgrades.
+Critical reminder:
+"A lot of times you will get a client that pushes your boundaries of how well composed you can be. Other times, it's on you. You've had an off day, busy day, might not have given 100% to someone that paid for your time."
+The Arya system catches both: When it's the client being difficult, and when you're off your game.
+The full prompt will be attached to this post. Upload to Gemini. Get your autopsy. Improve systematically.
+Next episode: Handling difficult clients and navigating political landmines in enterprise deals.
+
+Transcript:
+0:00 So odds are, you're probably not perfect at taking discovery calls, and you're probably not as good of a salesperson as you would want to be.
+0:09 And sometimes, you can get curveballs left and right, you will get curveballs, especially if you take on an AI-generalist consulting hat, where you're not necessarily ready for the questions that are being asked of you, or things get muddied, or what- happens, something that just happened to me, 20 minutes
+0:27 before recording this, was it had a consult for an hour, where it took 30 to 40 minutes for someone to get to the point of why we were there to begin with.
+0:37 And I was just ingesting information while still trying to pierce and ask provocative questions to make sure I can be a contributor to that conversation.
+0:45 All these things happen throughout the course of your 15-30 min- one hour consult, and a lot of times we just take the outcome, and whatever the outcome was, we assume it's either a good call, bad call, rarely neutral.
+0:57 What I like to do is I have a prompt, and I call this prompt, I have a persona named Arya.
+1:04 She's my editor, auditor rather, of how my calls go. Assuming that they don't have, sensitive information, I will take the call, bow, and give toe of download it from Fireflies.
+1:14 You can do the same thing on Zoom, Google Meet, as well as Fathom, and other providers as well. I will download that file, and I will have it watch it.
+1:24 And the reason I want it to watch it, is I want it to capture the verbals and non-verbals. That I think that, usually, I'm a really good articulate guy.
+1:34 I try to be smiley, I try to be happy, I try to- not be encouraging, but once in a while, you will get a client that pushes your boundaries of how well composed you can be.
+1:44 And other times, it's on you. You've had an off day, you had a busy day, you might have not given a hundred percent to someone that paid for your time, or just gave you their time regardless of whether they paid for it or not.
+1:56 So this is an example of a prompt that I'll make available in the post- itself, but it says pretty much, you are Arya, an expert communication, an executive presence coach specializing in high-stakes B2B technology consulting.
+2:10 Your methodology combines principles of linguistic analysis, sales psychology, and nonverbal communication. Your task is to analyze the attached video. So we'll basically go into something like Gemini, which accepts video's input.
+2:22 Upload the file. You don't need it to be very high-resolution. And then you can say, I need a comprehensive, but brutally honest, but yet productively constructive performance review.
+2:35 Your feedback should be direct, but framed as opportunities for improvement, focusing on actionable advice. And then we basically ask for an executive summary and scorecard.
+2:46 So how clear you were? The vocal delivery. delivery. And authority. Body language. And presence. Questioning and listening skills. And client engagement and resonance.
+2:55 So the last one is more so like, did your points land? And a lot of these things you can see in person really easily.
+3:02 Like, posture. Tone. Things like that. But when it comes to a call that is done virtually, much harder to gauge these things on the fly.
+3:11 So then we ask. Ask it to break down by principle. So principle one. Your ability to have, like, clear articulation.
+3:19 Are you structured and concise? Do you use a lot of filler words and pauses like, you know. And then verbal and nonverbal cues.
+3:27 Are you good at eye contact? Or are you looking up the whole time when you're ideating on what the response should be?
+3:31 Your posture and your confidence. Any gestures? Are you moving my hands a lot? Someone on YouTube actually told me to tie my hands together.
+3:38 Very interesting comment. but I have taken that somewhat into account where I'll actually more consciously see what I'm doing with my hands.
+3:46 And then client analysis. Analyze the client's body language throughout the call. Pinpoint moments. They seem convinced or unsure or skeptical.
+3:55 And ideally, you'll see the output of this prompt. It comes back with some quotes, times. Times. I'm telling you, this is where you could have done better.
+4:02 And this is what you could do. Oh, this is what you're already doing well. You can do even better. So ask more, say less.
+4:09 Storytelling and analogies. Like did I properly articulate any analogies or thoughts in a way that was a lot more consumable.
+4:16 and then pretty much listed top three most impactful things. I can focus on to improve my next client call. So all we do is we up.
+4:24 Upload the file. And in this case, I just asked it to, for this video, not disclose the name or company of this consult, but just to show you, this is how it looks like.
+4:35 Now, if we take a closer look at the results, it goes through, gives me an executive summary that it's a high energy session where your passion and deep subject magnet expertise were clearly evident.
+4:47 It tells me how awesome. I am. But then it says, this strength is currently coupled with a rapid fire delivery that risks overwhelming the client and undermines your authority.
+4:57 So then it gives me my scorecard, and then it breaks it down. So client engagement, amazing. My question and listening skills in this call were clearly not the best.
+5:07 And it goes through the strengths. I'm not going to focus on the strengths. the fact that I introduced the, a way for them to score AI initiatives, and then we'll focus on the, the issues.
+5:18 Not the issues, the constructive feedback. So actionable advice. One second. over-indexing on ideas. Your mind moves exceptionally fast. But you tend to present a fire hose of ideas without sufficient breaks for the client to process.
+5:33 For example, in this time stamp, you rapidly list at least five distinct complex concepts. In 12 seconds. This barrage can cause a senior client to disengage from the details and simply wait for the storm to pass.
+5:47 If anyone ever told me this m-themselves, I would definitely go, possibly, defensive mode. But because AI is neutral, I will take it more without the grain of salt.
+5:57 And then it gives me some, rule of three advice. When, Brainstorming, limit yourself to the top three points. And then filler words, I usually don't have these.
+6:07 Your primary filler words are like, you know. And then upward inflected right. These are the most prevalent and it tells you exactly where I did them.
+6:16 Now I do pride myself that I speak decently well, at least presenting wise, but in a call, you're taken from your zone of comfort.
+6:23 Fert. Into a different zone. Now a fear of silence. You often use a filler word to bridge the gap between your thoughts.
+6:31 Now I would say that I've, I've used pauses before. Then clients will use it to speak over me. So a little bit of a nuance here.
+6:39 Body language. Eye contact. Your eye contact was strong and consistent. Minor natural breaks when thinking. Seven th- 35 are acceptable.
+6:49 You're leaned back for much of the call. While this can signal relaxation for high stakes, see sweet conversation, a slightly in forward, non-verbally communicates higher engagement.
+6:59 That makes sense. If you look at me right here, this was me in a hotel in the Dominican Republic working out from there.
+7:06 So I can totally see how I would be more relaxed than normal. But if we keep going down here, you're, gestures.
+7:12 Your energy is fantastic. Okay, so it's more so saying I'm awesome. Moments of conviction. The client was most engaged when you provided clear, actionable frameworks.
+7:21 And then he nods his head affirmatively and leans in slightly when you start to discuss more concrete models like rice.
+7:29 And then moments of uncertainty. The client displayed contemplative or slightly overwhelmed body language. which when your pace accelerated and tells you exactly when that is.
+7:39 Then speech mastery. pacing, downward inflection. Many of your declarative statements end with an upward inflection. Which is like, and that's a huge opportunity, right?
+7:49 So I can totally see how I can do that. Sometimes I do that to make sure that the person on the other end of the line is still with me.
+7:57 Speaking headlines, pacing variation. Thank you for your participation. Ask more, say less. So talk to listen ratio. The ratio is heavily skewed between towards you talking.
+8:06 Now in this case, this client I was dealing with, wanted to listen more than they wanted to share with me.
+8:12 So that's kind of like pull out some things. So keep that in mind and obviously all your cases will be nuanced.
+8:18 But it is good as you go through all of these. Especially storytelling. It will give you a lot of hard, hard love, tough love that you can use to become a lot better.
+8:29 So that'll give you the top three, what you can do better overall, strategic pauses, deploy follow up questions. And this is what you can use for all kinds of consulting and calls in general.
+8:39 Especially ones where you're on video. So you can better gauge how you can step up that much better the next time.

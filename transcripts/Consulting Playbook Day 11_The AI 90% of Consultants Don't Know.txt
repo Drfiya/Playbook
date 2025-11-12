@@ -1,0 +1,334 @@
+Post Content:
+Machine learning used to be my one true (nerdy) love. And then, Gen AI was born, and most people stopped caring about it.
+One skill separates six-figure consultants from prompt engineers cosplaying as experts: knowing when NOT to use ChatGPT (and language models)
+32 minutes on why your banking app still uses ML (not GenAI) for credit approvals, the decision framework that makes you sound like you actually know what you're doing, and the job description hack that reveals what enterprises really pay for.
+What you'll watch:
+- Why traditional machine learning still runs most apps on your phone
+- Supervised vs unsupervised learning explained for consultants (not engineers)
+- The decision framework: When to use GenAI, ML, or hybrid
+- Reading job descriptions as a backdoor to what clients actually need
+- 12 real-world scenarios broken down (fraud detection, forecasting, sentiment analysis)
+The background context:
+10 years working not in generative AI, but with:
+- Machine learning models
+- Stats
+- Prediction models
+- Regression algorithms
+- Natural language processing (learned manually, before you could just use natural language)
+"There's an appreciation for techniques that existed before you could just use natural language to accomplish X."
+The job description cheat code:
+Weekly LinkedIn observation: 90% of roles wanting GenAI/LLMs also require machine learning background.
+Example shown: Assistant Vice President of AI Engineering
+Requirements include:
+- Design, build, and serve LLMs to solve complex business challenges
+- Experience in AI engineering and/or machine learning with focus on LLMs (NLP)
+- Deep expertise in writing, reviewing, and productionizing code
+Key insight: "This literally gives you a backdoor cheat code into what people, what teams, what companies, what enterprises are really looking for."
+Pro tip: "If you want to get into consulting, look at the jobs for what companies are actually hiring for and read those descriptions."
+Why companies still need traditional ML:
+The scale problem: "At scales of millions of computations per day, you probably still won't use GenAI. It's still way too expensive."
+Real examples from daily life:
+Banking apps: Still using ML to predict mortgage/credit card/loan approvals (not GenAI)
+Biometric analysis: Driver's license verification uses older-school image recognition models with ML, not vision LLMs
+Why? "Vision's even expensive. Even going down open source route hosting something like Llava, it's still not fully there at scale, especially with hallucination rates."
+The old world advantage: "A lot more determinism and reliability."
+The two main ML categories:
+Supervised Learning (predicting something specific):
+Definition: Had something you were predicting for, with labeled training data
+Examples:
+- Classification: True/false outcomes (Should this person be approved for loan? Yes or no)
+- Multi-class classification: Non-binary outcomes (If approved, what loan amount? 6+ possibilities)
+- Regression: Predicting continuous values (exact loan amount, not just categories)
+Real use case: "We would create algorithms that would go through series of training data to see whether or not I could get pattern recognition of what an avatar looks like from an element standpoint of someone who should be trusted with a mortgage."
+The modern advantage: "You now have luxury I didn't have. I had to write all this code by hand, figure out libraries and weird errors by hand. Things like Claude Code, Cursor can now automate the process of writing a lot of this ML code."
+Unsupervised Learning (algorithm learns patterns itself):
+Primary technique: Clustering
+Definition: "You don't tell anything to the AI. You give it a dataset and it tries to mathematically find ways to look for similarities based on what it sees."
+Visual explanation: "It tries to segregate a dataset into different groups."
+Real example: Customer segmentation at Coca-Cola
+"If you had customer dataset, I used to do segmentation. Give it all customer data and say: Go find me who these people are based on attributes without me telling you who they should be."
+Result: Algorithm created 6-8 clusters of customer types without being told what to look for.
+Why it matters for consulting:
+Most YouTube rhetoric: "All you need to do to get $50K-$80K a month is learn AI automation, build automations, sip margaritas on beach with Lambo."
+Reality: "Probably not going to work in most companies. You need combination of this AI-generalist skillset."
+The positioning advantage: "Being aware of other types of AI will separate you from most consultants who only know ChatGPT."
+The 12 scenario breakdown (ML vs GenAI vs Hybrid):
+Scenario 1 - Fraud Detection:
+Recommendation: Machine Learning
+Why: "Scale, cost, need for accuracy. Every transaction going through thousands per second—can't use GenAI at that price point and accuracy requirement."
+ML methods: Anomaly detection, pattern recognition on structured transaction data
+Scenario 2 - Customer Support:
+Recommendation: Generative AI (with some ML)
+Why: "Natural language, creating responses, talking to humans—GenAI's bread and butter."
+Possible hybrid: ML for routing/categorization, GenAI for response generation
+Scenario 3 - Lead Scoring:
+Recommendation: Machine Learning primarily
+Why: "Predictive analytics on structured data (job title, company size, engagement metrics). This is regression/classification territory."
+Could add GenAI: For analyzing unstructured data like email content tone
+Scenario 4 - Content Personalization:
+Recommendation: Hybrid (ML + GenAI)
+Approach: "ML can do initial segmentation and preference prediction. GenAI can generate the actual personalized content."
+Example: ML determines user cluster, GenAI writes email copy for that segment
+Scenario 5 - Pricing Optimization:
+Recommendation: Machine Learning
+Why: "Math-heavy, needs precision, structured data about costs/demand/competition. This is regression models territory."
+Not GenAI: "Don't want hallucinated pricing that could cost millions"
+Scenario 6 - Chatbots:
+Recommendation: Mostly GenAI (some ML for intent classification)
+Modern approach: "LLMs are so good at conversation now. But ML can help with intent detection routing before GenAI generates response."
+Scenario 7 - Churn Prediction:
+Recommendation: Machine Learning
+Why: "Predicting binary outcome (will churn/won't churn) based on usage patterns, payment history, support tickets—structured data perfect for classification models."
+Could add GenAI: To generate personalized retention messages once ML identifies at-risk customers
+Scenario 8 - Recommendation Systems:
+Recommendation: Hybrid (but complex)
+Confession: "Back in the day, recommendations were a pain in the behind to build. They're not easy systems. They're very math heavy."
+Challenges: "Could be: What's wrong with my dataset? My algorithm? My code? All of it? Am I even recommending based on right thing? Am I missing data completely?"
+Modern approach: "Sprinkling in some GenAI can alleviate a lot of manual work you'd have to do otherwise."
+Scenario 9 - Image Analysis:
+Recommendation: Depends on scale
+Low scale (hundreds/thousands weekly): GenAI could work. "We have enough cheap models that do vision if there's error tolerance of 15-20%."
+High scale: Traditional computer vision (ML/deep learning). "Use convolutional neural networks."
+Personal example: "Took me 3 months to build an algorithm that could look at Nike logo and tell you it's different from Pizza Hut logo. Just identifying that was an ordeal."
+Fraud detection use case: "If someone uploads their license, is this the person they say they are—ML would be ideal. GenAI would be more accurate, but not financially viable yet due to scaling and cost."
+Scenario 10 - Document Processing:
+Recommendation: Flexible (could be ML + GenAI + combination)
+Why: "Depends on what you're extracting and how much structure the documents have."
+Scenario 11 - Forecasting:
+Recommendation: Machine Learning
+Techniques mentioned:
+- ARIMA (autoregressive integrated moving average)
+- SARIMA (seasonalized version for data with seasonal patterns)
+The modern advantage: "These things I had to learn writing by hand on an exam, you can avoid that pain with GenAI to help you write it. But the algorithm itself should ideally be ML driven."
+Use Claude Code/Cursor: "Have it help you write these algorithms. You might not even have to know what's happening."
+Scenario 12 - Inventory Optimization:
+Recommendation: Machine Learning
+Why: "Because of how many different metrics and elements you have, numbers, volume—ML probably best."
+Bonus Scenario - Sentiment Analysis:
+Recommendation: 95% Generative AI
+Why it's controversial: "Back in the day with NLP was a pain. Had to remove punctuation, make everything lowercase, attach valence (whether something's good, neutral, or bad)."
+Hybrid approach shown: "Use NLP to look for keywords that are valent (free, deterministic). Python libraries can detect whether keywords point to negativity or positivity. Then feed to GenAI (paid or open source) that's really good at language."
+Benefit: "If you want deterministic failsafe, you can have both coexist."
+The decision framework cheat sheet:
+Use Generative AI when:
+- Creating content
+- Talking to humans (or AI talking to humans)
+- Unstructured data
+- Creative output
+- Don't need 100% accuracy (95% okay, some tolerance)
+Use Traditional ML when:
+- Predicting something
+- Need 95%+ accuracy
+- Numeric in nature
+- Very structured data (math-heavy, mathematical features)
+- Money at scale is involved (cost matters)
+Use Hybrid when:
+- Complex workflows
+- Multi-step workflows
+- ML does math/categorization/clustering
+- GenAI interprets results of that clustering ("That could be the superpower")
+The cold truth about AI projects:
+"70% of AI projects fail."
+Why? "Because people are obsessed with outcomes and with mediums to accomplish those outcomes. Not the journey of going from zero to building proper infrastructure."
+They can't write a prompt and have it work on first try, so they give up.
+The success path formula:
+1. Start small (don't try to transform everything at once)
+2. Be vigilant on which approach fits (ML vs GenAI vs hybrid)
+3. Focus on 1-2 high-impact use cases first
+4. Pilot before scaling
+5. Invest in training clients: "I just taught you a sliver about machine learning. Will you retain most? Probably not. But I opened the doors that this other world exists."
+Why this knowledge matters:
+"Most companies, most things on your phone that you rely on when you log in every day and it does stuff reliably and there's some form of AI in it—most of the time, no GenAI. For now, at hyper scale."
+"Good to know this exists and be aware of it because it will make you sound that much smarter in your next engagement."
+The positioning differentiation:
+90% of "AI consultants": Only know ChatGPT, Claude, prompt engineering
+You: Understand when to recommend traditional ML, when to use GenAI, when to combine both
+Result: You can actually solve problems that need deterministic math at scale, not just chatbot interfaces.
+Real-world application for consultants:
+When client says: "We want to use AI to predict customer churn"
+Bad consultant response: "Great! We'll build a ChatGPT agent to analyze your customers"
+Good consultant response: "This is a classification problem with structured data. We need ML for prediction accuracy. We could add GenAI to generate personalized retention messages once ML identifies at-risk customers. Let me show you the hybrid approach."
+The expertise signal: Understanding which tool for which job makes you sound like you actually know what you're doing.
+Why most consultants miss this:
+The old AI isn't sexy. "Sexy does not always mean ROI."
+ML is harder to understand than "just prompt ChatGPT"
+YouTube doesn't teach regression algorithms (not clickable)
+But: "Most of what runs reliably at scale still uses traditional ML."
+The action plan:
+1. Don't try to become ML engineer overnight
+2. Understand the categories (supervised, unsupervised, GenAI, hybrid)
+3. Know the decision framework (when to use what)
+4. Read job descriptions to see what companies actually need
+5. Position yourself as AI generalist who knows full spectrum
+"You want to be astute and competent in all the main areas that end up weaving together, whether you like it or not."
+The final positioning:
+You're not just an "AI consultant" who knows prompts.
+You're a consultant who understands:
+- When GenAI is perfect
+- When it's completely wrong tool
+- When traditional ML is required
+- How to combine both for superpowers
+That knowledge alone separates you from 90% of people calling themselves AI consultants.
+
+Transcript:
+00:00 One thing that will separate you from 90% of people that will call themselves AI consultants in the next 6, 12, 18 months is the fact that you can speak to types of AI that aren't just generative because I personally come from 10 years of working not in generative AI, but working with machine learning
+00:19 models, stats, prediction models, progression algorithms, and a bunch of words that probably wouldn't make not necessarily you excited, but they're really where everything comes from.
+00:29 Even LLM models come from natural language processing, which I learned manually. Meaning, there's an appreciation for techniques that existed before you can just use natural language to accomplish X.
+00:42 Now, you might ask yourself, why do I care? I'm just trying to make my bag doing consulting, and you can absolutely do that without this, for sure.
+00:52 For me, though, I want to be able to curate a cohort of folks that are not just aware of what everyone else is aware of, and maybe they have some depth in actually trying it and trying out the practicalities of using it.
+01:04 But if you're aware of the other types of AI, you become a lot more potent. Now, what do I have on screen here?
+01:10 I get on a weekly basis on LinkedIn, like job offers, okay? One thing I always notice, and I screen-shotted the last one before I prepared this lecture, is 90% of roles that want something related to language models or a gen of AI.
+01:25 Also want you to have a background in machine learning and the reason is, although all of the technology is amazing, vision is awesome, video is awesome, everything is awesome.
+01:36 But at scale, especially with price, let's say we're talking about scales of millions of computations per day, you probably still won't use Genive AI, it's still way too expensive.
+01:47 So a lot of these companies, a lot of the things you do every day, like my banking app, All of my banking apps are still using machine learning to predict whether or not I should be approved for a mortgage or a credit card or a loan or whether or not I am pre-approved for a new product.
+02:02 This is all done statistically still. When you do biometric analysis using your driver's license, it's using biometric algorithms. Like older school image recognition models that use machine learning for that propensity analysis or rather the predictability analysis of like, is this an image of you or
+02:22 not? It's not necessarily using language models with vision because vision's even expensive. Even if you go down the open source route where you host something like a lava model, lava, not lama, lava's like an open source vision model, it's still not fully there at scale, especially with hallucination
+02:40 rays. With the old world or the older world of AI, there's a lot more determinism and reliability. So if we just take this job title and one extra cheat code, by the way, if you want to get into consulting, look at the jobs for what companies are actually hiring for and read those descriptions.
+02:58 This literally gives you a backdoor cheat code into what people, what teams, what companies, what enterprises are really looking for.
+03:06 Once in a while, you'll find an automation engineer or an automation specialist, and that will match a lot of the narrative and the rhetoric that you hear on YouTube, which is like, All you need to do to get $50,000 or $80,000 a month is learn AI and automation, build automation for people, and you will
+03:22 be sipping margaritas on the beach with a Lambo. Realistically, probably not going to work in most companies. You need a combination of this AI-generalist skill set, which is the whole point of this communities to empower you to be basically astute and competent in all the main areas that end up weaving
+03:41 together whether you like it or not. So yapping aside, let's just take a quick look through this job description. So it's for a assistant vice president of AI engineering, this role focuses on leading a team of AI machine learning engineers or practitioners, software, et cetera, et cetera.
+03:59 This position offers the opportunity to develop, deploy and optimize language models to deliver high quality products. Now, this already tells me that this employer doesn't probably know what they're asking for, because you probably don't want to train your own version of Cloud 4.
+04:16 Now, I would assume maybe that means fine tuning, but just as an example there. So key responsibilities working closely with the team of AI Enge, to design, build, and serve LMS to solve complex business challenges, and let's keep rolling to the second part.
+04:30 Ensure high quality codes, that's more on the engineering side, building reusable pipelines, processes, and tools to streamline LMS and GDI workflows, and then here we go.
+04:40 experience an AI edge and or machine learning with a focus on LLMS, which would basically translate to natural language processing with a deep expertise in writing, reviewing and production code.
+04:52 Now again, that's because it's a senior level engineering role. You don't necessarily need to know the coding part. But knowing about the old world of machine learning would make you a lot more well rounded.
+05:03 So this is a world that nobody cares about anymore. This is my initial love and what I obsessed about, what I emptied my savings bank, my banking savings account at 24 to go learn was this, which is to provide learning.
+05:18 This is where you had something you're predicting for, so to say you try and predict whether or not someone should qualify for a mortgage or a loan.
+05:26 We would create algorithms that would try to go through a series of training data to see whether or not it could get a pattern recognition of what an avatar looks like from of an element standpoint of someone who should be trusted with a mortgage versus non.
+05:41 So we would do something like a vacation where just kind of true or false. Should this person be approved? Yes or no.
+05:47 And then you would do eventually a multi-class classification, which means you have a non-binary outcome. So you have maybe six possibilities of what X is.
+05:57 So maybe it's not a matter of what should this person be approved for a loan. It's assuming they're approved for a loan.
+06:05 what amount of money should we enable them to actually take out news? Now this becomes a higher like denominator of different possible options or different possible realities of what they can be approved for.
+06:18 That could be a multi-class classification or a multi-class regression in that case because we're predicting something that is more continuous in nature.
+06:26 Now I can already feel my old professor vibes seeping into what I'm saying. So I'll keep things grassroots. So the TLDR of this is that we have supervised learning where basically you had something you were training, you had a bunch of data, you have now the luxury that I didn't have where I had to write
+06:43 all this code by hand, figure out all these libraries and weird errors by hand. Things like cloud code and things like cursor or everything can now automate the process of writing a lot of this NL code that I used to have to do by hand.
+06:57 And then unsupervised learning is when you have the algorithm try to learn for itself. So, a good example is something like clustering.
+07:05 Now, dimensionality reduction is a bit more advanced, so I'm just going to focus on clustering. Clustering, if I was just to Google this with you, clustering, and we just go to images, this is clustering.
+07:16 So, you don't tell anything to the AI, and again, when I'm talking about AI, I'm no longer talking about open AI and LLMs and all those stuff.
+07:24 This is just math. This is the beauty of the deterministic math where you give it a data set, and it tries to go through and mathematically find ways to look for similarities in the data set based on what it sees and tries to basically segregate a data set into different groups.
+07:41 So back in the day, this is how I used to do let's say segmentation. So if you had a customer data set, there was a point where I worked on Coca-Cola data in my master's degree.
+07:50 And we had to segment the Coca-Cola customers by their purchasing habits. So then we did some some version of this, some more advanced version of this called DB scan, which is just the technique of clustering, where you would try to group together different avatars, but unlike what you have today with
+08:07 generative AI, you can't necessarily put words, or it didn't put words to what's happening, or why it shows that group of people.
+08:15 So after it clustered, you would have to go and manually look through all the clusters, print out like a table, and then look at all the cluster assignments.
+08:23 So cluster 1, 2, 3, 4, 5 and every single table of customers associated with that to try to guess or really guesstimate and rationalize what the math did, like how it categorized everything.
+08:38 What's cool is now, we live in the world where you can do both. You can use the ML to do this deterministically, cheaply, this is free to run, this is just the library.
+08:49 And then, for example, you could use them to look at the results of the output and help you interpret what's happening.
+08:56 So, this is the world we're in with that nobody's really taking advantage of, which is this hybrid model of machine learning plus Genevae I.
+09:03 It can do a lot of good for people and a lot of good for companies. Now, RL or reinforcement learning, very complicated.
+09:11 My worst subject, also probably the reason why is the month that we started reinforcement learning, COVID happened. And literally in the middle of my degree in the new one, all remote.
+09:21 So I ended up learning this on my own after my degree out of curiosity and I can tell you that from a math standpoint is the most complicated, it's very hard, even like the preliminary exercises or instructions are really hard to wrap your head around.
+09:35 But this is important for really advanced companies and basically what all of these open AIs and anthropics are doing is now that they're collecting so much data from us, from from using MCPs, from connectors, from our chat histories, they're aggregating all of this data.
+09:51 And they're basically doing some version of reinforcement learning, which if you need an analogy, imagine you have a Tesla and that Tesla crashes, and then as soon as it crashes, it takes all that footage from crashing and it sends it to every single other Tesla in the world.
+10:06 And let's assume it was on autopilot. Now by the next update, all of those Teslas will now have one more piece of training data on what not to do when driving on autopilot.
+10:16 So that's reinforced from learning. You have a state, a state is basically what is the current state of affairs of the agent or the robot or the car in that example at time equals zero.
+10:29 When outcome happens, so it hits a cat, right? Let's say we have a very simplified reward system, good dog bad dog, we give like a one to the algorithm that did a good thing, zero fitted a bad thing.
+10:41 So for zero, in that case would be like super zero. So sometimes you can make it very inflated like negative 10,000 That could be the reward to tell the algorithm.
+10:51 This was not bad. This was awful. Now I do this again So again, worth it for you to know what this is by name, not necessarily for you to know for you to know how to implement it and use it Regression classification like I mentioned initially very important concepts to familiarize yourself with odds 
+11:08 are depending on your background or what you've studied in uni or high school, you'd have had some exposure to at least regression, which is just basic math, very linear math in most cases, and anytime you're trying to predict something that is continuous, meaning something that could theoretically be
+11:25 an infinite number of sorts, you're doing some form of regression when you're doing machine learning. Classification could be something binary, true or false, it could be a number, but in most cases it's very categorical in nature.
+11:38 Now, I do want to do a separate ML course, now that a lot of folks have encouraged me to go back to my roots and teach what I used to teach at uni.
+11:48 But aside from that, let's get into how this matters and why this matters for business. So let me skip ahead here.
+11:55 So in terms of the AI toolkit, two main categories like we mentioned are Jennyi and traditional I would call it OGAI, ML, which you have predictions and you have patterns.
+12:07 So GenieI, I don't need to educate you on. So chat, GPT, Cloud, Gemini, everything 90% of this community, if not more, is about GenieI.
+12:16 Traditional ML is happening right now in fraud detection, especially for insurance, all kinds of companies that deal with fraud, like anything related to submitting papers of any sort with image recognition.
+12:30 Those are image recognition models, 90% of the time. There's no LLM behind the scenes. Forecasting, especially in the financial sector, still being done using machine learning models, recommender systems.
+12:42 This is kind of like at a fork in the road where there's a lot of the old world using recommender systems.
+12:48 And this is the little equivalent of you going in Amazon, buying a product and because of all the math they did behind the scenes and algorithmic associations, they tell you that because you bought, but I don't know, these orange glasses to protect your eyes, you probably want this little handkerchief
+13:03 to clean them. So that's a mathematical thing that they do on the back end and that's called a recommender system.
+13:09 And then anomaly spotting is really used for financial. Financial companies, financial initiatives, especially I used to know someone that worked in fraud, the international monetary fund fraud.
+13:21 They used to have special algorithms just for looking for really weird nuances where you had a shell company, company, of a shell company, of a shell company, with a holding company, you know, have some weird arrangements and transactions, they couldn't keep track of all of these.
+13:34 So they needed ML models to do this at scale. Now, when to use Genii, now we've learned a lot of that in this community.
+13:41 So whenever you want to create something, pretty much generate or create something, whether that's content, writing, chat bots, anything with natural language, where you don't want to go through a data set yourself and explain it to someone and after you interpret thousands of lines of Python or hundreds
+13:57 of lines of Python, you want the LM to do that for you. So that's where you can have the beauty of both.
+14:03 So this is obviously perfect for copy, copy writing, customer service, image analysis on an individual basis or at a very medium scale or small scale video analysis as well.
+14:16 Obviously like if you were to do this ML, you would be pulling your teeth and hair out and I would do it with you.
+14:21 I wasn't very good at that back of the day. I did image recognition and that took months for me to wrap my head around deep learning and a lot of that stuff is easier today The TLDR of Jenny.
+14:31 I is a wins on speed to do things that used to take forever And that's where it's helpful to know when it's worth dipping into the old tricks from the old world versus just embracing all the nuances and speed of the new world So traditional machine learning wins when you want to predict something at 
+14:49 scale, especially now hyper scale or or decide something. She have a bunch of data. A lot of that data, you could have an initial analysis by just pure math and machine learning to come up with an outcome or a suggestion or categorization of someone as a risk or a non-risk whether it's financial or a
+15:08 nature. And then you can also feed those results to a Jenny-I model. So I'm gonna keep harping on this. We live in a world where both can coexist.
+15:17 But at hyper scale, if you had millions of computations per day, running, a bank is not going to use elems tomorrow, even if you have an amazing implementation because if you're dealing with billions of computations and you have a 5% hallucination rate, that's still like thousands, hundreds of thousands
+15:37 could be millions of people affected by you making those issues or making those errors or hallucinations. So, as the stakes rise, the stack must change as well.
+15:48 So, this is perfect for 95% accuracy and above, what accuracy means, what precision means. There are metrics in the space of machine learnings.
+15:57 If you put machine learning core metrics, you have a variety, you have accuracy, you have things like true falses, true positives, true negatives, and here are the main ones.
+16:10 Because it's one's called F1 score, the F1 score is basically what's called the harmonic mean. It's the average, a version of the average of accuracy and precision.
+16:21 And I did have to show you this just so you have a mental model. So this is like two over one over the precision precision is like, if you said that of the people, if the thing you're predicting on cancer, of the people that you said have cancer, or how many actually had cancer, right?
+16:39 So there are denominators a bit different versus of all people who you want to run a prediction for, how many had cancer?
+16:46 That's a different denominator as well. So these words, I can go deeper into how you use it, how you calculate it, but just know that this world is much better than Genii when it comes to metrics.
+16:58 A lot of people especially when it comes to rag have yo-load metrics or KPI for us to measure and say, this rag is great or this rag is awful overall.
+17:07 I would say that most rag systems that I've looked at are best graded through empirical results. So you try a hundred things of that how many times you get the right answer, right?
+17:17 So in this world there's a lot more fluency on evaluating how well you're doing or how well the math is mathing.
+17:26 Now let's go back. So decision frameworks. So you which one you should use if not both? So what kind of data type do you have?
+17:38 Do you have millions? Do you have billions of rows? And I don't say that for ceaselessly, there are companies that have billions of the piece of data.
+17:45 So you won't have Amazon using Jenny I and their product across the board tomorrow. They can barely use it to have a functional chatbot, let alone run their entire company with it.
+17:54 I can literally use their chatbot to write a Python script and basically use Cloud for free because they're having figured out security properly.
+18:01 So I doubt they could just shift All their offerings to this and they wouldn't have the infrastructure to support it let alone that So text numbers.
+18:09 So if it's text-based You don't want to use machine learning for it. If you have they have very much text-based data and it's 90% Categorical meaning categorical meaning Daytona's text oriented so the category of the department of a cost center of Someone's state that they live in the country all the
+18:29 stuff is text. So So LLMs, assuming it can handle the volume of data, or it can run through bulk batches of this data, might be a better option if you're trying to do analysis that's oriented towards text.
+18:41 Now, if you have tons of numbers, we already know the language models suck at numbers and even chat you with T.
+18:47 If you ask what's 1, 2, 3, 4, 5, 6, plus 1, 2, 9, 3, 4, 5, and you know, my stuttering, it's going to have to invoke usually Python because it doesn't necessarily see that in its training data.
+19:00 They might not have that exact two numbers plus the stuttering in that equation to come up with the result. So with that in mind, if it's very number heavy, it's very transactional heavy, it's very computationally heavy with the numbers.
+19:15 That's where it is unbelievably helpful to use traditional ML stats for Russian type models. So next thing we're going to ask is output type.
+19:24 Are we predicting something or do we want to create something new out of the data we put in? And we say create something new meaning like we feed you five things but we want one big thing That is an amalgamation of those five things and that those five things could be a combination of numbers and text
+19:41 or just text Or technically just numbers depending on what you want to do with those numbers If you're creating something new then Jenny is awesome if you're predicting on something and that something is mainly numbers and you have many rows of those numbers, then traditional ML might be helpful and 
+19:59 then obviously you can combine both on the accuracy side. When it comes to being exact, having specific metrics, having a threshold that doesn't change overnight.
+20:11 Once you run a machine learning model and you've trialled it and tested it properly, what's called a validation set, and then you have a training set, and then you have a test set.
+20:21 Test set is like your unseen data. So let's say we had a data set on folks that are passing the SATs or some exam, some analytics on that.
+20:31 And we made an algorithm that just based off of a student's demographic data, meaning their name, where they come from, the state, the province, wherever they live, their age, their ethnicity, et cetera.
+20:43 We could predict with 85% accuracy whether or not they would fail this test. Now, is this possible? Probably not, or highly unlikely, but that's beside the point.
+20:54 If you wanted to make this algorithm a reality using machine learning, we would need to segment a portion of this data set.
+21:01 Let's call it 40% of the data set to train the math to try to look for patterns. Now, it's going to look through patterns using math, not using natural language and tokens to the way we're used to dealing with Genevue AI.
+21:15 Now that'll be 40%. Again, we put on the side. Now we'll take on 20 to 30% and we'll put this on the side as well.
+21:22 We'll call this a validation set. What can happen in machine learning is as you train on a data set, it memorizes the data set.
+21:30 So it might really do exceptionally well on tests because it's so used to the data that it's now done something called overfitting where let's say in my mother tongue we have the saying that would be the equivalent of saying he has memorized not understood or not digested.
+21:48 That would be the equivalent when it comes to this level of machine learning. So you have a training data that you familiarize the algorithm.
+21:55 You have a validation set. They keep on the side. They try to beta test whether or not it actually understood or it can just memorize the training data.
+22:03 If it does it amazingly well on training, offer on validation, then that's a telltale sign that it has memorized the training data in either you need to weigh more data or your training data is garbage or basically what you're trying to optimize for or predict is actually so hard that mathematically 
+22:23 you either need to do what's called feature feature extraction or feature creation where you create brand new ways to imagine the data or create new combinations of the data and then you have a test set where you, regardless of the validation and training, you now test the final result on completely 
+22:41 unseen data. And this is usually the final test, where you know, what are your benchmarks? And the beauty of this is, unlike ChatGVT, where you can load it up tomorrow, and it will act differently than it did yesterday.
+22:54 This world is very deterministic. So if you run this on a million examples, and it is 80% accurate, it should be 80% accurate tomorrow.
+23:03 on the next new link examples. Now, can that drift over time? Yes, the same way you can have prompt drift with the same prompt will behave differently with different models over time.
+23:13 You can also have machine learning model drift where the same model will perform poorly with new types of unseen data in the future, but assuming that there's some similarity between unseen data in the future versus the one you trained on, it should be pretty stable versus in a VAI.
+23:30 So all to say that when you're dealing with exact numbers, exact accuracy, it is a much better way to do this and measure it than measuring creativity in creative creativity errors, where 5% to 10% hallucination might sound like nothing to you, but to millions at scale is a big deal.
+23:50 So some key scenarios here, just a quick flyby examples. Scenera number one, customer service, so a chatbot of any sort, automatically Jenny-I.
+24:02 Number two, fraud detection. As soon as I hear fraud, I don't even think about Jenny-I because I can smell the scale needed, the accuracy needed, the metrics needed to alleviate stakeholders, that's going to be NL.
+24:15 Demand forecasting. Now you could use both. Now you could use genitive AI to write the code that creates this deterministic demand forecasting.
+24:24 But to me, anything time series based is a good example for either just machine learning or both machine learning and Jennyi to interpret the results that if you're not mathematically inclined or you're not quote inclined or both could help you take what's happening and put it into actual words.
+24:42 The next one is content creation, as soon as I said that, like I said before, for generating something new from something that doesn't exist before and it's not a prediction of any sort, then Jennyi.
+24:53 Number five, if you have some form of predictive maintenance on equipment, manufacturing, this is traditional ML, maybe some IoT in there.
+25:03 You can sprinkle in some Jenny-I for interpretation. Recommendation systems, you can totally have a hybrid world. Back in the day, recommendations honestly were a pain in the behind to build.
+25:16 They're not easy systems, they're very, very math heavy. So when you have an error, it's not a matter of asking like, why did this go wrong or what's wrong with my prompt?
+25:23 It's, it could be, what's wrong with my data set? It be, what's wrong with my algorithm? What's wrong with my code?
+25:29 What's wrong with all of it? Am I even recommending based on the right thing? Am I missing data to be able to recommend on completely?
+25:37 You can go down a really deep route with the recommendation systems. And sometimes sprinkling in some Jenny, I can alleviate a lot of the manual work you'd have to do otherwise.
+25:48 I don't want to jump ahead. Image analysis, complete depends on scale. If we're looking at hundreds of images, even thousands, and that's like on a weekly basis, Jenny, I could do the trick.
+26:01 We have enough cheap models that do vision, that if we're looking for something and there's error tolerance, meaning your client or your project has a tolerance of anywhere between 15 to 20 percent, just to be comfortable.
+26:14 Sure, Jenny, I could totally be an alternative here. But computer vision, like machine learning, it's a deep learning. You use different kibans of frameworks, like convolutional neural networks.
+26:27 That's what I used to build an image recognition model that would go and look at any logo, a picture of that logo.
+26:33 And today this looks like so simple, but back when they took me three months to build an algorithm that could look at the Nike logo and tell you it's different from the pizza hot logo and it's different from the Adidas logo.
+26:45 Just like identifying that was an ordeal. So, I probably wouldn't want to use ML for that use case, right? So knowing when to use it is helpful.
+26:54 So again, on this image model, if it's fraud detection, if someone uploads a license, is this the person they say they are?
+27:02 It would be ideal if you could use Jenny-I, it'll be more accurate. But because of that scaling problem and cost problem, it's still not financially viable comma yet.
+27:11 It will be, though, at some point. So, the next one, processes, it pays to be, to document a process, this could be machine learning, plus Jennyi, plus a combination of other things, it could be just Jennyi.
+27:23 This one is flexible in terms of how you might go about it. Forecasting again, automatically, I hear forecasting, I hear aggression, and there's solely ways now that you can have quote unquote fun, nerdy fun, by just having like cloud code or cursor, or even just Claudia or Chad GVT, help you write these
+27:41 algorithms for you. And you might not have to even know what's happening. For forecasting, you have things called Arima. You have Cerima, which is a season-alive version of forecasting, very helpful.
+27:52 Bances where there's a seasonality in a data set. But a lot of these things that I've had to learn writing by hand on an exam, you can avoid and remove that pain with Jenny-I to help you write it.
+28:02 But the Algo itself should be ideally driven and featured. Scenera number 10, inventory optimization, this again because of how many different metrics and elements you have and numbers and volume, ML, probably.
+28:22 Next one, sentiment analysis. Now, this one, very controversial, depends on a variety of things. But I would probably use 95% of the time, generative AI for sentiment analysis.
+28:34 This was a pain using NLP because you'd have to do a variety of things. you'd have to take the data set, remove all the punctuation, make everything lower case so that doesn't stand out to the algorithm as something to take as different, and then you'd have to attach some form of valence.
+28:53 A valence is whether something is good, good-ish, like neutral, or bad. A cool thing is having a combination. Well, let's say you have a system where you have NLP natural language processing, go through a piece of text, deterministically for free, right?
+29:10 To look for keywords that are valent, because there's some really strong libraries in Python that can detect whether some keywords in a sentence point to negativity or positivity.
+29:22 And then you feed it to a genii algorithm that is paid or could be an open source one, where you can do this really easily.
+29:28 It's really good at language, so that's bread, that's it's bread and butter, but if you want to add a deterministic failsafe or again you have both coexist, you can use NLP in this case.
+29:39 So the success formula overall is just being nuanced because most companies when they say AI they don't either know or have stopped caring about the old AI because the old AI is not sexy, but sexy does not always mean or a Y.
+29:55 So a quick decision cheat sheet if you needed one and wanted one. Use an AI when you're creating content talking to humans or having an AI, talk to humans, unstructured data, creative output.
+30:07 You don't need necessarily 100% accuracy, even 95% accuracy. You have some tolerance there. Use traditional ML when predicting and you need 95% accuracy, especially on something numeric in feature, you have very structured data where ideally it's math heavy, so you have more mathematical features.
+30:26 You need, you think about money at scale quite a bit, I'm going to reinforce that. And hybrid is can be used where you have complex workflows, or you have multi-step workflows, where like I said before, you could have ML do the math for you and do the categorization or clustering, but then you have Jennyi
+30:43 help you interpret the results of that clustering. That could be the superpower. The cold old truth is that 70% of AI projects fail, and I would personally say that because people are obsessed with outcomes and with the mediums to accomplish those outcomes, not necessarily the journey of going from zero
+31:03 to building proper infrastructure, whether or not that means that they just can't write a prompt to something and have it work and work on its first case.
+31:11 So, success bath is obviously to start small, be, like, recommend to folks to be vigilant on these kinds of cases.
+31:21 I'm going to probably touch on machine learning a little bit more since there's some interest, but most importantly, just being aware that AI isn't one single box is going to be a lot more helpful to you.
+31:32 And you want to focus on just to focus on this, the action plan. them. Folks on one to two high impact use cases in general in the business you're dealing with the organization or your own company.
+31:43 You want to worry about piloting. You want to invest in training your clients sometimes. I mean, I just taught you, if you've never heard of an ML, just a little bit, this little sliver about machine learning.
+31:54 Now, will you retain most of this stuff? Probably not. But I just want to open the doors here that So there is this other world and most companies, most things on your phone that you rely on, you log in every day and it does stuff and does it reliably and in some form of AI in it, most of the time, no
+32:12 gen of AI for now at hyper scale. So it's good to know that this exists and it's good to be aware of it because it will make you sound that much smarter in your next engagement.

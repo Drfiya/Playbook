@@ -1,0 +1,164 @@
+Post Content:
+A client asked for our "Chinese menu" on a discovery call. We had no idea what they meant.
+Now it's how we're going to approach closing even more education deals (and maybe you should too)
+9 minutes on packaging your consulting services the way Fortune 500 companies expect to see them -and why this format makes clients say "we want 3, 4, 6, and the light version of 8."
+What you'll watch:
+- Why companies call this a "Chinese menu" (and how to build yours)
+- The tier structure: Appetizers → Soups → Intermediate → Advanced → Desserts → Banquets
+- Using Claude to auto-format professional Docx menus (ChatGPT can't do this yet)
+- Real example: AI Workshop Menu 2025 with 30+ offerings
+- How to use this for both education and technical consulting
+The origin story:
+Three discovery calls deep with a financial sector client. They asked: "Can you send us your Chinese menu?"
+Response: "...deer in headlights. Had no idea what they were referring to."
+Their explanation: "In a Chinese menu, you have tens or hundreds of items across 5-6 pages. Give us enough variety of what you could teach our team so they can pick specific items."
+Built them a literal Chinese menu (not well formatted initially). Listed as Order #1, Order #2, Order #3, etc.
+Closing call: "We want 3, 4, 6, and the light version of 8."
+That's when it clicked. This is genius for packaging consulting services, especially education-heavy engagements.
+Why this works:
+Most consultants: Send vague proposal with 2-3 generic service tiers
+You: Send menu with 30+ specific, categorized offerings
+Result: Clients can mix and match exactly what they need. No full-length conversation needed—just pick from the menu.
+The structure (5 tiers + bundles):
+Appetizers (Beginner Level):
+- ChatGPT Mastery (Zero to Hero)
+- Claude Mastery
+- Gemini Essentials
+- Prompt Engineering 101
+- Custom GPTs and Claude Projects
+- AI for Daily Productivity
+- Voice AI and Conversational Interfaces
+- AI Search and Research
+- Reasoning Models Deep Dive
+- Memory and Personalization in AI
+Why ChatGPT/Claude basics? "One of the best ways to get foot in door of all kinds of companies—SMBs to enterprises. They want teams to use ChatGPT the RIGHT way to fullest potential."
+Custom GPTs = crowd-pleasers. Always include.
+Soups (Practical Wins):
+- Document Intelligence and Analysis
+- AI Meeting Assistance and Transcription
+- AI-Powered Research Workflows
+- Data Analysis with AI
+- AI for Presentations and Storytelling (Gamma, Beautiful AI)
+- Building Prompt Libraries
+- AI for Social Media Content
+These are quick wins that show immediate value.
+Intermediate Level:
+- How Transformers Work (nuts and bolts of LLMs)
+- Image Generation Mastery
+- Video Generation Tools
+- Multimodal AI Applications
+- RAG Implementation (big crowd-pleaser)
+- MCP Server Development
+- Agentic Workflows
+- Coding Basics for Non-Developers (0 to 30%, not 80%)
+Note: "How Transformers Work is not common request. But it has happened. Some companies appreciate the nuts and bolts."
+Advanced Level:
+- AI Coding Tools (Cursor, Windsurf, Replit)
+- Claude Code and Computer Use
+- Building Production AI Agents
+- API Integration Without Coding
+- Building AI-Powered Apps
+- Voice Agent Development
+- Custom Automation Platforms
+This is where you can offer "light versions"—like showing tools without teaching coding behind them.
+Desserts (C-suite Oriented):
+- AI for Business Strategy
+- AI for Investment and Due Diligence
+- AI for HR and Talent Management
+- AI for Marketing Transformation
+- AI for Sales Enablement
+- AI for Finance and Operations
+Why separate C-suite tier? "Core employees want meat and potatoes. C-suite wants 100,000-foot view. Even telling them there's N8N and Make.com is reasonable amount of information."
+C-suite questions: Which tool lets employees go faster? Which is cheaper at scale? Which has better security? Where can we get a deal?
+Banquet Options (Pre-Packaged Bundles):
+Instead of clients picking 15 individual items, offer pre-curated packages:
+Banquet A: Foundation Package
+Banquet B: Technical Implementation Package
+Banquet C: Leadership Strategy Package
+Banquet D: Full Transformation Package
+Banquet E: Custom Tailored (they pick)
+What's included with banquets:
+- Template library
+- Custom GPT setup guides
+- Workflow automation templates
+- 30-day post-workshop email support ✨
+The upsell opportunity: "This could be your entry point to offer small retainer or big retainer, depending on who you're dealing with."
+The formatting hack (Claude only):
+ChatGPT can't do this level of Docx formatting yet. Claude can.
+How to use it:
+1. Enable Claude's code execution and file creation in Settings → Capabilities
+2. Upload the template Docx (attached to this post)
+3. Ask Claude to customize for your offerings
+4. It creates high-fidelity formatted documents
+Real prompt used: "Do deep research on latest and greatest topics in AI. Supplement with my old workshop lectures. Create Chinese menu format."
+Result: Professional AI Workshop Menu 2025 (attached)
+Each item includes:
+- Module name
+- Duration (90-150 minutes delivery time, NOT prep time)
+- Difficulty tier
+- Brief description
+The delivery details section:
+Mix and Match: Choose any combination to create your perfect workshop
+Duration: 2-2.5 hours per session
+Format: Remote or on-site (specify both options)
+Updated: October 2025 (update monthly as tools change)
+Footer message: "Serving fresh AI knowledge updated for October 2025. Things will change, tools will change, models will change."
+This signals you stay current and clients need ongoing support.
+How to customize for your niche:
+Take this structure, adapt categories:
+For automation consulting:
+- Appetizers: Basic n8n/Make workflows
+- Soups: Quick automation wins
+
+Transcript:
+0:00 Now what does AI and a Chinese menu have anything to do in common? Typically, absolutely nothing. But after a recent engagement that my agency has just closed in terms of business, we realized, and we were basically educated, on a way that some companies like to refer to what you offer as a vendor, specifically
+0:20 when it comes to education and consulting. So in one of the three discovery calls that we had, they asked us for our Chinese menu, and I looked like a deer in headlights because I had no idea what they were referring to.
+0:33 I didn't even understand the analogy. But then they said, oh, well, in a Chinese menu, you have tens of, sometimes hundreds of items you can choose from.
+0:42 You have like five or six pages. Can you give us, not necessarily hundreds of pages, but can you give us enough variety of the different things that you could teach our team, there in the financial sector, so they can just pick from those specific items.
+0:56 And what happened was, I took what they asked for, literally, I built them a Chinese menu. It wasn't very well formatted, but basically I composed them as orders, like order number one, order number two, order number three, etc.
+1:10 And then when we hopped on our last call, the call closing call, they actually asked for and said, we want three, four, six, we want the light version of eight.
+1:20 And they continued. And it was at this moment that it kind of struck me that this is actually a genius way for you to package these kinds of solutions, especially when it comes to consulting and heavy emphasis on education, like teaching clients how to build something, teaching clients how to use Anyden
+1:38 , teaching clients and their teams, how to build voice agents or whatever it is that you have a particular interest in, in the AI sphere.
+1:45 This Chinese menu technique is helpful and I'll show you, and I'll provide you with the one that I ended up putting together for them and a better formatted one as well as a cheat sheet or a cheat code rather of how you can have the formatting offloaded to something like Claude.
+2:03 So if I pop into Claude, you'll see here, I have a beautiful Chinese menu, and if I download this, it takes the instruction very literally, and we'll walk through what it looks like.
+2:14 So we have this AI workshop menu, 2025. You can take this, upload the file itself into Claude. Now that has the ability to enable and use and manipulate documents, Docx files really easily.
+2:26 All you'd have to do is go into settings, and then if we go into the capabilities, I believe, yeah, this is the section you want to enable.
+2:37 It's called code execution and file creation. This will allow you to create high fidelity Docx files where you can change the format of this Chinese menu to suit whatever it is that you're offering, and edit it and format it to your heart's content.
+2:51 But that's one prerequisite. Now, if you ask me if ChachiBT can do this kind of formatting, it can't do it, comma, yet.
+2:58 Who knows, by the time you watch this recording, it might be updated, but for now, this is what it looks like.
+3:04 And just to emphasize, I did none of this myself. I actually asked Claude to go and do deep research on the latest and greatest topics in Chinese.
+3:13 In AI, and I basically supplemented my old lectures from other companies that I've done workshops for, and it came up with this.
+3:20 So workshop details. Mix and match. Choose any combination of modules to create your perfect workshop. Duration, 2 to 2.5 hours per session.
+3:29 And then format. In this case, this particular client was considering bringing me into their office or their offsite in Europe, but, we ended up going remote.
+3:40 Now you can see right here, beginner level appetizers, Chachiviti Mastery, Claude Mastery. So basically zero to hero in Chachiviti, Claude, and Google.
+3:50 Very common requests. And honestly one of the best ways that you can get your foot in the door in all kinds of companies.
+3:56 And when I say all kinds, I mean genuinely from small, medium businesses, to even enterprises want their teams to use Chachiviti, comma, the right way to its fullest potential.
+4:08 So, Prompt Engineering 101, Custom Chachivitis, and Claude Projects. Like I've said many times before, Custom Chachivitis are crowd-pleasers. Like, how to hack them and build them.
+4:18 And notice one more thing I'm doing here. So, we are specifying the number of minutes, too, it would take to build to teach the session.
+4:26 So, in this case, this is not prep time, this is delivery time. So, this is AI for daily productivity, voice AI and conversational interfaces, AI search, reasoning models, memory and personalization in AI.
+4:41 Now, one thing here I just noticed, you might want to update these to just using the GPT-5 models, since now the old world of models will get demonstrated.
+4:48 It's deprecated at some point. And then we have SOOPs, aka practical wins, so document intelligence and analysis, AI meeting assistance and transcription, AI powered research workflows, data analysis with AI, and we'll keep going, this one's a good one, AI for presentations and storytelling.
+5:06 So, this is where you can show things like gamma.app, beautiful AI using the very feature in Cognizant. And then we have the ability for prompt libraries, AI for social media content, and then we get to the intermediate levels.
+5:22 So, some companies have had the appetite for me to teach literally how transformers work. Because some of them really appreciate the nuts and bolts of how all of these language models work behind the scenes.
+5:34 Now, this is not a very common request. But, it has happened before. And then you have image generation, video generation, multimodal, RAG is a big crowd pleaser as well.
+5:44 We have MCP, AF, Coding Basics for Non-Developers, also a rare one, but once in a while, I've delivered two 101s of how to code from like 0 to not 80%, 0 to 30%.
+5:59 It really depends. These requests will vary a lot. So having something like this is helpful for you because, again, you can switch this to whatever audience you want.
+6:08 You can take it from a Chinese menu to insert culture of your choice here, but the main thing is when we get to something like Advanced, now they can pick from different categories, different tiers, and they can say, you know what, give me the light version of AI coding tools.
+6:23 Don't tell me about coding but just show me Cursor, Windsurf, and Replit, for example. And then Cloud Code, Computer Use, AI Agents, we have API integration without coding, building AI-powered apps, and then desserts.
+6:38 So, desserts, I made it C-suite oriented. So AI for business strategy, AI for investment and due diligence, AI for HR and talent management, marketing, sales, finance, so very high-level topics, and you'll notice that people on the ground, the core employees, will want the meat and potatoes.
+6:59 C-suite sometimes want the very big picture, like a hundred thousand foot view. Like, even telling them that there's this thing called end-to-end and make.com is a reasonable amount of information.
+7:10 It's more so they want to see the lay of the land. Like, which one can allow our employees to go faster?
+7:17 Which one is cheaper at scale? Which one can we get a deal with? Which one lends itself better to security?
+7:22 It's those kinds of questions that I notice pop up a lot. So then, we have banquet options. This is where you also can pre-package things, and this is a very effective way that you can even upsell or position your offer in a way where you don't you are positioning lectures that maybe you really like,
+7:39 you have crystallized in your mind, so prep time is a lot less, but you can call it banquet A, banquet B, C, D, and E, and then you can say, like, what's included with every banquet?
+7:50 If you go with the banquet plans, so maybe a template library, maybe custom GPT setup guides, maybe workflow automation template, and then even you could provide something like a 30 day post-workshop email support.
+8:02 And this could be your entry point to offer a small retainer or a big retainer, depending on who you're dealing with.
+8:08 And then you can be playful at the end. I just said serving fresh AI knowledge updated for October, 2025. Things will change, tools will change, models will change.
+8:17 So you can update this. But the best part of this is that I didn't come up with this myself. It is companies or a company, right?
+8:24 Rather, that opened my eyes out that multiple companies also refer to these kinds of offering for education and consulting in this manner.
+8:33 So you can take this template or at least take the ethos of this template and apply it to whatever it is you're trying to offer.
+8:39 And it gives your prospective clients a way to see one, you know what you're doing, or at least you seem like you know what you're doing because you can offer all these different training modules.
+8:48 It gives you some level of being there, done that experience, even from an optic standpoint. And three, it makes it that much easier to have a back and forth.
+8:56 Cause you can say here, here's the menu. You don't have a full length conversation with the chef of a restaurant.
+9:02 Every single time you go, they just give you the menu and you pick what you want. Or you can ask a specific question about certain items on the menu.
+9:10 And this is the way that you can deal with this as well.

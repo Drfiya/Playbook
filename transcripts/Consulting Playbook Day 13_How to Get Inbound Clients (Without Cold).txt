@@ -1,0 +1,336 @@
+Post Content:
+I've started 43 businesses. Never done a single cold call, cold email, or cold DM for my own company.
+26 minutes on the inbound playbook that makes clients chase you: Reddit arbitrage, Skool community infiltration, LinkedIn value bombs, free workshops that convert at 40-60%, and why you have 6-12 months left to exploit the naivety gap.
+What you'll watch:
+- Why cold everything is dying (and what replaces it)
+- The Reddit strategy that generated 10-15 leads/day for voice agents
+- Skool community infiltration for non-AI industries
+- LinkedIn without AI slop (and why rocket emojis kill your credibility)
+- Free-to-paid conversion framework (office hours → proposals)
+- AI-generated lead magnets in 15 minutes
+- The naivety arbitrage window (closing fast)
+The uncomfortable confession:
+I am very shy, very introverted. I already feel like I'm burdening people just by speaking to them, let alone asking them to buy something from me.
+I specialize in making people come to me because I'm more than happy to sell someone if they already are pre-sold themselves on potentially working with me. Very easy sale.
+The yin-yang partnership ☯️
+I handle inbound. I give free value and attract clients organically.
+Taha handles outbound. Cold calling, cold emailing—he's exceptional at it.
+I even make Taha ask the burdening annoying questions when we're traveling together. If we go to a hotel and I have an annoying request, I will make Taha ask it because he is more than fine doing that. I absolutely hate doing that.
+Why this matters for you:
+A lot of people try to force a way of solutioning or getting leads or client acquisition that is contrary to their personality.
+If you're shy: Cold calling/DMing/emailing can force you out of your shell (can work)
+But: We're moving into a world where doing cold everything will be that much more scalable. Millions of people doing cold to tons of people who are always receiving cold. You get numb to it.
+The novelty of AI-generated outreach will expire.
+Strategy 1 - Reddit (The Underrated Goldmine):
+The logic: If language models are primarily trained using Reddit as information for how humans behave, then why not go to where they live and where people are complaining about what they're struggling with?
+Your avatar of whoever you're trying to sell to or consult for is complaining about their problem somewhere.
+Real case study:
+Someone I knew got 10-15 leads per day through Reddit for voice agents.
+How: Joined r/VoiceAgents and r/AISolutions forums, answered questions without selling, just solved problems.
+Result: DMs full from Reddit where everyone has fake usernames.
+I didn't believe him at first. I thought he was BSing me. We jumped on Discord video chat. I was shocked to see his DMs were actually full from Reddit.
+The principle: The more you are helpful to other people, the more you're recognized, the more people are familiar with your name, the more likely they are willing to reach out proactively.
+The tool recommendation: Gummy Search
+What it does:
+- Search through growing Reddit communities
+- Add them to your audience
+- Ask questions in natural language
+- See which forums/threads discuss specific issues
+- Track keywords like AI voice agents or anyone know good AI consultants
+- Sentiment analysis
+Really good way to monitor discourse of what people are struggling with. Even if you're at zero on LinkedIn followers, you can start making posts that are very tacit knowledge addressing pain points you're hearing through this ether.
+The knowledge arbitrage:
+Being part of this community and watching all YouTube videos you consume gives you very biased perspective. You might assume everybody knows what an MCP is. You might assume everyone knows about connectors in Claude.
+Reality: Most people are still asking what's the best way to scrape YouTube transcripts. Even though there's now multiple ways to do this in one click and multiple MCPs—literally called YouTube Transcripts MCP. One click, it's in Cursor, good to go.
+The Reddit roadmap:
+Spend 5-7 hours per week for a couple months:
+- Posting
+- Answering questions (like I do in this community)
+- Spying on discourse
+- Offering AMAs or free workshops
+Strategy 2 - Skool Communities (Non-AI Industries):
+The insight: Very similar to Reddit strategy. You can go into Skool communities. Join a flurry of not necessarily AI communities.
+Why non-AI communities: Join lower paid communities for industries you care about.
+Example: Accounting
+Scenario: Join paid accounting group (in addition to this one, don't cancel this one)
+Be fly on wall, hear what people ask about.
+Typical question: Does anyone know how to automate this annoying thing in Excel? We do DCF valuations and I hate using VBA to do XYZ.
+Your golden response: Did you know there's actually this thing called Claude for Financial Services that just came out a few weeks ago? Really cool Excel add-in that you can bring in, blah blah blah XYZ.
+Result: Wow, I had no idea, that's good to know.
+The value recycling strategy:
+You can literally take the sauce that I provide all of you, repackage that sauce, take it elsewhere, look like a complete genius.
+You are a genius already, but supplement that genius with the drops I give you. Keep delivering value there.
+The law of large numbers principle:
+If you give so much one-way traffic and you ask for zero in return, people—good people who want to work with you, typically people willing to take out credit card to compensate you for your time—are more likely to reach out to you.
+If you offer these nuggets for free with no expectation of getting something in return.
+Mind blowing. 🤯
+The tactical approach:
+Join 2-3 AI automation communities that have hiring boards (free communities work best)
+Why free over paid: People that join paid want to solve their own problems, scratch their own itch. You have more chance to stand out if it's not in AI-oriented community where everyone is somewhat aware of what's happening.
+If you go to pockets of the world where people gathering around certain topic, industry, tool—that's where you can really shine and use the arbitrage of all the knowledge we try to disseminate here.
+The community downsell strategy:
+Your offer tiers:
+1. Top tier: AI workshop
+2. Mid tier: Hourly consulting or bulk hours
+3. Downsell: $20/month community
+Pitch: If you don't want to pay $200 for one hour of my time, I do have a community for only $19.99 per month. I answer questions every single day for people that either find $200 per hour too expensive, or you don't know whether I'll give you what you're looking for, and you want a taste of the firepower and knowledge I have.
+You can literally cancel at any time. Amazing downsell.
+Coming soon: We have another community for enterprise clients where I'll be less involved. Even structuring that is getting my creative juices flowing on how you could replicate the same thing at smaller and more niche level.
+Strategy 3 - LinkedIn (Without The AI Slop):
+The problem: People use and abuse LinkedIn the wrong way. I hate the way people use LinkedIn. It's very parasitic. The AI slop is very apparent.
+The telltale signs:
+- Rocket emojis 🚀
+- Emoji on every single bullet point
+- Em-dashes everywhere
+If you're watching this and you do that, please tell your ChatGPT to not put em-dashes or emojis on every single line. It looks very jarring. People now are recognizing this is AI-generated content.
+Why dilute your brand, dilute your offering by having these little sloppy lines that don't make you look as white glove and polished as you should?
+The correct LinkedIn strategy:
+Step 1: Answer questions on viral posts
+Go in on viral posts where people are asking questions, where the author doesn't have bandwidth to answer said question. Answer the questions as detailed as possible.
+The arbitrage: Every single time someone likes your comment, it shows up on their connections feeds. The more genuine sauce you add...
+What NOT to do: Don't take the whole thing of the thread and post and say can you please go answer that question in a very thoughtful way and write like a human or else I will send you to Mars.
+What to do: Answer it yourself, make it look superhuman (lowercase). If you refuse to type it out or dictate it the way I dictate most responses in community, then at least make it look very human.
+Step 2: Recycle your answers
+You'll be able to recycle a lot of your answers to questions between Reddit, between Skool, between LinkedIn. People have same problems, just venting about it on different platforms and through different modalities.
+Step 3: Build connections and offer free webinars
+After providing series of sauce:
+- Drop your own version of my Loom Bites
+- Walk through how X solution is useful for Y avatar
+- Offer useful n8n workflows or things that actually work
+The LinkedIn template trap:
+Bad strategy: Comment Donkey Kong and I will send you this horrific template that I downloaded from n8n template library. I have no idea how to set it up.
+Why it works short-term: Because people are naive on LinkedIn, they will comment Donkey Kong and you'll get more visibility. You'll see hundreds of comments and likes.
+Why it kills you long-term: Those people build a bad reputation. One, they didn't build it themselves, meaning they have no idea how to set it up if people ask questions. Two, if they don't know how to use n8n and act like they do, once they get on discovery call, people can smell when you're full of it.
+The right approach: If you actually share things you've built, you always have that tacit knowledge, that been there done that. You'll be surprised how basic of a thing that's actually useful, that actually works, that people will value.
+Examples of things to share:
+- Really cool hack using custom GPT
+- Custom action for custom GPT that hooks up to n8n workflow
+- Two basic webhooks and AI agent in couple different tools
+There's so much value you can extract by just giving that value upfront. Do it on recurring basis with non-AI-generated slop statuses and descriptions. Write it yourself, it doesn't take that much time to be thoughtful.
+The LinkedIn-to-YouTube path:
+I know some creators 10 on LinkedIn that are now beginning YouTube because they built decent audience of 20K-30K people on LinkedIn.
+Why it's easier: Easier for someone to click follow on LinkedIn than subscribe on YouTube. It's even harder for you to be discovered on YouTube.
+Strategy 4 - Free Workshops & Office Hours:
+The conversion machine:
+Offer weekly office hours
+Record the sessions
+Post recordings back on LinkedIn as content
+This becomes foundational flow
+The wheel: You offer value → You record you offering value in real time → You offer value through the artifact or sawdust of creating that recording to begin with.
+Result: You propel a lot of content and build a portfolio of content of you giving that goodwill.
+When someone asks for case studies: Now you have an army of different recordings that you can link them in two seconds. Makes you look that much more polished, that much more genuine, and more importantly, in this increasingly HeyGen AI avatar environment, more human.
+The structure:
+Time commitment: 3-5 hours per week office hours
+Conversion rate: 40-60% of people on calls will be interested in working with you
+Why it works: If you give something away for free in a world where everyone wants to put something behind a gate (even though they know the avatar can get it for free if they look hard enough), this builds a trustless society.
+If you can be a trustworthy person in a trustless society, you will inevitably—whether English is your first language, whether you're doing this in different language—you will build a loyal following.
+Size doesn't matter: Whether it's 10 people, whether it's 100 people, whether it's 50,000 plus people. That will depend on quality and your ability to distill very difficult ideas that are hard to articulate, and how valuable you package it.
+Strategy 5 - AI-Generated Lead Magnets (15 Minutes):
+Real example: Divorce law lead magnet
+Built in 15-20 minutes using Gemini AI Studio (free)
+What it does: When you walk through your scenario of what's happening with your divorce and answer a few things in natural language, I just used Gemini 2.5 Flash to process whole thing, then come back with legal response or blurb you can use in your contract to help protect you from being taken advantage of in XYZ way.
+Result: Very simple lead magnet, pretty effective. Can look polished very quickly.
+The skill myth: It's not like oh Mark you're so smart you did it in 15-20 minutes. I literally just asked Gemini 2.5 Pro on AI Studio for free to build me this thing. I was able to share it and give it to this lawyer, and now they can use it, repurpose it, whatever.
+The text-to-workflow opportunity:
+Now that we have things like text-to-workflow in n8n, why not take that to your advantage?
+Action plan: Build 10-15 workflows using it. Set it up, make sure it works. Pin the data so you can demonstrate it works on whatever platform you want to use.
+Share on: Skool communities, LinkedIn, your platform of choice, warm email to people you actually know
+The asymmetry principle:
+Perceived value is here (high). Time it took you to actually build it was here (low). Really good asymmetry.
+The big picture most miss:
+People are obsessed about using vibe coding to build SaaS apps that will only die tomorrow and won't make a dollar. I'm telling you that very bluntly.
+Real opportunities: Now that we have this arbitrage of being able to create valuable stuff at scale while most people have no idea you can do this—this is where you have ability to create so many valuable lead magnets.
+The urgency: While we still have this opportunity of demonstrating goodwill, take advantage of it. Please. (voice cracks) I'm passionate about it because people are missing the big picture.
+The SaaS reality check: Everyone's obsessed about building this tool they think someone's gonna pay $5.99 per month for, $10.99 per month for. Newsflash: Most SaaS tools will die. Most B2B SaaS tools will die.
+So while we still have this golden arbitrage, take advantage of it.
+Strategy 6 - Open Source Everything:
+The Claude Code advantage:
+We have ability to now use Claude Code to build useful frameworks.
+Example: Build something to audit a vibe coding tool to say how you should improve it to make it look better. You could vibe code a tool to allow that and offer that as GitHub repo.
+The GitHub simplification: Now you don't even have to figure out how to use GitHub in depth. Just do Install App in Claude Code, use that. Push that code and have it write a README that's really well put together that would help complete beginner use your repo.
+Why it works:
+As long as they're actually thoughtfully built and they work and you put effort to set it up: One, that's an artifact and portfolio point for you. Two, we have that arbitrage of naivety where people don't know that you were able to build whole framework or whole app or whole Chrome extension in 5-6 hours.
+Get it out there and offer it complete for free. People will look at you like you're a saint, especially those that don't know this is achievable now with current modern technology.
+Project ideas:
+- Ultimate n8n template library for different industries
+- Templates for different avatars
+- Different AI tools
+- Custom GPTs and Claude projects
+So many things you could do.
+The arbitrage window (critical):
+Timeline: 6-12 months left where you can take advantage of these arbitrage opportunities of naivety.
+What to do: Build something super valuable and you attract people to come to you to bang your door to open it so you can say yes to them giving you money without you going and saying let me convince you why you should give me money.
+I like the inverse scenario because: One, I sleep better at night, I feel better. Two, if someone doesn't want to work with me, it's all good. I didn't exert any effort outside of putting value that I can then repurpose for all kinds of different situations and organizations.
+The origin story myth:
+When people tell me oh lucky you Mark you can do inbound, you're lucky you're in a privileged position—yes, sure. But I only got here because I didn't have an audience for my first 1,000 hours of consulting.
+I had just Fiverr. And I ranked on Fiverr because I also did a lot of things for free on Fiverr for like $10 per month, for $10 per order. So I paid all my dues in very low ticket things given my skillset.
+But every person has their path.
+The Fiverr hack (before they cracked down):
+Put free 15-minute Calendly link at bottom of every Fiverr job post
+Result: On average, 3-7 free 15-minute discovery calls per day.
+Outcome: How quickly do you think I was able to aggregate a lot of understanding of how different companies are looking for AI, what pain points people are dealing with?
+The reciprocity trigger: Turn those 15-minute calls naturally into me giving such good advice that they feel like why did you do this for free? Now they feel this need for reciprocity.
+Result: At least a portion of folks would want to work with me and ask me to build things for them.
+The risk-free value exchange: One of easiest ways to do this value exchange in risk-free way in very noisy environment.
+The final truth about inbound:
+Some people with 300 YouTube subscribers have CEOs watching their stuff. Because some people don't care about vanity metric of how many subscribers you have. They care about the sauce.
+They actually look for people with less following and believe them more. Because they're less inclined to want to over-hype and BS. Since they don't have this propelling propaganda machine trying to get more people into their ecosystem.
+They have nothing to lose and kind of nothing to gain because they're so small. A lot of people trust smaller creators on all kinds of social media platforms.
+Even if you have zero voice, you can still have a lot of opportunity.
+The cold truth about cold outreach:
+It can work. Taha proves it. But we're moving to a world where millions of people doing cold to tons of people who are always receiving cold. You get numb to it.
+If I get like 4-5 AI automated calls, eventually I'm just gonna stop responding or not give you the time of day.
+Choose your path based on your personality, not what some guru tells you everyone must do.
+Next episode: The proposal framework that closes 60% plus of qualified leads without pressure tactics.
+27:09
+
+
+Transcript:
+00:01 If you're looking for someone that's going to be your guru on cold email, cold DMs and cold calling, I am not your guy.
+00:08 Of the 43- is this is that I've started since high school, many of which crashed and burned, but I made money in most of them, how much money is the spectrum.
+00:18 I have never done cold. I don't like cold, I hate bothering people, I'm actually very shy, I'm very introverted, and I already feel like I'm burdening people just by speaking to them, let alone asking them to buy something from me.
+00:31 So I am not your guy when it comes to this domain. domain. I specialize in making people come to me because I'm more than happy to sell someone if they already are pre-sold themselves on potentially working with me.
+00:43 Very easy sale. Just make it clear. There are people out there, even Taha, is really good at this. That's why Taha focuses on cold calling and cold emailing, because that's how he got clients, and I commend him for that.
+00:57 That's why we have a yay- You in a yang relationship in the business. I am very good at inbound, where I do things that give a lot of stuff for free that people offer paid, and that will catch the attention of some folks that want even more, and then that brings them into my ecosystem.
+01:12 That's how some of you may have made it to watch this video in this community. Taha is really good as my yang, where I even make Taha ask the burdening- Annoying questions when we are traveling together.
+01:24 If we go to a hotel, and I speak to a waiter or waitress, and I feel like I have a request that's kind of annoying, I will make Taha ask it because he is more than fine doing that, but I absolutely hate doing that.
+01:36 And why am I giving you this little blurb before getting to the value? The reason why is a lot of people try to force a way of solutioning or getting leads or- We're getting a client acquisition that is contrary to their personality.
+01:51 Now, in some cases, depending on how gregarious or outgoing you are, or whether you're shy, but you don't want to be shy, cold calling, DMing, and emailing are very helpful because they force you to get out of your shell.
+02:03 I have had to do cold calls, but not just- not for my own business. I've had to do it for another business where I spent six months- Once.
+02:10 In my first internship outside of university, basically with a Trojan horse strategy to get my first analytics job. But I came in second place.
+02:19 So I went in the sales department of that company and did cold calls. And cold emails as well. So I had to do prospecting, using HubSpot.
+02:28 I had to scrape LinkedIn the old-fashioned way, and back then I was using basic Python script. Subscribe. All to say, I understand the effectiveness of cold.
+02:39 And it can work. But just know that we're moving into a world where doing cold everything will be that much more scalable, and every single person that's been instructed to do that to acquire clients, I don't think that there's a big enough of a market for millions of people to be doing cold to tons 
+02:56 of people who are always receiving cold. You get- Yep. I don't like basically numb to it. If I get like four or five AI automated calls, eventually I'm just gonna stop either responding or I'm not gonna give you the time of day.
+03:07 The novelty of AI generated outreach, in my opinion, will expire. So in my world, I like inbound. I am an inbound person.
+03:15 So when it comes to consulting, there are multiple approaches you can take to go down the inbound route. When it comes to- two, these approaches.
+03:24 I'm gonna give you some ones like you probably haven't thought of before, because I've tried to innovate every single way I could avoid speaking to a real human until they come to me.
+03:32 I know, very introverted. So one of them, very underrated. If language models are primarily trained using Reddit as information for how humans behave, then why not go to where they live and where people are complaining- meaning actively about what they're struggling with to one, understand what to sell
+03:51 , or what people need help with, or what people need guidance with, because I keep saying things like, your avatar of whoever you're trying to sell to or consult for is complaining about their problem somewhere.
+04:03 So a year ago, I had someone hit me up. I was actually referred to someone who wanted to subcontract- us to do, voice agents.
+04:12 He was exceptional at getting lead flow through Reddit to sell voice agents. So he was in a forum called, I think, Our Voice Agents or RAI Solutions, and people were asking questions about this brand new thing, Voice Agents.
+04:26 He was getting around 10 to 15 leads a day through these forums where instead of selling and chilling, he would just saw people s-s-s problems and answer people s questions, and he would get DM that I didn t believe him.
+04:38 I thought he was kind of BS'ing me. So I m- we were connected, we jumped on Discord, we jumped on a video chat, and I was shocked to see that his DMs were actually full from Reddit, where everyone has fake user names, but he was still able to acquire a lot of interest that way.
+04:54 Now am I telling you to go into the DMs of Reddit and to the rabbit holes there? No, I m also not saying that you might not get the same results, because voice agents were very novelty at the time, they were brand new.
+05:07 But I still hear of success there as well, where you re in the watering hole, or the town square, where everyone is complaining about something, and looking for solutions or advice, and then kind of like offering advice in this community, the more you are helpful to other people, the more you- They were
+05:22 recognized, the more people are familiar with your name, and the more likely they are willing to reach out proactively and say, hey, those are the good advice, thank you so much, could you help me with X?
+05:31 So, if I had my own strategy now starting from zero, and I had no in-down traffic, I actually used to use this app called Gummy Search.
+05:41 You can now vibe code Gummy Search, probably, using a combination of N-A-N with the native, Reddit, nodes that you can go scrape the web, but basically, the premise of Gummy Search was you could spy on different Reddit threads, so let's see if I could find a screenshot for ya, because I don't feel like
+05:58 signing up again. Yeah, so, let me open this up, right here. Yeah, this is their website, that's the logical thing to do.
+06:06 On here, you could search through growing communities, and then you could add, Add them to your audience, then ask in simple language, natural language, a question.
+06:15 Once you send over that question, that's where the magic begins. You can start to see which forums and which threads are discussing that specific issue or keyword, and then you can really dive in and get an understanding for sentiment analysis.
+06:30 So you can even track keywords, like, tell me every single time someone mentions, A.I. voice agents, or anyone, someone mentions, like, anyone know good at consultants for A.I.?
+06:41 That is a really good way to, even from a third-party perspective, monitor the discourse of what people are struggling with, and even if you're at zero on LinkedIn in terms of followers, you can start to make posts that are very tacit knowledge.
+06:56 They are foundational. additional. You are addressing pain points that you're hearing through this ether, and that could be your knowledge arbitrage opportunity of staying on top of what to sell, who to sell to, what people are struggling with now, and most importantly, where people might still be naive
+07:12 . Because being a part of this community, and maybe watching all the YouTube videos that you consume in your A.I. information diet, you have a very biased perspective of the world.
+07:21 world. You might assume that everybody knows what an MCP is. You might assume that because Mark posted a loombite about how to use connectors and cloth, that everyone knows that.
+07:32 But for most people, they're still asking the same questions, which is what, like, what workflow is the best way to scrape YouTube transcripts.
+07:40 Even though there's now, like, multiple ways to do this in one click, and multiple MCPs that are, like, one. one.
+07:46 One click that could stop you from having to do the workflow to begin with. There's a MCP server with an add-in that's literally called YouTube transcripts.
+07:54 One click, it's in cursor, and you're good to go. So with that, let's go back. So this is mostly like an idea.
+08:01 If you want to go through right engagement and you want to, like, a roadmap, I would maybe start for a couple months, spend five to seven hours per week, ideally posting.
+08:09 Answering people's questions, the same way I answer people's questions in this community, do the same over there, or you can just spy as well.
+08:17 And then you can even offer an AMA or free workshop. You're going to see that's a lot of my strategies, offering things for free.
+08:24 So when I started on Fiverr, we became top-ranked in the world for the keyword prompt engineering, meaning I was getting tons of traffic.
+08:31 Now before Fiverr had a cra- back down on, let's say, putting a countly link, I would put at the very bottom of every single one of my Fiverr job posts, a free 15-minute countly link.
+08:44 And because we were getting so much traffic, I had, on average, three to seven free 15-minute discovery calls per day.
+08:52 So how quickly do you think I was able to aggregate a lot of understanding of how different com- companies are looking for AI, what pain points people are dealing with, and turn those 15-minute calls naturally into me giving such good advice that they feel like, why did you do this for free?
+09:08 And now they feel this need for reciprocity, at least a portion of folks that would want to work with me, and then ask me to build things for them.
+09:16 This is one of the easiest ways to do this value exchange in a risk-free way, in a very noisy environment, which- We'll see leads me to my next point, and a lot of people take this strategy for granted, or they try to really game it, but if you do it authentically, it can be very helpful.
+09:31 Very similar to that Reddit strategy, you can go into school communities, join a flurry of not necessarily AI. Although AI communities do have job opportunities as well, like the free ones where people are just asking questions, and they- aren't committed, invested enough to join a paid community, or
+09:49 they're skeptical about it, maybe rightfully so, but they still have a pain point that they're looking for someone to hire.
+09:55 What if you went to the free communities, or even the lower paid communities, for the industries that you care about?
+10:02 So if it's accounting, for example, and you want to offer AI solutions, for accounting, why not go join a paid- accounting group, in addition to this group, don't cancel this one, go join that group, go and be a fly on the wall, and hear about what people are asking about.
+10:20 And many times they'll be like, ah, does anyone know, at least let's take accounting as an example, does anyone know how to automate this really annoying thing in Excel, we do DCF valuations for companies, and I hate having to always use VBA to do XYZ.
+10:34 And what if you came in and said, oh, did you know there's actually this thing called clod for financial services, that just came out, they just, released this a few weeks ago, it seems to be this really cool add-in that you can bring into Excel, blah, blah, blah, blah, XYZ.
+10:47 You just shared a nugget, and they'll be like, wow, I had no idea, that's good to know. And then, you go dormant for another couple days, then you come back, you drop some more sauce, you can literally take the sauce that I prefer- provide all of you, repackage that sauce, take it elsewhere, look like
+11:01 a complete genius, you are a genius already, but like, supplement that genius with the drops that I give you as well, and you keep delivering value there.
+11:09 Eventually, I'm just telling you, law of large numbers, and law of, in my- I'll call it, law of good will is, if you give so much one-way traffic, and you ask for zero, row.
+11:22 People, good people, who want to work with you, typically also, people who are willing to take out their credit card to compensate you for your time, and value your time, are more likely to reach out to you.
+11:34 If you offer these nuggets, comma, for free, with no expectation of getting something in return. I know. Mind blowing. so, if we wanted to make this more tactical, Practical.
+11:45 I would join two to three either. AI automation communities that have a hiring board that are free. You don't need to be in paid, because usually, people that join paid want to solve their own problems, scratch their own itch.
+11:56 Although, once in a while, you'll even see in this community, in the hire or partner section, someone will say, I am hiring for X.
+12:02 So, those opportunities will come out. But they are fewer from what I see in paid community versus the free. And you have more of a chance to stand out if it's not in a AI oriented community, where everyone is kind of somewhat aware of what's happening.
+12:19 If you go to the pockets of the world, where people are gathering together in communities around a certain topic, industry tool, et cetera, that's where you can really shine and use the arbitrage of all the knowledge we try to disseminate here.
+12:34 And then from this, obviously, you can eventually create your own school group as well. I'm gonna make a whole video on this separately.
+12:40 I think one of the most untapped opportunities for entrepreneurs is creating not a B2C kind of community that I've built myself and some of the other bigger creators have as well.
+12:51 That market is really getting saturated. In my opinion, I think there's a huge golden opportunity. opportunity. 7 in having a downsell consulting community where you have your, your top tier offer, which is an AI workshop, then you have a mid tier offer, which is hourly based consulting or, you know,
+13:09 buying consulting hours in bulk, and then you have this downsell at the very bottom, which is, you know what, if you don't want to pay 200 bucks for one hour of my time, I do have a community for only $19.99 a month that I basically am- answer questions every single day for people that either find the
+13:25 200 bucks an hour too expensive, or you don't know whether or not I will be able to give you what you're looking for, and you want a taste of the firepower and knowledge that I have.
+13:35 So, we actually have a school community for 20 bucks a month, you can literally cancel at any time, and that could be an amazing downsell.
+13:40 So, I will dedicate a video on how I think about designing communities and structuring them, because, yeah, anyway. Thank you very much.
+13:46 I don't want to reveal too much, but we have another community coming for enterprise clients where I'll be less involved, but even structuring that is getting my creative juices flowing on how you could replicate the same thing at a smaller and more niche level.
+14:02 Next one. Now, people use and abuse Linkedin the wrong way. I hate the way people use Linkedin. It's very parasitic.
+14:09 or a city. The AI Slop is very apparent. I see some people trying to give advice on Linkedin, still with rocket emojis, and an emoji on every single bullet, which screams they're using AI, so if you're watching this and you do that, please tell your chat GPT to not put M-dashes or emojis on every single
+14:28 line. It just looks very jarring, and people now are recognizing and are- aware enough that this is going to be AI-generated content.
+14:37 So why dilute your brand, dilute your offering by having these little sloppy lines that don't make you look as white glove and as polished as you should.
+14:46 Now, the way I would use Linkedin, if I could, I couldn't for most of my last three years in the agency, cause I had a day job and I had a conflict of interest there, but if I did, I would have DEATH- I would kill Linkedin as well, cause I do have a polished background, so I would be able to stand out
+15:03 from a lot of the people that memorize the AI versus the ones that actually understand and use the AI. So I would go in on viral posts where people are asking questions, where the author doesn't have the bandwidth to answer said question.
+15:16 I would just answer the questions as detailed as possible. Cause now you get like multiple levels of arbitrary- where every single time someone likes your comment, it shows up on their connections feeds and the more genuine sauce you add.
+15:30 Not some AI-generated response where you take the whole thing of the thread and the post and say, can you please go answer that question in a very thoughtful way and write like a human or else I will send you to, I don't know, Mars.
+15:42 You don't want to do that. You want to answer it yourself, make it look superhuman. superhuman lowercase, I don't know, like, if you refuse to type it out or dictate it the way I dictate most of the responses in the community, then at least make it look like it's very human.
+15:58 Try and do that very often and you'll find that one, you'll be able to recycle a lot of your answers to questions between the Reddit, between the school, between the LinkedIn, cause people have the same problems, just, they're venting about it on- different platforms and through different modalities.
+16:14 And then you can obviously build connections through there and then this is a golden opportunity where you can offer free webinars after you provide a series of sauce.
+16:24 So you're answering questions on people's viral posts that gives you a larger surface area to be noticed, and then you drop your own version of my loom bites where you can walk through how X solution is useful for Y avatar.
+16:38 And then you offer useful in-it-end workflows or things that actually work because the average Linkedin, the comment, Donkey Kong, and I will send you this horrific template that I downloaded from the In-it-end template library.
+16:53 I have no idea how to set it up, but because people are naive on Linkedin, they will comment. comment. Donkey Kong, and you will get more visibility.
+17:01 You'll see hundreds of comments and mics on it, but I will tell you that those people build a bad reputation.
+17:06 If, one, they didn't build it themselves, meaning they have no idea how to set it up. If people ask them a question, and two, if they don't know how to use In-it-end and act like they do, once they get on the discovery call, I'm telling you that people can smell when you're full of it.
+17:19 So if you actually share things that you've built, you always have a lot that tacit knowledge that being there done that, and you'll be surprised how basic of a thing that's actually useful, that actually works, that people will value.
+17:31 Whether it's a really cool hack using a custom gbt, or whether it's creating a custom action for a custom gbt that hooks up to an end-end workflow with two basic web hooks and AI agent in a couple different tools, there's so much value that you can extract by- just giving that value up front, and you
+17:49 do it on a recurring basis with non-AI-generated slop, statuses, and descriptions. Right at yourself, it doesn't take that much time to be thoughtful.
+17:58 So this combination, all of these will be thematically very similar, but the way that I'm executing- executing them is different.
+18:07 And then eventually, if you start getting real flow, like, I know some creators- year. 7 10 on LinkedIn, that are now beginning YouTube because they built a decent audience of 20,000, 30,000 people on LinkedIn.
+18:18 If you've been gun shy on getting on YouTube, because YouTube is a tricky place to operate. Doing this strategy, one, can build you an audience lot more passively.
+18:28 It's easier for someone to click follow on LinkedIn, then subscribe on YouTube, because it's even harder for you to be discovered on YouTube.
+18:33 Thank you. But if you use this somewhat, like, good faith, good wheel, paracetic strategy, along with giving value, along with offering once in a while, a free workshop, or a weekly office hours, you can record the office hours that you offer people on LinkedIn that are signing up for, and then you can
+18:51 take that recording, and now that acts as an artifact to post back on LinkedIn as net new content, And this becomes a foundational flow.
+18:58 By wheel of you offering value, you recording you offering value in real time, then offering value through the artifact, or the sawdust, of creating that recording to begin with.
+19:10 So that's where you propel a lot of content, and then you can now build a portfolio of content of you giving that good wheel.
+19:17 So when someone asks you, do you have any past clients, or do you have any examples of case studies, that you're not a full of- and a bit consultant if I work with you?
+19:25 Well, now you have an army of different recordings that you can link them in two seconds. It will make you look that much more polished, that much more genuine, and more importantly, in this increasingly, Hey-Gen AI avatar environment, more human.
+19:39 Now, as we go down, like I said, if you wanted to structure office hours, you would make it anywhere between three to five hours per week, and then I would say- a forty to sixty percent of these office hours, even if it's like four people on that call, you will be able to send proposals.
+19:53 People will be interested in working with you. Cause if you give something away for free, in a world where everyone wants to put something behind a gate, even though they know the avatar can get it for free if they look hard enough, this builds a trustless society.
+20:08 And if you can be a trustworthy person in a trustless- the rest of the day. And if society, you will inevitably, whether you, whether English is your first language, whether you're doing this in a different language, you will build a loyal following.
+20:19 How big that following will be, whether it's ten people, whether it's a hundred people, whether it's fifty thousand plus people.
+20:25 That will depend on the quality and your ability to distill very difficult ideas that are hard to articulate, and how valuable you package it.
+20:34 And then obviously, over time, you can start to go through case studies. So let's say, in addition to sharing workshop recordings that you provide, you also share case studies.
+20:44 We anonymize the client and say, we worked with ex-client, and we didn't just say, we, we increased the result by five hundred percent.
+20:50 AI changes everything. Uh, DM, if you want to find out more, that sucks. it can work, but it sucks. Why don't walk through in depth what the problem was in a loop?
+20:59 . And then, screen record what your solution was. And then just put it out there. You never know who's watching. That's the thing about even YouTube.
+21:06 Some people with 300 subscribers have CEOs watching their stuff. Because some people don't care about the vanity metric of how many subscribers you have.
+21:14 They care about the sauce. And they actually look for people with less following, and they believe them more. Because they're less inclined to want to over hype and BS.
+21:22 Since they don't have this- propelling propaganda machine that's trying to get more and more people into their ecosystem. Because they have nothing to lose, and kind of nothing to gain.
+21:30 Because they're so small. A lot of people trust smaller creators on all kinds of social media platforms. So even if you have zero voice, you can still have a lot of opportunity.
+21:41 Now, the next one I would say here are more so AI-generated personalized lead magnets. with. Now, I just worked, and I did something, a small favor for someone.
+21:50 It took me fifteen minutes. I generated a, a law-based lead magnet that when you walk through your scenario of what's happening with your divorce, and you answer a few things in natural language, I just used the Gemini AI Studio.
+22:05 Since you could just tell it, use Gemini 2.5 flash to process the whole thing, and then come back with a legal response or or blurb that you can use in your contract to help protect you from being taken advantage of in XYZ way.
+22:16 Very simple lead magnet, pretty effective. It can look polished very quickly. It took fifteen, twenty minutes for me to put together.
+22:24 And it's not like a skill issue where it's like, oh, Mark, you're so smart. They did it in fifteen, twenty minutes.
+22:28 I literally just asked the Gemini 2.5 Pro on AI Studio for free, build me this thing. I was then able to share it, and I was- able to give it to this, lawyer, and now they can use it, repurpose it, whatever.
+22:39 Very personalized AI lead generated, magnets are very helpful. And now that we have things like text-to-work flow in N-A-N, why not take that to your advantage?
+22:49 Why not build ten to fifteen workflows using it? Set it up, make sure it works, pin the data so you can demonstrate it works on whatever platform you want to use.
+22:58 Whether it's in another school community, whether it's on LinkedIn, whether it's on your platform of choice, whether it's through email.
+23:04 Like, not cold email, just like a warm email from people that you actually know. There's so many opportunities right now to make lead magnets.
+23:11 Like, people are obsessed about using vibe coding to build SaaS apps that will only die tomorrow and won't make a dollar.
+23:17 I'm just telling you that very bluntly. But the real opportunities, now that we have this arbitrage of being able to create- valuable stuff, comma, at scale, while most people have no idea that you can do this, this is where you have the ability to create so many valuable lead magnets, where the perceived
+23:31 value is here. And then the time took you to actually build it was here. Really good asymmetry. So while we still have this opportunity of demonstrating the goodwill, take advantage of it.
+23:42 Please, even my voice crack to emphasize this point. But, heh heh heh. It's because I'm passionate about it, because people are, are missing the big picture.
+23:50 Everyone's obsessed about building this tool that they think someone's gonna pay $5.99 a month for, $10.99 a month for. Newsflash.
+23:57 Most of SaaS tools will die. Most of B2B SaaS tools will die. So while we still have this golden arbitrage, take advantage of it.
+24:05 So, the last thing I would say in general, I think I have a few more things, but I think I'm re- They don't want to be repetitive here.
+24:12 Yeah. Okay. Let me just, I want to skip to this part. Open sourcing stuff. So on top of also being able to vibe code things and build workflows and share those, we also have the ability to now use cloud code to build useful frameworks.
+24:28 Let's say you want to build something to audit a vibe coding tool to say how you should improve it to make it look better.
+24:34 You could vibe code a tool to allow that and you can offer that as a GitHub repo. And now, now that you don't even have to figure out how to use GitHub to, in depth, you can just do the install app and cloud code, use that.
+24:46 Then you can push that code and then you can have it write a read me that's really well put together that would help a complete beginner use your repo.
+24:53 You can also share those as well with everyone everywhere through any medium you imagine. And as long as they're actually thoughtfully built, comma, and they work, and you put effort to set it up, one, that's an artifact and a portfolio point for you, two, again, we have that, that arbitrage of naivete
+25:11 where people don't know that you were able to build a whole framework or whole app or whole Chrome extension in five, six hours, get it out there and offer it complete for free, people will look at you like you're a s-s and ain't, especially those that don't know that this is achievable now with the 
+25:26 current modern technology and will increasingly get easier and easier to build. So when you combine all of these together, I think the mostly I was giving more project ideas, like creating an ultimate edit and template library for different industries, for different, for different avatars, different 
+25:41 AI tools, creating things for, touchy bt and clawed, so many things- as you could do. So, when people tell me that, oh, lucky you, Mark, you can do inbound.
+25:51 You're lucky and, you know, you're in a privileged position. Yes, sure. But I only got here. I didn't have an audience for my first thousand hours of consulting.
+26:01 I had just fiber. And I ranked on fiber because I also did a lot of things for free on fiber for like ten bucks a month, for ten bucks per order.
+26:09 So I paid bt- all my dues and very low ticket things given my skill set. But every person has their path.
+26:16 And I would say they're six to twelve months left where you can take advantage of these arbitrage opportunities of naivete, where you build something super valuable and you attract people to come to you to bang your door to open it so you can say yes to them giving you money without you going and saying
+26:33 let- me convince you why you should give me money. I like the inverse scenario because one, I sleep better at night, I feel better.
+26:42 If someone doesn't want to work with me, it's all good. I didn't exert any effort outside of putting value that I can then repurpose for all kinds of different situations.
+26:49 organizations.

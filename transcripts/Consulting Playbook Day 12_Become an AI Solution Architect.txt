@@ -1,0 +1,328 @@
+Post Content:
+Knowing every AI tool makes you useless - knowing WHICH tool for WHICH problem makes you irreplaceable 👑
+24 minutes on the solution architect framework that turns you from "I can build automations" into "I'll guide you through the minefield"—and why one deep ecosystem beats shallow knowledge of 50 tools.
+What you'll watch:
+- The 4-category framework: 1 chat platform, 1 LLM, 1 automation tool, 1 IDE
+- The "tree" concept: Going deep vs wide in AI knowledge
+- Real trash vs treasure breakdown (what to avoid recommending)
+- Live Google Colab + Gemini ML demo (weeks of work → 5 minutes)
+- How to simplify client tech stacks and look like a hero
+The core problem:
+"Every single day you open this community, there are new frameworks, new tools, new updates, new models. For people very into this, like yourself and myself, this is overwhelming but at least we're used to it."
+"For someone who's a business owner running a business, they barely have enough time to walk through this minefield, let alone the minefield of day-to-day."
+The solution architect mindset:
+"Our goal every single time we're doing solution architecture or solution consulting: We want to lead them. Here's A, here's B, here's every tool that would probably be thrown your way to solve this thing. But I know about this tool or this framework that'll make it faster."
+That's where you derive your core value.
+The 4-category framework:
+If pitching to overwhelmed, scattered, stressed client with FOMO about AI:
+1. One chat platform (ChatGPT or Claude)
+2. One LLM (go deep in its ecosystem)
+3. One automation tool (Zapier, Make, or N8N)
+4. One AI IDE (Cursor, Windsurf, or Replit)
+"Each one gives you enough of a product tree or domain tree that will allow them and you to go really deep in this topic."
+The "tree" concept explained:
+Example: Mastering Claude (not even Claude Code, just Claude front-end)
+The tree branches:
+- Step 1: Learn how to prompt
+- Step 2: Make a Claude Project (what makes it effective vs not)
+- Step 3: Explain RAG while teaching projects
+- Step 4: Using connectors (requires explaining MCP concept)
+- Step 5: Building custom MCPs
+- Step 6: Managing context windows
+- Step 7: Memory feature
+- Step 8: Chat retrieval feature ("Give me every chat ID where I mentioned X")
+Timeline: "Just with one topic, assuming your client or their employees are starting at zero, this would take a couple weeks just to get them acquainted with this model."
+The depth principle: "All you need is just to show them one piece of each domain and it will inspire them to provoke the questions of what needs to happen to go deeper."
+Category 1 - Chat Platforms (pick one, go deep):
+Don't overwhelm with options. Pick ChatGPT or Claude and master the ecosystem.
+The value isn't knowing both shallowly. It's knowing one deeply enough to solve 90% of use cases.
+Category 2 - Language Models (know when to use which):
+Don't just say "compare all these LLMs for our use case" (they can do that themselves).
+Become useful by knowing specialized features:
+Claude for Financial Services:
+"You're a financial services company? Claude came out with Claude for Financial Services. They have Excel add-in that can meet you and your employees where you're at, tabulate everything in cells without uploading anywhere."
+This is specific service Claude offers. Showing you know this = instant credibility.
+Gemini for SOPs:
+"If they don't have SOPs in business (most businesses have zero SOPs or their SOPs suck), what can you do to help them alleviate?"
+Solution: "Instead of having them document things using grunt work, what if they did screen recording using Loom doing the task? Upload to Gemini: 'Watch this video and make an SOP.' You can do this at scale."
+Bonus vibe coding trick: "While call is happening, you could go to AI Studio, vibe code as you're speaking, use Gemini 2.0 Flash with video understanding, make an app for them where they could upload this, white label it with your service name. Now you've created value out of thin air that looks like magic."
+ChatGPT for Company Knowledge:
+"Recently released something called Company Knowledge. Instead of individual RAG, you now have company RAG that you can tap in all core knowledge everyone in company should access."
+Demo shown: Prompt Advisors agency → Plus button → Company Knowledge → Can be rooted in different drives
+"The value of staying on top of things—you might not need to have done or used the element. Might be useful to just know that it exists."
+The golden BB example:
+Client problem: "Do you have good person for logos? We like logos in ChatGPT but I wish I could make slight modifications to text and style."
+Bad consultant: "Let me find you a designer"
+Good consultant: "You can go on AI Studio right now using Gemini 2.0, and it probably will be able to take care of it for you without hiring anyone."
+"These are golden BBs or silver bullets that elevate you. You're knocking through pain points they thought would cost hundreds if not thousands of dollars and hundreds if not thousands of hours, solving them in minutes."
+Category 3 - Automation Platforms (pick one ecosystem):
+"I don't care which one you like. Whatever one you choose, make sure you understand the ecosystem of that tool."
+Zapier ecosystem:
+- Zapier Agent Builder
+- Highest number of native integrations
+- ~3000+ integrations
+Make.com:
+- Around 3000 integrations
+- Different strengths
+N8N ecosystem (example deep dive):
+- Least number of native integrations
+- Most malleable and versatile platform
+N8N ecosystem mastery example:
+Client question: "We only have 5000 records. Should we use Google Sheet and hook that up? Or Airtable?"
+Amateur response: "Let's use Google Sheets"
+Expert response: "Because I know N8N ecosystem, I know they have data tables now which is a substitute for Google Sheet. We don't have to create a Google Sheet, then create authentication for Google in N8N and go through those motions, especially for company that doesn't want unnecessary friction."
+The ecosystem knowledge cascade:
+From knowing N8N deeply, you can explain:
+- What vector storage is
+- What Pinecone is
+- Differentiate between types of vector databases
+- Explain that if you want best of both worlds (Postgres + vectorization), use Supabase or PG Vector
+- When to use Airtable vs alternatives
+"Knowing what options are there and knowing when and why you choose one vs the other is most important."
+Real cost example: "Airtable is really expensive if you have multiple users. Many seats, that bill can add up. I used to pay $500-600 without knowing it just for seats. Once I understood Supabase is $10/month to spin up instance, and won't change as long as I don't explode number of transactions, this became really good."
+When to use SQLite: "If it's super straightforward database, you have so many options. Goal is that you know not just names of options, but when you might want to use them."
+Category 4 - IDEs (pick one, specialize):
+Options shown:
+- Replit (+ Replit Agent)
+- Claude Code
+- Docker MCP
+Why Replit included: "Used to use Replit before there was Replit Agent. Known for allowing you to deploy code on cloud really easily without getting wires crossed in AWS, Azure, or GCP."
+Advantage: "Now you can use Replit Agent, it's pretty good, has native database, more secure than average vibe coding tool like Lovable."
+"You can also use it without Agent at all, just use it to deploy and edit code."
+Claude Code: "That's my baby."
+Docker MCP (the overlooked gem):
+Problem: Client overwhelmed by MCP. "What are these words you're using? Claude Code? You want me to jump into terminal? I'm not technical. What are you crazy?"
+Then: "Let's introduce you to MCPs." Client: "No, I don't want to deal with JSON. Don't want to copy paste anything anywhere."
+Solution: Show Docker MCP toolkit
+"Now you can just go to catalog (they keep adding to it). People don't talk about this. They add Stripe, Apify, Perplexity. A lot of magic here people take for granted."
+One-click installation: "Click on clients. If you have Claude Desktop, one click syncs all MCP tools. With Cursor, one click syncs all MCP tools."
+"Amazing to be able to show cheat codes for people."
+Security option: "Even if it's company that cares about security and wants to host private models on LM Studio, you can also hook up some of these MCPs to LM Studio."
+Value of knowing this one thing: "Could stop a bunch of discovery calls having to MacGyver and Frankenstein some patchwork solution."
+The trash vs treasure framework:
+Not just guiding people on right path—also tell them what's trash.
+Google Experimental Studio breakdown:
+"Don't just take every app in Google Experimental Studio and assume it's great. Some are actual gems."
+Trash list shown:
+- Opal (automation platform): "Trash"
+- Firebase Studio: "Trash on fire"
+- Jewels: "Nobody on earth uses it"
+- Stacks: "I don't even know what this is"
+Why this matters: "You might tell them 'this is great' and they make assumption, okay, everything in this ecosystem must be great. No. That's why you're there."
+The vibe coding landscape shift:
+Observation: "Google Labs experimental stuff—now you can technically vibe code without Loveables and Bolt.news of the world."
+"I'm barely going to be covering those moving forward because their moat of making vibe coding easy is eroding."
+Why? "Frontier model providers are going to offer service themselves. Then these platforms, outside of willy-nilly integrations like Shopify with Loveable (which is cool), will be taken over as well. Those will erode over time."
+The super app principle:
+"If super app is taking over dedicated app, and you want everything to live ideally in as lean a stack as possible, then you want to take this thinking and convey that to whoever you're consulting for or architecting solutions for."
+Feel free to plagiarize that rationale.
+Voice AI ecosystem (stable category):
+Unlike vibe coding tools, voice has crystallized:
+Stable providers:
+- Vapi
+- Retell
+- 11Labs
+- OpenAI real-time API for real-time voice
+- Pipecat (if willing to get in trenches for very customizable systems)
+- LiveKit and LiveKit Cloud
+"Very crystallized environment where enhancements happening at voice level, at latency level, at multi-turn level. But not like ever-changing names every single day like you do with vibe coding tools."
+Everything apps category:
+Disclaimer: "Most everything apps are wrappers on top of Claude hooked up to 30-50 tools, pumped with ton of capacity and looping."
+Manus example: "People still love Manus. I used to love Manus back in day. Now I just use my Claude Code as my Manus since it's technically same thing, just easier to run in browser."
+Why everything apps can work: "They're willing to be loss leader on compute. You get more juice for squeeze."
+When to recommend: "If they want to dip toes, want gateway drug to learn AI and automation and change, everything apps could be a recommendation."
+Relevance AI warning:
+"Long-time hater of this because I used it for a while. Did a couple client deliveries, then things broke overnight. Their entire stack broke overnight."
+Current state: "They've improved very much since then. Very cute app. Like watching Pokemon or playing Pokemon with AI agents."
+Verdict: "For production scale stuff, I wouldn't stand behind this. Anything you can do in Relevance, you can now do in Claude Code. Is it harder? Yes. More painful? Yes. Gonna be more scalable and you're not dependent and owned by whole platform and your agent infrastructure is yours? Also yes."
+The 2026 simplification strategy:
+Key principle: "One useful thing is trying to simplify everyone's stack."
+Example conversation:
+Client: "I love Gamma"
+You: "Gamma's cool. I like Gamma. Gamma has cool API now. But why Gamma? What do you get out of Gamma specifically?"
+Client: "I love the way it can do deep research then also supplement that research and create slides out of it."
+You: "Did you know that in Claude AI, if you go to Settings → Capabilities → toggle this, this will let you create pretty solid PowerPoint-style slides as well?"
+Result: "They might be like, oh, we're paying X amount per month and we have five licenses. We might be able to simplify our stack and our finances at the same time. That's an example of value for you."
+The OG comeback: Machine Learning + Google Colab:
+Why this matters: "Some companies might be eligible where they want to do machine learning, or you need to educate them that machine learning, this whole stats world, is also a thing they could do related to AI, especially if there's number crunching, prediction, analysis, anything related to forecasting."
+Google Colab introduced: "Equivalent of Google Doc in cloud that lets you run code. But now they have equipped and hooked up Gemini to it. This would have saved my life in university."
+Live demonstration shown:
+Step 1: "Generate a 100-row dataset about people surviving apocalypse that would be good for machine learning"
+Step 2: Gemini plops in code, creates fake dataset with age, gender, fitness level, etc.
+Step 3: "Could you make a machine learning model that would help me predict who would survive? And can you create the evaluation so I can see how accurate this machine learning model is?"
+Timeline shock: "This used to take me weeks to just manually code myself. But now we live in a world where you can tinker."
+What's happening behind the scenes:
+Uses sklearn library (very common in ML)
+Splits dataset into train and validation
+Can iterate and fix its own mistakes automatically
+Example error it fixes: "Could not convert string to float"
+Explanation: "Machine learning models deal in ones and zeros. You can't just use string value like male or female. Now it's running it, fixing it, running predictions on who would survive and who won't survive."
+Historical context: "This would usually take a data analyst two and a half years ago a week to put together. You'd need whole team of data scientists. I worked on team of 10 data scientists for a company all working on ML models. You don't need 10 anymore."
+Model evaluation shown: Accuracy metrics displayed, but expert eye catches problem
+"This model sucks because if you have perfect accuracy and precision, that means there's something wrong. Your model's overfitting."
+The point: "Even with the OGs, the OGs are now enhanced with outside of Claude Code and Cursor."
+Google Colab advantages:
+- Use hefty hardware in cloud pretty easily
+- Integrates with GitHub seamlessly
+- Colab Pro: Use TPUs, GPUs, multiple GPUs for fraction of price you'd use elsewhere
+Real differentiator:
+"This is what will differentiate you from a lot of folks in other places, other communities looking at 'this is how you build the automation.'"
+"You might build 4-5 automations where half of those could have been Claude Code or one of those was actually a feature in Gemini you could have used to your advantage and not done this to begin with."
+"This is where the value lies."
+The expert riffing ability:
+"Being able to explain and riff the way I'm riffing right now without a script in front of me is where you become more expert level and people really come to you for your two cents on things."
+The summary formula:
+"Goal is you are wealth of information. You are fountain where people can go to and you know ideally a little bit about everything so you have that in your back pocket."
+"But you do know a lot at least about:
+- One chat platform
+- One language model
+- One IDE
+- One automation system"
+"Do you understand A to Z of that ecosystem? It's up to you what that ecosystem is. You might bias one side vs the other."
+The final positioning:
+Amateur consultant: "Here's how to build this automation in n8n"
+Expert consultant: "Wait, do you really need an automation? There's actually a Gemini feature that does exactly this. Let me show you. And if you do need automation, here's why N8N is better than Make for your specific use case, and here's the n8n ecosystem depth that'll serve you for 3 years."
+That's the difference.
+Next episode: The consulting tech stack audit—cutting client costs by 40% while looking like a genius.
+
+Transcript:
+00:00 So if you want to be an amazing AI consultant, whether you're technical or non-technical, you also want to learn to be an AI solution architect.
+00:08 Because at the end of the day, what will make a paid consult, a paid engagement worth it for your end client is them getting the outcome in as few mistakes in as few distractions and blunders as possible.
+00:21 So we take a look at the image here of the animated version of me. Imagine someone is walking through this minefield.
+00:28 Like, every single day you open up this community, there are new frameworks, new tools, new updates, new models. And for people that are very into this, like yourself and myself, this is overwhelming, but at least we're used to it.
+00:41 For someone who's a business owner, running a business, they barely have enough time to walk through this minefield, let alone the minefield of the- day-to-day.
+00:49 So our goal, every single time that we're doing solution architecture or solution consulting, is we want to lead them. We want to show that listen.
+01:00 Here's A, here's B, here's every tool that would probably be thrown your way to solve this thing, but I know about this tool or this framework or this way of doing things, they'll make it faster.
+01:11 and that's where you derive your core value. Now, if you wanted to simplify things, let's say you were pitching to a client for the very first time, and they're overwhelmed, they're scattered, they're stressed, they have FOMO to use the AI because they're being told that AI fixes everything.
+01:28 I would say like, one chat platform, one LM, and then if they care for it, one automation tool slash one, One AI editor.
+01:38 You'd use one of each of those, and each one of those would give you enough of a product tree or a domain tree, if you don't know what I mean by tree, I'll explain it shortly, that will allow them to, and allow you to go really deep in this topic.
+01:52 So, for one chat platform, what I mean is, a chat should be T or a claud, you can go really deep, just with those.
+01:59 So, if we take the analogy just to, show you what I mean by tree, is imagine you had a tree of every concept that you'd have to understand to say that you're mastering or mastered claudii.
+02:11 I'm not even talking about claud code, just claudii on the front end. So, step one, you want to learn how to prompt, step two, you want to learn how to make a claud project, and how to make an effective one.
+02:22 What makes an effective one versus not. While explaining this, you'll also have to explain rag. The next one is using connectors, and then when you show what a connector is, you're gonna have to explain the concept of an MCP.
+02:35 And then when you explain the concept of an MCP, they might want to even build their own MCPs. And then when you get into the world of MCPs, and you're dealing with these context windows, and then inevitably, people start complaining that their chats end way too.
+02:48 Quickly, then you want to come to the rescue and say, oh, well, there's a memory feature, and there's a chat retrieval feature now in Claudii.
+02:55 So you can go into a brand new chat and say, listen, give me every single chat ID where I mentioned X.
+03:02 And then it will give you the link to each one of those, and then you can reference the TLDR of that chat to continue the next one.
+03:09 So just with one topic, this would take, let's say, let's assume- your client or your client's employees are starting at zero, this would take you a couple weeks just to get them acquainted with this model.
+03:19 Okay? So going back to this, one LM, meaning it's helpful for them to eventually know, you know, Gemini it takes in video, anthropic spread at copy and code, chat GBT is like the swiss knife where you can use it for a variety of things, but it's the- only one of those three that's really good at generating
+03:39 images from scratch, Gemini's, banana's really good at editing those videos, it's the best in the world, comma right now, so you can go really deep and overwhelm people, but all you need is just to show them one piece of each domain and it will inspire them to provoke the questions of what needs to happen
+03:57 to go deeper. And the same thing with an IDE, you don't have to- show and explain the concept that there's this thing called Windsor, and there's this thing called Cursor, and this thing called whatever code.
+04:09 Just pick one of them, the most popular one, and you can go really deep just in that topic, and you can cover a whole month worth of just workshops and education upskilling, just doing this.
+04:19 Now, if you want to be more tactical, in terms of LMs, what makes you useful as an architect versus- Ugh!
+04:25 Which is, then just using Chatsubiteen saying, go and compare all these LMs for our use case and our business. So, when you're teaching or showing that there is something called an anthropic model, like Claude, it's useful to know, for your company, oh, you're a financial services company?
+04:41 Well, let me tell you. You recently, Claude came out with this Claude for financial services, so they have this Excel add-in that can- basically meet you and your employees where you're at and tabulate everything in the cells you have in Excel without you having to actually upload that anywhere.
+04:58 And this is a specific service that Claude offers. And then if you offer or talk about Gemini, if they don't have SOPs in the business, which most businesses have zero SOPs or- their SOPs suck.
+05:10 So, what can you do to help them alleviate? Well, what if, instead of having them document things or their team document things using grunt work, what if they did a screen recording of themselves using Loom, doing the task or walking through what they do in the task?
+05:27 And then they upload that to Gemini, right? So then you could say, watch this video and make an SOP. And you could do this at scale.
+05:34 Imagine they wanted you to build an app and you wanted to vibe code something. Thank your time. While the call is happening, you could now go to AI studio, you could vibe code as you're speaking, like, and use something like the video 3.1, or, yeah, you could basically allow, there you go, video understanding
+05:51 , you could make an app for them, where they could upload this, you could white label it with your service name, and now you've already created value out of thin air, that to them looks like magic.
+06:00 So, there's so many- You like ways to look like a genius. Last one. Just as an example, there's infinite examples.
+06:06 On Chatsy VD teams, recently, they released something called company knowledge. So, instead of having an individual rag, you now have a company rag that you can tap in all the core knowledge that everyone in the company should be able to access.
+06:20 So, if we go to my prompt advisors agency, and we go to- Thank you. Right here, you'll see if I click on this plus button, there's this thing called company knowledge.
+06:30 And this company knowledge can be rooted in different drives, in different areas. But the fact that this exists, you'll see right here, means that everyone can tap into a unified knowledge base.
+06:42 That is also newer. So, the value of you staying on top of things, the reason why I create loom bites to help you- stay on top of things, is you might not need to have done or used the element.
+06:55 It might be useful to just know that it exists. Because you'll hop on calls sometimes, where someone's biggest concern is, do you have a good person for logos, by the way?
+07:03 We like the logos we use in chat GPT, and it creates these images, but I just wish I could make some slight modifications here and there, to the text and the style.
+07:12 No. If they're asking for people, you can make their day by saying, you can go on AI studio right now, using nano banana, and it probably will be able to take care of it for you, without hiring anyone.
+07:24 And these are these golden BBs, or silver bullets, that will elevate you, in the eyes of whoever you're consulting for.
+07:31 Cause you are basically, knocking through pain points, that they thought would cost hundreds, if not thousands of dollars. And hundreds, if not thousands of hours, and solving them in minutes.
+07:42 And that's where being nimble and understanding when to use which type of model was very useful. Now, automation platforms. I don't care which one you like.
+07:51 I don't care which one you should decide to show. But whatever one you choose, make sure you understand the ecosystem of that tool.
+07:59 So when you go to Zapier, Zapier has Zapier Zapier If you're agent builder, Zapier has a whole ecosystem of tools that like integrate really well.
+08:06 Zapier has the highest number of integrations that are native to that platform. Versus make.com that has around 3000. And then you have Enidend, which has the least number of native integrations.
+08:18 But as a platform, it's the most malleable and the most versatile. And if you go down Enidend, if you understand that eke- ecosystem and you decide, you know what, I'm gonna be good at this one ecosystem, you would know that if you ask you, oh, we only have like 5000 records.
+08:34 Should we use a Google sheet and hook that up? Should we use air table and hook that up? You can say, well, because I know the Enidend ecosystem, I know that they have data tables now, which is a sub for a Google sheet.
+08:47 We don't have to go and create a go- Google sheet then create the authentication for Google in Enidend and go through those motions, especially for a company that doesn't want to deal with unnecessary friction.
+08:59 The more you know, the more you can help. And the more you can help, the more useful you are. And then you can walk through all the other ways where you now have the opportunity to explain what vector storage is, what pinecone is.
+09:11 you can differentiate between different types of types of vector databases. And the fact that if you want the best of both worlds, and you want to use a Postgres database, but you want vectorization, then you can use Superbase or PG Vector to store all of those rows and columns as embeddings.
+09:29 And then you can always go back to the air table if you want, but knowing what options are there, and knowing when and why you choose one versus the other, is the most important- You Like, now air table is really expensive if you have multiple users.
+09:41 If you have many seats, that bill can add up a lot. Like, I used to pay five, six hundred dollars without knowing it.
+09:48 Just for seats. And that to me was not a very valuable thing as a small business owner. Once I understood, like, Superbase is ten bucks a month to spin up an instance, and it won't change as long as I don't explode my number of- We'll see you Transactions I'm running through that database.
+10:03 This became really good. And now depending on how flexible they are, you can use things like SQLite if it's a super straightforward database.
+10:12 You have so many options. And the goal is that you know not just the names of the options, but when you might want to use them.
+10:19 Okay. Next one, like I said, one IDE. So you can choose whichever one you want. I'll see you Bye bye.
+10:25 I snuck in Replet here because of all the vibe coding tools. Replet, I used to use Replet before there was anything called Replet Agent.
+10:33 Because they were known for allowing you to deploy code on the cloud really easily without having to get your wires crossed in something like AWS or Azure or GCP.
+10:43 So, and the fact that now you can use Replet Agent and it's pretty good and it has a native database and it's more.
+10:48 More sh- secure than the average vibe coding tool like Lovable off the cuff. That's why I throw it into this category.
+10:55 And you can also use it without the Agent at all and just use it to deploy code. And edit code and actually use the editor itself.
+11:02 Now, cloud code you already know, that's my baby. And what I snuck in here is Docker MCP. Now, why did I show this here?
+11:09 Let's say you wanted to explain MCP to someone and they were overwhelmed. They're like, woah. What's, what are these words you're using?
+11:15 First of all, cloud code for us as a leap. You want me to jump into a terminal and I'm not technical.
+11:21 What are you crazy? And then you say, okay, well, let's introduce you to the world of MCPs. And then they're like, no, I don't want to deal with JSON.
+11:30 I don't want to copy paste anything anywhere. Well, if you show them Docker, one, this gives you a new area where you can specialize in.
+11:37 But now that Docker has this MCP toolkit, now you can just go to something like the catalog, which they keep adding to.
+11:45 People don't talk about this, but they add things like Stripe, like Apify, Perplexity. There's a lot of magic here that people are taking for granted.
+11:54 And then all you have to do is click on clients. And then if you have cloud desktop, you can do a one click and it will sync all the MCP tools.
+12:01 Rules. With Kersher, you can do a one click and it will sync all the MCP tools. It's amazing to be able to show cheat codes for people.
+12:10 Even if it's a company that cares about security and they want to host private models on L M Studio, you can also hook up some of these MCPs to L M Studio.
+12:21 Just knowing that one thing could stop a bunch of discovery having. To MacGyver and Frankenstein, some patchwork solution, knowing these things will help you.
+12:32 Now, knowing things that like, let's say the Google Labs experimental stuff and like what those do and the fact that now you can technically vibe code without the loveables and the base 44s of the world where I'm barely going to be covering those moving forward because we now are moving to a world where
+12:49 they're moat. of making vibe coding easy is eroding. Because of these vendors, these basically frontier model providers, are going to offer the service themselves, then these platforms in my opinion, outside of willy-nilly integrations, like let's say with Shopify with Loveable, which is cool, I'm sure
+13:09 that will be taken over as well. Those will erode over time. And by the way, showing that we- wisdom and explaining what I just mentioned, look, little, feel free to plagiarize that rationale, is if the super app is taking over the dedicated app, and you want everything to live ideally in as lean a stack
+13:26 as possible, then you want to take this thinking and convey that to whoever you're consulting for, or architecting solutions for.
+13:34 And there are other ones, like I mentioned, Nana Banana, Google collab is what I used. . And throughout my whole masters, and I still use Google collab for quick and dirty machine learning analysis, and I'll give you a little bit of a preview of what you could do with that, how easy it is, just in a 
+13:47 bit. At the same time though, very important thing, is you're not only guiding people on the right path, but you also want to tell them, what's trash?
+13:57 So yes, this is a picture of a trash, what's it called? I had to remember the word dump. Yes, this is a picture of a dump.
+14:05 So, you could say, like, listen, don't just take every app that is in the Google Experimental Studio and assume it's great.
+14:13 Some of these are actual gems, and yes, there is a product called Google Gems, which is for RAG and related to that.
+14:20 But Opel, as an automation platform, is trash. Firebase Studio is tr- trash on fire. Jewels, nobody on earth uses it, okay?
+14:31 Stacks? I don't even know what this is. So, it's- this is where the value comes in. You might even tell them, this is great, and they make the assumption, okay, Mark said this is great.
+14:42 So, everything in this ecosystem must also be great. No, that's why you're there. And then this is what I said before.
+14:49 You would- You've got clients that are obsessed with the names of tools versus what those tools do. And it's sure enough to explain what is the pro and con of going down each route.
+14:58 Maybe they really like that you can use one of these tools in the browser on their phone versus something like Cloud Code.
+15:03 But again, I would go back to, well, do you not want to do this for free? You have something like Google AI Studio.
+15:10 Assuming there's nothing secure here or some crazy IP, you're trying to protect- Check. Probably a better alternative and here's why.
+15:17 If we keep ripping off, or voice, voice is pretty stable right now in terms of platform providers. That ecosystem had a flux of different providers all at once.
+15:28 But now, the dust has kind of settled and you had improvements every day in the models themselves. But you have typically vappy, retail, 11 labs, y of the real-time API from OpenAI for the real-time voice.
+15:42 You have pipe cat if you are willing to get into the trenches. And this is where you can build very customizable systems as well as live kit and live kit cloud.
+15:50 This is a very crystallized environment or domain where the enhancements are happening at the voice level, at the latency level, at the- All good now.
+16:02 Multi-turn level, but not necessarily, like, you don't have ever changing names every single day like you do with vibe coding tools, for example.
+16:10 And then you have your everything apps. The one disclaimer I always give here is most of these everything apps are wrappers on top of cloud hooked up to 50 tools, or 30 tools pumped with a ton of capacity and looping.
+16:25 so people still love Manus. I used to love Manus back in the day. Now I just use my cloud code as my Manus, since it's technically the same thing, it's just easier to run it in the browser, and obviously they're willing to be a lost leader on compute.
+16:39 So you get some more juice for the squeeze if using everything app. And if they want to get, dip their toes, and they want a gateway drug to learn AI and automation and change and you think you're with different models to see what fits for them, everything apps could be a recommendation.
+16:55 Now the one thing, especially for 2026 that I would say, one useful thing is trying to simplify everyone's stack. So if they say, I love Gamma, you want to ask the question?
+17:07 Gamma's cool. I like Gamma. Gamma has a cool API now. But why Gamma? What do you get out of Gamma specifically?
+17:13 Specifically. Well, I love the way that it can do deep research, and then also supplement that research and create slides out of it.
+17:21 Well, this is where you'd go using your expertise, watching my stuff. As well, did you know that in Cloud AI, technically, if you go to Settings, and you go to Capabilities, and you click on this nice little toggle here, this will let you actually create pretty solid- Good.
+17:38 Good. PowerPoint-style slides, as well. That's where they might be like, oh, we're paying X amount per month, and we have five licenses.
+17:46 We might be able to simplify our stack and our finances at the same time. And that's an example of a value for you.
+17:52 Relevance AI. I am a long-time hater of this, because I used it for a while. We did a couple of client deliveries, and then things broke over- overnight.
+18:03 Their entire stack broke overnight. They've improved very much since then. It's a very cute app. It's like watching Pokemon, or playing Pokemon with AI agents.
+18:12 but for production scale stuff, I wouldn't stand behind this. Anything you can do in Relevance? You can now do encryption cloud code.
+18:19 Is it a little bit harder? Yes. Is it more painful? Yes. Is it gonna be more scalable, and you're not dependent and owned by a h- whole platform, and you're all your agent infrastructure is not yours?
+18:30 Also yes. So, being able to explain and riff the way I'm riffing right now, without a script in front of me, is where you become more expert level, and people really come to you for your two cents on things.
+18:42 Alright. Now, at the very bottom here, I walk through the OGs. So some companies might be eligible where they want to do that machine learning, or you need to educate them.
+18:52 The e- machine learning, this whole stats world, is also a thing they could do related to AI, especially if there's number crunching, prediction, analysis, anything related to forecasting.
+19:02 And what I wanted to show you is, this is what I used to use my masters a lot. Now, I had an actual proper IDE to write production level code, but if I wanted to go back and forth and riff, I would use- this, which is a- the equivalent of a Google Doc in the cloud that lets you run code.
+19:20 But now they have equipped and hooked up Gemini to it, so this would have saved my life in university. And now you can technically go right here and ask it, go and build me a machine learning model that predicts who would survive in a apocalypse or something like that.
+19:37 So I could click on- on here. And I could say, generate a data set for me. Generate a hundred row data set about people surviving the apocalypse that would be good for machine learning.
+19:52 Okay, I didn't even say anything. But it's gonna start using Gemini. It's gonna plop in the code right here. I'll be able to click on this play button, or I can go to runtime and click on run.
+20:02 And then we'll be able to even create a very quick machine learning model. So here's the code. Can you accomplish this in cloud code?
+20:12 Yes, the one beautiful thing here is that, one, you can use, some pretty hefty hardware in the cloud pretty easily.
+20:20 It integrates with GitHub seamlessly. If you go to collabpro. You can use, like, TPUs, GPUs, multiple GPUs for a fraction of the price you'd use elsewhere.
+20:33 So you can see here if I do accept and run. And I run this. Here is the fake data set.
+20:41 Right here, so we have age, gender, fitness level, et cetera. And now I could say something like, cool, could you make a machine learning model?
+20:49 It would help me predict who would survive and can you actually, create the evaluation so that I can then see how accurate this machine learning model is.
+21:00 So again, this used to take me weeks to just manually code myself. But now we live in a world where you can tinker.
+21:06 You can have a company give stats and machine learning, the OGs, the time of day. Cause now I can- there we go.
+21:14 It's going through, preparation, data prep, training machine learning model, make predictions. I can do auto run. It'll go wild. It'll go through all of these different, nodes here, prepare data, training machine learning model, make predictions, and then evaluate the model.
+21:29 You know, what's cool is you can, like, learn it in real time. You can see what it's doing. It's running this library called sklearn, which is a- very common library in machine learning.
+21:38 You can see it prepping the data. Right now what it's doing, I'm just going to be a little bit of a TLDR, is it's splitting the data set into train and validation.
+21:47 And then, there we go. It's now setting up, and what's cool is it can iterate and fix its own mistakes.
+21:56 If you don't know math or you don't use math as much, this used to be a place where you- go on stack overflow and you'd be like, what's going on?
+22:03 What does this thing mean? What does it mean could not convert strength to float? And then you'd have to understand, ah, machine learning models, they deal in ones and zeros.
+22:12 You can't just use a string value like male or female. So now it's running it, it's fixing it, it's running the predictions on who would survive and who won't survive.
+22:22 And then it's going to evaluate how good that model. model. is. And by the end of this, we don't have a sophisticated model.
+22:29 But we have something, something that would usually take a data analyst two and a half years ago, a week to put together and they'd be so proud of themselves for putting it together as well.
+22:40 Because you'd have to understand just an error could take you hours and hours and you'd need a whole team of data scientists.
+22:47 I worked on a team of like 10. Data scientists for a company and all those were working on machine learning models.
+22:52 You don't need 10 anymore. And now I can tell you just looking at the metrics here. This model sucks because if you have perfect accuracy and precision blah, blah, blah.
+23:00 That means that there's something wrong here. Your model's overfitting. But, it's the idea that even with the OGs, the OGs are now enhanced with the outside of cloud code and cursor.
+23:11 So to sum up the- The main thoughts here. The goal is you are a wealth of information. You are a fountain where people can go to and you know ideally a little bit about everything.
+23:25 So you have that in your back pocket. But you do know a lot at least about one chat platform, one language model, one IDE, and one automation system.
+23:36 Do you understand the A to Z of that ecosystem? It's up to you what that ecosystem is. You might buy us one side versus the other.
+23:43 This is just what will differentiate you from a lot of the folks in other places, other communities that are going to be looking at, this is how you build the automation.
+23:54 And you might build four or five automations where half of those could have been a cloud code or one of those was actually a feature in Gemini you could have used your advantage and not done this to begin with.
+24:05 This is where the value lies. guys. 7

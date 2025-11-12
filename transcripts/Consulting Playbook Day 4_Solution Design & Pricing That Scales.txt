@@ -1,0 +1,343 @@
+Post Content:
+From chaos to systematic execution 🦾
+23 minutes on mapping current state, building KPI frameworks that justify your work, and the pricing tier strategy that keeps clients in your ecosystem forever.
+What you'll watch:
+- The 4-part current state mapping framework (tools, knowledge, processes, owners)
+- Baseline metrics that prove ROI before and after
+- Pilot → Scale → Optimize rollout structure
+- Pricing tiers from $10/month community to $15K+ enterprise
+- The 60-minute call structure that closes deals
+The confidence principle:
+"The more systematic you are, the more they derive confidence from YOUR confidence about the process."
+Even if they're not 100% sure how well you'll do, a solid systematized plan gives them confidence to move forward.
+Part 1 - Current State Mapping (The Murder Mystery Framework)
+Think of this like a murder mystery dinner: Someone murdered time. Someone murdered efficiency. Your job: Find out who, what, when, and why.
+Worksheet 1 - Map All Current Tools:
+Columns you need:
+- Tool/Platform Name
+- Type of Tool (AI or non-AI)
+- Use Case (why they're using it)
+- Department
+- Number of Users
+Why number of users matters: "If we do this first, it will affect 500 users. That's a third of your company." → Gives you ammo for prioritization.
+Worksheet 2 - Find Knowledge Sources:
+Map every single knowledge source:
+- Notion, Slack docs, Confluence, Jira, internal wikis
+- Type of document
+- Connected AI tools (including quick and dirty RAG setups)
+- Where it's stored
+- How often it's updated (critical for RAG viability)
+- Size and volume
+The RAG decision questions (always ask these):
+"What data types? PDF, doc, image, video?"
+"How big? How many?"
+This tells you: Can we dump this in a large context window, or do you need proper RAG? If RAG, what level? Quick and dirty? Hybrid RAG? Agentic RAG (10,000 pages → 100 page cheat sheet)?
+Worksheet 3 - Document Processes:
+Spend 1-2 hours mapping:
+- Decision points
+- Operational procedures
+- Tacit knowledge they forget to mention
+Warning: Even if they think they understand their own process, once you get into solutioning, tacit knowledge gaps will appear. This worksheet gives you a starting point.
+Worksheet 4 - Identify the Owners (The Suspects):
+Map who owns what:
+- Business owners of each tool/process
+- Technical owners (many companies have zero)
+- Who holds the money (CFO? Controller? C-suite?)
+Why this matters:
+- Solutioning requires knowing the budget
+- Understanding political allegiances ("Do you like Gamma because you've used it for 2 years, even though Claude 4.5 Sonnet now does the same thing?")
+- Knowing who to contact for specific decisions
+Part 2 - Baseline Assessment (Prove Your Value)
+"Otherwise people will say we spoke to an AI consultant and accomplished nothing because you couldn't make it tangible."
+Metrics that matter:
+Before/After measurements:
+- Time spent on manual tasks
+- Error rates on processes (50 out of 100 applications are edge cases)
+- Cost per transaction/output
+- Employee satisfaction score
+- Customer satisfaction metrics (if client-facing)
+Target outcomes:
+- % reduction in manual processing time
+- Accuracy improvement targets
+- ROI and cost saving goals
+- User adoption rate targets
+- Output quality improvements
+The KPI framework structure:
+For each metric, document:
+- KPI name
+- Baseline value
+- Target value
+- Measurement method
+- Review frequency
+Review frequency nuance: Don't measure day-by-day. Fridays = less productive. Mondays = less productive. Humans are humans. Weekly or monthly is better.
+"The numbers are here as anchors for you. When you're grilled by C-suite, this is what you hold onto."
+Part 3 - Implementation Rollout Strategy
+Phase 1 - PILOT (30-60 days):
+1. Select pilot group (count on one hand how many people)
+2. Train core users
+3. Run for 30-60 days
+4. Collect feedback
+5. Analyze results
+6. Document wins in metric format (tangible reporting)
+7. Document issues
+8. Refine processes (assumed people always do X, Y, Z → turns out only 60% of the time)
+Adherence metric: "What % of people doing X continue doing X every Y frequency?"
+Phase 2 - SCALE:
+1. Train next cohort (much bigger group)
+2. Deploy to entire department
+3. Monitor adoption and adherence
+4. Track metrics from pilot issues
+Phase 3 - OPTIMIZE (3-6-12 months):
+Expand gradually across organization.
+Reality check: Some departments don't need AI for a while. Some are so messy with technical debt it's not worth expanding until you have proven momentum.
+Goals:
+- Track KPIs
+- Identify bottlenecks (they keep popping up)
+- Stay on top of model changes (3.5 Turbo deprecated mid-2026)
+- Critical gaps identified
+- Recommended next steps
+"As models change and deprecate, bottlenecks will continue. Your responsibility: Either YOU monitor this, or give the organization what they need to do it themselves."
+Part 4 - Centralized Strategy Checklist
+Before implementation, know:
+- Where SOPs, customer data, company knowledge lives
+- Tool structure (using MCP servers? Which ones and why?)
+- If they use Zapier for 90% of things, does it make sense to say "switch to N8N" just because you prefer it?
+- Assess connectors, custom APIs, etc.
+Department priorities for pilots:
+Revenue-adjacent = highest value. Even 1% incremental positive change = tangible benefit = wind under your sails.
+1. Sales use cases:
+- Lead research
+- Email drafting
+- CRM updates
+- Qualification
+- Follow-up sequences
+- Meeting prep
+2. Support use cases:
+- Ticket summarization
+- Response templates
+- Knowledge search
+- Escalation routing
+- Customer history
+- Auto-drafting replies (with human-in-the-loop approval)
+Real example: E-commerce getting hundreds of tickets/day. Low-level informational tickets = autonomous response. Edge cases ("I ordered in Slovenia, now in Australia") = human intervention.
+3. Marketing use cases:
+- Content creation
+- SEO research (very popular now)
+- Social posting
+- Ad copy
+- Campaign analysis
+4. Operations use cases:
+- Process documentation
+- Data cleanup
+- Report automation
+- Workflow optimization
+Part 5 - Engagement Options & Pricing Tiers
+The community downsell hack:
+Instead of losing clients after 1-2 paid calls, create a mini-community (5-10 people):
+"You don't have to pay $150/$500/$1000 for another 2-hour call. Get fractionalized access to me. I'll answer everyone's questions once a week in this community."
+Could be on School, Circle, wherever. Price: $10-20/month.
+Goal: Your foot stays in the door with people who otherwise wouldn't book another call.
+Tight Budget Tier:
+- $10-20/month community
+- Your foot in the door
+- Even if starting out, fractionalized access beats nothing
+Medium Budget Tier:
+- $250-500 per call
+- Prepare beforehand (don't get informed minutes before)
+- Minute 1 after weather talk = straight to value
+- Bundle: Pay per session + answer X emails associated with the call
+- Most popular: 15-minute calls (15 min prep, decent ROI)
+Real Budget Tier (Retainer):
+- $2K-10K/month
+- Weekly check-ins
+- Ongoing support by email (use templates so they don't send Hobbit essays)
+- Small builds: GPTs, projects, automations you can repurpose
+- Team training, priority access
+- Bundles increase value
+Template for decision point emails:
+"When you send me a question about a decision point, frame it like: Problem, What You've Tried, Question."
+Makes it easier for you to answer without syncing every time.
+Enterprise Tier:
+- $15K+ project-based
+- Full implementation
+- Multi-department engagements
+- Subcontract developers to extend LTV and average order value
+- Ongoing change management
+- Public sector = way more expensive (nice numbers, but red tape/bureaucracy/audits)
+"Instead of the Big Four getting it, why don't you get it?"
+How to frame options when budget is unknown:
+"I have three ways we can work together:
+1. Most affordable: $20/month community
+2. Middle ground: 30-minute or 15-minute call
+3. Premium: Package of 4 one-hour calls for $1200"
+Let them choose. Don't push. Having tiers increases likelihood of working together.
+The brutal truth about knowledge vs relationships:
+"In the next 12-18 months, all knowledge for knowledge's sake will be worthless. Relationships will be paramount."
+Don't nickel and dime, but balance it. Don't be taken advantage of where they pay way less than the value you give in time spent.
+Real example: Got email from former client about decision point. Two-sentence answer, one minute of thinking → Didn't charge. Pro relationship over nickel and diming.
+Part 6 - Be The Calm In The Chaos
+"When you converse with a client, be the person they come to for calmness, not agitation or friction."
+Most people in this space = overwhelmed and lost (deservedly so).
+Phrases to use:
+- "Ignore the noise"
+- "Start simple"
+- "You're not behind"
+- "We'll build this correctly together"
+Position yourself as a PARTNER, not a dollar sign relationship.
+Always have a next step before next session:
+Examples:
+- List all the tools you have
+- Map all data locations
+- Define three use cases
+- Get budget approval (could take multiple sessions)
+- Pick pilot department
+- Assign a champion
+The 60-Minute Call Structure:
+0-5 min: Pain and goal
+5-15 min: Real discovery
+15-25 min: Diagnosing
+25-35 min: Recommendation (walk through why it might not be realistic for their business)
+35-40 min: Next steps
+Call checklist:
+- Start with pain/goal
+- Ask scale questions
+- Map their stack (mentally if you think in workflows)
+- Find knowledge gaps
+- Give HONEST advice
+- Warn of pitfalls
+- Show alternatives (different ways to solve same thing, which are quicker/cheaper)
+- Offer pricing tiers
+"The more reps you get in, the more readily available this information will be for you."
+
+Transcript:
+00:00 through solution design. And when we look at and think about solution design, it's how do we go from A, wherever the problem is and we meet them where we're at to B, where ideally we have a good lay of the land.
+00:15 And the more systematic you are, the more they will derive confidence from your confidence about the process. A lot of times people will work with someone that they're not maybe a hundred percent sure how well they'll do, but if they sound like they know what they're doing, but also they have a good 
+00:31 solid plan that's systematized, it gives more confidence. More clients, especially business owners that are more precarious about consultants that say one thing and do another, that, you know, at least how to get to the bottom of understanding what their current stack is and where they want to go.
+00:47 So when it comes to current state, you want to look at things like mapping all the current tools, finding knowledge sources, documenting the process and identifying the owner of those processes because it becomes a sort of like a murder mystery.
+01:00 And if you don't know what that is, it's a game where you go with a bunch of friends, you go over a dinner table, and then someone acts like they've been murdered.
+01:08 And then you spend the rest of that dinner trying to investigate and see who was the assigned murderer behind the scenes.
+01:16 So you ask for clues, you network. It's the exact same thing here, except instead of a human being's life or a person's life, someone has murdered time.
+01:24 Someone has murdered efficiency. Whole groups of people could have murdered efficiency. And your role and your goal is to find out who, what, when, and why.
+01:33 Now, really easy to just like map these out, but what is a better way to look at this? So here's a worksheet I put together for all of you.
+01:42 You can use this as your beginner template. So AI audio. Out of framework. This is a map of all their tools.
+01:48 They currently have, these could be AI and non AI tool. And then the key thing here is you want the tool platform name, the type of tool, uh, the use case, why they're using said tool department, number of users that are currently depending on it.
+02:02 This also helps you with mapping out potential impact of solutions you're going to present. So you can say, listen, if we do this first, this will affect 500 users or a hundred users or 10 users of your 30 employees.
+02:15 So a third of the company, this gives you more ammo. Next thing is finding knowledge sources. So you can have companies that have knowledge all over the place.
+02:24 So you want to map out every single knowledge source possible, whether that's a notion, whether that's a Slack document, whether that's a confluence document in Jira or Atlassian.
+02:34 The type of document, the connected AI tools, if there is one that is currently referencing that knowledge, it could even be a quick and dirty rag that they put together.
+02:44 You want to map out everything, where it's stored, because if you can avoid either you want to implement yourself or you want to tell them how to implement, ideally they can avoid deduplicating or if they're already using Quadrant or Pinecone, then they can keep doing using it, but maybe use it better
+03:00 . How often, if ever, these knowledge sources are updated, very, very important in my opinion, because, especially when it comes to rag, rag is super painful when you have to update transactions every single day, and some of those transactions are less relevant over time, meaning, like, there's some 
+03:16 form of recency bias, where you want to offload or unload some of these vectors over time. And then size and volume, this is really important.
+03:24 You'll also notice that in the community, when someone asks a question about rag, I always ask the same questions. What data types?
+03:30 PDF, doc, image, video? How big? How many? Really good questions to size, okay, can we dump this in a very large context window prompt and get past it, or do you need a proper rag?
+03:44 If so, what level of rag do you need? Can I do quick, fast, quick and dirty old school? Could I do hybrid rag?
+03:49 Could I do, do I have to do something more fancy, like a gentic rag to go from 10,000 pages to 100 pages cheat sheet that we store in a vector database?
+03:58 So that is step number two. Step number three is documenting the process, so this is where you're going to spend a lot of your time, and if you're mapping out an engagement, this is where you're going to spend one, two hours to really understand the core processes that they have.
+04:12 So mapping their decision points, operational procedures, and you'll notice that even if you think you understand this or they understand their own process, once you get into the nitty-gritty of solutioning, there will always be this tacit knowledge that they forget to mention or don't realize that is
+04:26 a part of the process. But this will at least give you a starting point. And then we have identifying the owners.
+04:33 This is basically identifying all these. The suspects using my murder mystery dinner analogy, where you have the tools processes, the different business owners, the technical owners.
+04:42 If there are any, many companies will have zero. If it comes down to finances, it's really important to know who holds the money.
+04:50 Is it the CFO? Is it a, one of the CFOs controllers? Is it C-suite? Is it small enough of a team that C-suite directly?
+04:58 Signs off on this. Important to know where the money goes, not just for yourself and your own bearings, but also when it comes to solutioning what the budget is, to add different tools, APIs, whatever, to make this a lot more successful.
+05:13 And then, ideally, you have the contact, so if you need to understand or go back and forth and understand, do you like using, I don't know, Gamma, because you got used to it for two years, even though now Claude 4.5 Sonnet can crank out PowerPoints that are very similar in design.
+05:28 So you get everything for one subscription versus multiple subscriptions. Is there an allegiance there or a loyalty that's outside of core functionality?
+05:36 These are some ideas you might want to suss out. Now, assuming you now go through the engagement, you want to be able to measure before and after.
+05:44 Otherwise people will say, okay, we spoke to an AI consultant and we accomplished nothing or they seemingly accomplished nothing because you couldn't make it tangible.
+05:54 So baseline assessment examples of metrics you'd want to care about. And a lot of boards will care about time spent on manual tasks, error rates on processes.
+06:03 So this could be like of every 50 applications we do, we have to redo 10 of them because they're edge cases.
+06:09 Let's say it's an immigration, use case, maybe out of a hundred applications, 50% are edge cases. Now cost per transaction output, employee satisfaction score.
+06:20 This is a more touchy feely. You'd have to do an engagement survey and if they are client facing, then customer satisfaction metrics would be relevant.
+06:29 And then target outcomes would be things like percent reduction in manual processing time. That's why measuring how many hours they spend on certain tasks and how many users spend that time on those tasks helps you not only size the problem, but also in turn size the solution.
+06:47 And then you have accuracy improvement targets, ROI and cost saving goals, user adoption, rate targets, and output quality improvements. So that's on this side of things.
+06:57 Then you have, again, the manual processing metric, KPI, you have the baseline value, you have the target value, you have the measurement method, and then review frequency, meaning in plain English, how often does it make sense to see where this metric is at?
+07:13 If you measure day by day, that's kind of sucky because humans are humans. Fridays will be less productive. Mondays will be less productive on average.
+07:21 Tuesdays to Thursdays will be less productive. They're, they are winding down for the weekend or they're winding up to the week.
+07:29 So you always also want to take nuance into account. You can't just have numbers. The numbers are here as anchors for you.
+07:37 So when you have a back and forth, when you are grilled by C-Suite, when you get into situations that are hard for me to even coach you for because each different company will have a different heartbeat and each different sets of occurrences, this will help you have something that you can hold on to.
+07:52 Now, the next part is the implementation rollout strategy. So structured approach for deploying AI solutions across the organization. So usually you want to carry out some form of pilot, and then in the pilot, you want to select a pilot group.
+08:05 You want to train those core users. Ideally, you can count on the number of fingers, who those pilots are. Run for anywhere from between 30 to 60 days, depending on what the timelines are for success.
+08:17 Collect feedback on how that pilot went, then you want to analyze those results, document any wins, ideally in KPI format, like metric format, something you can tangibly report or issues.
+08:29 You want to refine any of the processes that you found to be not ideal or not realistic. You assume too much of people in terms of they will always do X and Y and Z when it turns out they only do that 60% of the time.
+08:42 So what is the minimum number of steps that we can do to make sure that we have higher adherence rates, which is also a metric you can, um, collect, which is what percentage of people doing X, continue doing X every Y frequency.
+08:58 That's an example. Next, scaling. So assuming that this pilot goes well, you documented what went well, what didn't go well, and now you have a plan for execution for the organization.
+09:07 You can now train the next cohort, which can be a much bigger group. You can deploy to an entire department.
+09:13 And then the same thing, you want to monitor adoption and adherence as well as any of the metrics that you noticed are worth measuring based on the issues you found in the pilot.
+09:23 And then when it comes to optimize, once this is expanded gradually towards the rest of the organization, this could take anywhere between 3 to 6 to 12 months, depending on how large the organization is.
+09:36 But ideally, there are departments that don't need AI at all for a while. They're good. Or they're so messy and they have so much technical that it's not even worth expanding there until you really have a plan.
+09:47 A process that's working and adoption becomes momentum-based versus forcing down someone's throat-based. So, tracking those KPIs, identifying bottlenecks because they will keep popping up.
+09:58 The one thing with Gen-AI, which is different from machine learning and stats, where I come from, is as these models will change, as models get deprecated, like for example, 3.5 Turbo, which is an OG model.
+10:11 That I know personally, some CTOs still created some AI solutions using 3.5 Turbo, is now going to be deprecated in mid-to-end 2026.
+10:20 So, OpenAI gives enough of a heads up, but things will change, things will evolve. Maybe one model did an amazing, fantastic job at something.
+10:29 Maybe now OpenSource is worth taking a look at. So, these bottlenecks will continue to pop up. It's your choice. It's your responsibility to either you be that person that is responsible for monitoring this or you give the organization what they need to be able to do that themselves.
+10:45 And then, you can say like a final assessment, let's say this is a shorter term engagement, recommendations, so critical gaps identified, recommended next steps, priority areas for deep dive, and estimated timelines to resolve those.
+10:59 So, this is a decent cheat sheet that I put together that I would be lying to you if I've used it myself, but I basically realized when I was writing down and mapping, how do I do this?
+11:08 This is basically what I do if I were to simplify it into something that's a little bit more evergreen and less nuanced for all these special Snowflake clients that I've had.
+11:17 So, going back to here, we ideally have to centralize a strategy, and we need to know where these SOPs document.
+11:23 It's customer data, company knowledge lives, and then we want to understand their tool structure. If they are using MCP servers or something like MCP servers, which ones and why?
+11:35 If they're already using Zapier for 90% of things in the company, does it make sense for me to say, go to EditN, just because I like EditN.
+11:42 If they're using Zapier, then it makes sense that they extend their use of Zapier to a company that the Zapier MCP, would it make sense to have Zapier Stack and then EditN MCP just because, right?
+11:55 And then you want to assess whether they have other connectors, custom APIs, etc. And then, like we said, in the pilot, you want to look at certain departments and focus on how you're going to run pilots in those departments and what are the most common use cases of value.
+12:09 So when it comes to, let's say, Thank you. Thank you. Anything revenue adjacent, like I've said in the prior lessons, it's very helpful to take pilots on places where even 1% incremental positive change is something tangibly beneficial that it's worth continuing.
+12:26 And you get that wind under your sails to keep pushing the organization. So, sales, support, marketing, or operations, so automation-heavy from an a sales standpoint, very clear, how can you enable sales folks when it comes to testing and measuring.
+12:42 And like I said, when it comes to the, uh, rollout, you want to document your wins, be very loud about those wins, train the next group, expand gradually.
+12:52 And when it comes to priorities that I've seen, let's say sales use cases, it's typically Lead Research, Email Drafting, C2C2.
+12:59 Year-round updates, qualification, follow-up sequences, and meeting prep. And then when we move on to something like support, very common in most organizations, especially mid to larger tier.
+13:11 You have ticket summarization, not necessarily responding, but at least summarizing. Then response templates, then knowledge search, escalation routing, customer history.
+13:22 And yes, in some cases, it is. Also, auto-drafting the reply with the need for human-in-the-loop approval. Many cases, especially I have some creator friends that have built some solutions for e-commerce that get hundreds of tickets per day.
+13:35 Some tickets are done autonomously, if they're ranked by the AI that they're so low-level, they're so informational-based that they can be answered.
+13:43 Some, like, can you go check on my order? I actually ordered it when I was in Slovenia, but now I'm living here.
+13:48 In Australia, that's a nuanced edge case. There might be some human intervention needed to make this work, especially when it comes to refunds or, uh, broken things, etc.
+13:58 Marketing use cases include content creation, SEO research, very, very popular now, social posting, ad copy, and campaign analysis. Operations would be process documentation, data clean-up, reporting.
+14:12 Report automation and workflow optimization, uh, optimization, rather. And then, now, how do you frame these engagement options? I'm going to give you some extra sauce here.
+14:22 So, in terms of offer tiers, if you deal with an organization that has a very tight budget, believe it or not, I'm going to reveal some more about this.
+14:30 I'm going to show you my whole playbook for running, not a community, but the couple communities that will benefit me coming out next year, uhm, between myself and my team.
+14:40 You could, theoretically, have a downsell where you create a community where instead of charging X amount grand per month, you could create a knowledge repo where after you have one or two paid consulting calls, you can upsell or downsell, depending on how you look at it, from your perspective, into 
+14:58 It you a mini-community. It could be five, five people. It could be ten. Your goal isn't necessarily to grow that through, like, the way I do, through YouTube and distribution and marketing and all that stuff.
+15:08 Your goal will be just to, every single time you have a paid client, you have a place to take them next, where you're like, you know what?
+15:15 You don't have to pay the $150, $500, $1000 you paid for this two hours or one hour. You can actually just get fractionalized access to me.
+15:24 I'll answer everyone's questions for like once a week in this community. So you can create your own community. It doesn't have to be on school.
+15:30 It could be on circle, could be wherever you want. But one idea that I think will become a lot more popular next year is instead of just worrying about retainer.
+15:40 And I'm telling you, no matter how talented you are, by month two or three, there'll be churn. If you have a consulting retainer, unless you lock in something for a year, which is possible, but usually with much larger organizations, the next thing, if they have some budget, then each call could be between
+15:56 two to 500 bucks. Assuming you prepare for that call, you shouldn't be getting informed within minutes of hopping on that call.
+16:04 You should have something that makes sure that you're ready for that call. And minute one, after you say the weather's amazing, you hop straight into value.
+16:13 And then, you could do things like paper session, uhm, you could say, like, I offer answering emails for X amount or this many emails associated with the call.
+16:23 So you can bundle things. The more things you can bundle, the better. Let's say if they have a real budget, then yeah, you can definitely do a retainer anywhere between two to 10K a month.
+16:32 Public sector, way more expensive. Uh, we're looking right now at a public sector contract. And, uh, the numbers are very, very nice for engagement, uh, but there's just a lot of red tape, bureaucracy, audit, et cetera.
+16:45 In this case, you want to make sure you're offering things of value if you do a retainer. So, weekly check-ins, uhm, you don't, you might not want to do custom builds, but if you are a builder, or you want to build small things like GPTs or projects or small automations that you know you can either repurpose
+17:00 from a this community or anywhere else, then you can offer ongoing support by email where they can ask you one email, like, one question, like a decision point they're at.
+17:08 Like, here's a situation, here's where we're at, here's what I need your opinion on. And one way to make, one way to make this way more scalable for you is give them a template to follow.
+17:20 Because sometimes, I could show you my email right now. I just got an email from someone, uh, from, uh, a former client who wanted help with a decision point.
+17:28 I don't charge for that kind of stuff because I am pro not nickel and diming and I'm pro relationship. So, if it's like a two sentence answer for me that I just have to think for like a minute on what the best path forward is and why, I'm not going to charge for that.
+17:42 And I would advocate that given the world we're going in, we're in the next 12 to 18 months, all knowledge, all knowledge for knowledge's sake will be worthless.
+17:50 Relationships will be paramount. Don't nickel and dime, but at the same time it's a balance, it's a fine line you don't want to be taken advantage of where now they're paying you way less than the value you're giving them in terms of time spent.
+18:02 So, there's a balance here. But you could give them a template saying, when you send me a question about a decision point, just frame it like problem, what you've tried and question and they'll answer it.
+18:12 Then it makes it a lot easier for you to not have to, like, sync every single time you see this preview of an email that looks like a essay from The Hobbit.
+18:21 And then, obviously in retainers you could also offer team training, priority access, there's all different ways you can bundle here.
+18:28 Now, for enterprise, this is where you can be a little bit more, uh, bloodthirsty. And, uh, I'm going to reveal my cards as well for next year, what we're going to do around this.
+18:36 Because with enterprise, you know, enterprise, they set aside a budget just for things like consultancy and AI. So, instead of the big four getting it, why don't you get it, right?
+18:45 So, project base could be 15K plus, uh, full implementation, you could do multi-department engagements. You can, if you want, subcontract developers to help you actually build the stuff.
+18:56 You can extend LTV and average order value by doing that. And then you're going to be doing ongoing change management here.
+19:04 So, in terms of getting to the conversation, you have to frame your options. So, if you don't know, if the client budget is unknown, they'll ask you typically, how can we work with you?
+19:13 And you could say, I have three ways we can work together. Number one, the most affordable option could be this little tiny community where it's like, it could be even 20 bucks a month, right?
+19:23 The goal is your foot is in the door. With some people that otherwise weren't going to book another call or book a call to begin with.
+19:29 A lot of people have a very scarcity mindset about getting so much value upfront or front-loading the money. A lot of times, if you just, even 10 bucks a month, especially if you're starting out, say like, listen, I do consulting, one consulting hour one-to-one is 50 bucks an hour.
+19:45 But, if you want fractionalized access and you want to meet some other business owners that also own ask me questions, here's a 10 buck a month community.
+19:52 I think it'll be very good. Next one is middle ground option, which could be just a call, could be a 30-minute call, could even be a 15-minute call.
+20:00 The most common call that is now booked for me, because I've changed a lot of my pricing for my one-on-one, I don't like to do calls, I don't like to do one-on-ones very much.
+20:08 It kind of sucks my energy and attention, so if I'm going to do it, it has to be worth my while.
+20:13 My 15-minute option is the most popular, and for me, pretty good commitment, I'll prepare beforehand for 15 minutes, so ROI is decent.
+20:21 Then premium option could be like, a couple, a package, like 4 calls with me for 1 hour for 1200 bucks, or 1000 bucks, or whatever it is that you price your time at.
+20:31 Okay? And you want them to choose, you don't want to push them in a given direction. If they choose nothing, then that's fine, but having those different tiers will give you a higher likelihood that you get to work together.
+20:44 And like I said, uhm, on the tight budget, community is a hack, or something like a pseudo-version of a community will be helpful.
+20:52 And then, overall, just from a standpoint of how you interact with someone, I'm going to make a module on this, just because I used to be a public speaking coach, surprise, surprise.
+21:02 And one thing I used to explain to people, was when you conversate with your parents, a client, you want to be the person they want to come to for calmness, not for agitation or friction.
+21:15 So, most people in this space are overwhelmed and lost, very much deservedly so. So, as such, you want to be the person that calms them down, Thank you.
+21:25 And, basically, you want to say a lot of these phrases, like, ignore the noise, start simple, you're not behind, we'll build this correctly together, and you want to make sure that you are seen as a partner, not necessarily a customer and user relationship, or a custom, like a dollar sign relationship
+21:43 . And if you are doing sessions, and they are on a retainer basis, then you always want to have a next step for them.
+21:48 So, before the next session, I want you to list all the tools you have, map all the data locations, define three use cases, get budget approval, obviously this one could take way more than just one time, I'm just giving you examples here, depends on what organization you're dealing with, pick a pilot
+22:03 department, and assign a champion. And lastly, just in terms of call structure, if you're looking at a call for an hour, five minutes could be the pain and goal, at the ten minute mark you're getting into the real discovery, by twenty minutes you're diagnosing, ten minutes could be recommendation, walking
+22:20 through, understanding why a recommendation might not be realistic for their business, and then five minutes for their next steps, or what would happen next, okay.
+22:29 And then you want to always start with the pain that they're experiencing, and or the goal, you want to ask scale questions, you want to map their stack, even if it's written mentally in your head, especially if you think in terms of workflows like I do, that will help you a lot, you want to find the
+22:42 knowledge gaps, you want to give honest advice, keyword honest, warn of pitfalls, show alternatives, so if you are aware from this community of all the different ways you can cut the same thing, what are the different ways you can cut that, and which ones are quicker, cheaper, and this is something you'll
+23:00 learn over time, and as you have more calls, the more reps you get in, the more readily available this information will be for you.
+23:07 And then like I said, offering pricing tiers.

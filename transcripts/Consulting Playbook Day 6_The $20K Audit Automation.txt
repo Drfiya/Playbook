@@ -1,0 +1,172 @@
+Post Content:
+A client offered us $20,000 to build this system last year 💰
+Today, you're getting it for free (sample output attached in first pinned comment)
+Our community's automation genius @Sydney Nichols walks you through this entire build in the 25-minute video attached
+What you'll watch:s
+- Full n8n workflow breakdown (Google Sheets → Perplexity → OpenAI → Gamma → Video)
+- How to clone your voice with 11Labs for automated voiceovers
+- Gamma API implementation for slide generation
+- PDF.co for image conversion
+- CreatorKit template setup for video assembly
+- Real demonstration: Delta Airlines audit generated in 5 minutes
+The backstory for the original request,
+A year ago, a client offered us around $20,000 to build a system that automatically creates personalized audit presentations with voiceovers.
+Back then, the technology wasn't quite there (or was really difficult to implement).
+Now? Sydney built the entire thing in a few weeks
+And we're giving you the complete workflow template 🫶🏽
+Why this matters for consulting:
+Instead of spending 3-4 hours creating a custom presentation for each prospect:
+- Lead comes in → Workflow triggers
+- Research happens automatically (Perplexity)
+- Analysis runs (OpenAI comparing against your audit framework)
+- Slides generate (Gamma API with your branding)
+- Video assembles with YOUR voice (11Labs clone)
+- Final deliverable in Google Drive in ~5 minutes
+You go from manual proposal creation to scalable audit generation.
+Prerequisites:
+Required accounts:
+- OpenAI (or preferred LLM)
+- Perplexity API
+- PDF.co (free tier works for low volume)
+- Gamma (paid plan required for API access)
+- CreatorKit
+- 11Labs (paid plan recommended for quality voice cloning)
+- Google Drive
+---
+We're moving some Thursday meetings to accommodate people setting this up
+We think this automation will set you apart from other consultants
+Plus: Personalized video with YOUR voice increases close rates
+How to use it:
+1. Watch Sydney's 25-minute walkthrough (attached)
+2. Clone the n8n template (attached)
+3. Add your API keys
+4. Customize for your audit style
+5. Join Thursday's clinic if you need setup help
+The template, video walkthrough, and sample output are all attached to this post.
+
+Transcript:
+00:00 Hey, early adopters, uh, today we're gonna go over in any then workflow that we built out to this community Uh, just a quick high-level overview of this workflow is worked out for your AI audits, asking which questions it is that you usually ask or me that you might come up with is you need ideas you
+00:39 can check in the community, Mark has some work resources on AI audits. So for this case, we'll be using a Google sheet new lead trigger.
+00:49 So a row is added to a Google sheet, it pulls it every few minutes to check if there are any new leads, and then if there are, it should work flow.
+00:58 So, after we get the leads information, we will do a research gap using perplocity. From that research, we'll feed it to an LLN.
+01:08 We're using open AI for this purpose, but you can use favorite, which everyone would prefer. And we'll use the research to kind of compare it against our own guidelines in our own homework for AI audits.
+01:21 After completing that, we'll generate a slideshimmer presentation using GYMA. And after we generate the slideshow, we will feed it to a video creation software, which I'll get into a little bit.
+01:38 And the video creation software uses a templated approach so we can feed the slides directly to the software, or also able to use a cloned voice from 11 mobs to act as a voiceover for the slideshow video.
+01:53 So that was just a very high level. We'll get into really quick the prerequisites for this work flow and then we'll break it down by that.
+02:01 prerequisites for this work flow can choose our favorite LLM to use for the analysis and through this work creation. This one will use OpenAI that you will need one of those counts.
+02:12 We'll also be using proplacities between agree for the research part. So you will need the proplacity API key. You'll need accounts with PDF code.
+02:19 you don't need to have a paper in. Depending on how much volume you'll have come through this work flow, you could get a review of just a free print on this one.
+02:28 For Gamma, you do need the paid plan to access the API, so we'll learn through that in a little bit.
+02:34 And then CreatorMate is the name and software that we'll be using for our video creation. For our specific needs, we're using a cloned voice for Mark.
+02:43 That's just a really nice way to have some personalization for your VM, as if you're able to clone your own voice.
+02:53 If you can't, you can use any of the different voices in other labs. You will need to use the letter labs for the AI voice in this case, because that is what create-on-meat uses for voice servers.
+03:06 But it's up to you which direction you want to take that. If you do want to make a more professional quantity of voice, which I do highly suggest for someone to like this, you will need one of the paid plants that you can't remember, which one to look at.
+03:22 I'll then mention in the beginning, it'd be good to have an intake process kind of nailed down already so that you can tweak as you need for workflow to fit your intake process specifically.
+03:34 And then for this model, we're using Google Drive, but you can use a similar and a cloud-based filing system. We're getting into the name of the workflow now.
+03:45 As I mentioned before, we use a new Rado trigger named Google Sheets, so I'll give you an example of what that looks like.
+03:52 For this one, we just use Prompt Advisors as our lead, so for this, it's very basic, company name, URL, contact name, an email, industry, company size.
+04:03 I would suggest having a forum set up for this and we can have it back up to the Google Sheet and so use the same trigger, really tailoring it to your own unique style of AI audit, would go a long way here and it gives the perplexity research node and a lot more to go off of it.
+04:23 After that is Trimmered, it creates sell full new folder in a specific designated rule drive folder. So for the purposes of this demonstration we had a Google Drive and AI audit presentation generation folder and then this is where our new folder will be created.
+04:44 So this is going to be one of the things that you really want to tweak when you're in here is the internal computing data.
+04:51 So you'll want the internal company name and contact email. It can add as much as you want into this company data.
+04:57 You can add in for AI audit guidelines. You can add in more information about services you provide and that way that will get the LLN a little bit more work with and make it easier for it to tailor the presentation.
+05:11 As just a safety precaution we have in a validator note so this one will make sure that there is a company name and a very, very, very basic check to see if a website URL was provided by checking if there was a period.
+05:31 After we established that we have that data and we're ready to do it, and then we have our perplexity node, we can choose the model that you want, you can use deep research.
+05:41 This, I just hope it sold our curl was good enough, but if you really want it to be thorough. Deep research is good one.
+05:47 When we give you the template file for this workflow, it will have these prompts in there so you can don't feel free to use those and tailor them as needed.
+05:57 For current theme that you'll see is we're walking through this workflow is that I have specific format then I want it to follow every single time.
+06:09 So first node, we want to make sure that we're giving it as much information about exactly what we want to see.
+06:15 So we want to see things like company fundamentals, recent development, and technology and operations, things with the industry, operational insights, and automation readiness indicators.
+06:27 So this will give the research node exactly what we're looking for and exactly what we want. Next step, we have Artifers LLM.
+06:36 So this one is really important. This one's going to review the research that's done by the complexity. And it's going to give us the outline for our slides.
+06:47 Now, as I mentioned before, I wanted to be really specific with the format and with the written out using. So, we're asking specifically for 10 slides.
+06:56 And then we're giving an outline of exactly what we want to see in each one of those slides. This ensures that we get a very similar four-match result every single time.
+07:08 and that makes it easier down the line or putting together our slide, don't put together our video. Just as a shortcut for a little hack you can use is using OpenAI to come up with this prompt to first brainstorm what a good audit slide presentation would consist of and how that would be broken down 
+07:29 and then using that to create the prompt that you could use here. So we feed it all of our lead information and we also feed it our research.
+07:37 And then we get out JSON with exactly 10 different sections that we can in these in our next step.
+07:49 So one quick thing here is this is split after we get our research and after we get the LLM to review that research.
+07:59 So first thing here is going to be the Gamma presentation. which I'm going to do, but it's a little more in depth, so I'll cover voice over script or a quick.
+08:09 Using that research, then we had our voice over script big in I and other LLM node. Again, use whichever one you're comfortable with.
+08:17 This is jost. So, because we were able to ask for 10 specific, very specifically labeled slides in our previous LLM stuff.
+08:30 Now we're able to give that specific slide content to our next LLM. So we give it to the executive summary, the company overview, the automation opportunities, etc.
+08:43 So these are exactly when I asked the last one to name each slide and then we break it up by slide.
+08:49 This one will also put out a JSON and it will put out exactly 10 separate scripts that will and then be able to use in our woods over when we create our PEO.
+09:03 As for the Gamma presentation step, the Gamma API is fairly new. There are some bugs. They are really responsive. If you come across any bugs from them, just haven't been quite fixed yet.
+09:17 But this is the Amma API reference. It shows you exactly how you can generate a new presentation using through API, which is fairly new.
+09:27 and here in the body parameters just a little half that I use sometimes when creating this is I'll put some random test information, car rides, PDF, whatever else it is that I want to include in my request and then you can just copy this JSON body here and paste that right into your API request.
+09:53 For our specific For example, here, and something that I do suggest if you're going to be following this workflow is to keep the text mode app preserved.
+10:03 The reason for that is if you lead this blank, it will generate text for each one of your slides. But we already generated the text for the slides in our elements.
+10:16 So there's really no reason to include that here. When you do preserve, it keeps the content that you already generated, but it will still use it to create very visually appealing slides.
+10:30 So this is what I request to look like. It's on the first is the input text, and that is all of this.
+10:36 What this says is passing in the content from the side before or from the node before rounder and giving it as text for it to be used in this time.
+10:49 As I mentioned, we use the preserve. They have different themes and encourage you to check them out or you can even create your own and then use that game name here for you to generate.
+11:00 And so that makes it easier to brand it with your colors after you want to lower it in for that.
+11:05 Taves in additional instructions, export as PDF that is important in the next step, and then just a few more text options and the options and dimensions.
+11:17 Quick note about some of the bugs that Kama has been having, even if you do input here for the dimensions to be 16 by 9, which is the standard presentation format, it may you can easily generate slides that are not within that dimension.
+11:35 Sometimes it might feel a bit longer, sometimes it's a little bit wider, and that's okay for video purposes. It will add in like a black bar on the side, and we'll go into that in a little bit.
+11:47 You really didn't look that bad now, but it is something that I asked them about, and they're working on. Okay, so now that we have the request between us is the get the get endpoint here, so this will check the status of the generation and provide you with the file once it's completed.
+12:09 So right here is just a owing automation, basically there are always specific indicators if an API has completed successfully.
+12:20 it. So what we do is we add this switch node at the end. So we check if we completed it if it's failed or it's pending.
+12:29 It takes a few minutes for these presentations to generate. So might get pending for a good while. But if it's pending, it will just come back here and wait for 30 seconds and check again.
+12:40 And yeah, it will just keep going. I do suggest that you include something for a failed. So if you use something like Slack, you can have a Slack notification sent to you or an email, telegram, whatever it may be.
+12:53 Once we are confident that the ads are generated and ready to fill, I have it do the things here. So this one right here, in that file folder that is created at the very beginning of the workflow, it'll simply upgrow if you finish presentation to that drive.
+13:12 So that of course doesn't have any voiceover or on the video, but it does house a PDF of all the slides that we create.
+13:20 That way they're preserved, it's a customer wants a copy. The reason that I do have the two download here is this one specifically will grab the PDF URL.
+13:33 So when we do our demonstration, I'll show you what I mean by that. We need in order to upload it to the drive is the binary data, which this one does not return.
+13:41 So we just run a second guess get API requests for a presentation and instead of returning it as the PDF URL, we request that the response format is a file and that it's in the data output and so that way we'll just upload the binary file straight to with the PDF URL, we're able to access with PDFs.
+14:08 Oh, and their API. The purpose of this one is to take that PDF and convert it to an image. Reason for that is the software that generates the video only takes images and taking PDFs for the slides.
+14:25 We have to make sure that we're using the right format when we go to generate our video. One last thing to the voice over script and not sure if we mentioned it.
+14:32 I also have a file created in that same Dry folder. It's really just in case anything fails as it's coming through here At least have the script that's already be generated here.
+14:42 We don't have to generate it again It will create an dock this kind of ugly and not warm-added So don't expect to like give them that dock and themselves, but you can use it if we did All right, so after our images are created and our voice over scripts was ready Merge goes to here and then this is where
+15:03 the create a mate and class comes in. So before we get into this, I'm going to show you what those templates look like so that you get an idea that was being created here.
+15:13 So this is the create a mate screen when you first log in, bounds, tutorials and guides. They have a ton of tutorials that are very helpful.
+15:22 Flits, this is where we'll find our template. Feets, I haven't really used that, but I think you can use it for both generation as it is, but I myself not use it.
+15:33 API log is really nice because it will show you bugs on the videos that are being created and you can even go in and see the video, you can play it and preview it, it'll give you an idea of how I'm gonna criticize for you and how long it took to render and you can also see how long this.
+15:52 In the templates and this very a great template. Essentially, it looks like a lot more than it is, but it's really just different compositions for each slide.
+16:07 So one slide will equal one composition. What you could do and what I did is you can create an image, 16 by 9, so this is an image, and then add in a voiceover.
+16:22 Up here with the microphone and the little sparkly thing is how you add a voiceover to your composition. So once you get one composition that has the voiceover and the slide you can just copy that and paste it.
+16:37 For us we did ten slides so we pasted it nine more times and then we have our template. Most of the later.
+16:48 So one thing that you want to make sure as you're going through here is that the low pencil is is, and you want to make sure that it's on all of them.
+16:55 So how you do that is clip the composition first. For duration, you want to make sure that it's dynamic, that it's set here.
+17:05 This will allow the voiceover to really determine how long each slide should be. For the voiceover, you want to make sure that this right here is dynamic, so you can click to do or undo, just make sure that it's there when you're done.
+17:19 and this will allow you to pass in text which we'll get from our voice over script and have it read in the voice that you choose.
+17:28 And then for the slide also dynamic this will allow us to replace this image with this slide bar on. Going back to the voice over this is where you'll want to use 11 laughs.
+17:43 So for IO, or choose for my apps, choose your model, and then you'll want to use a custom voice, put custom voice, it will simply ask for the ID.
+17:57 So in the lens of my apps, you're able to rate your clone. Once that's created, then you come here and you copy your voice ID.
+18:04 And when you're back in your slide template, that's what you'll paste here. I'll show you in just a second when you can act your love mobs account, but for now I just know that this is where you will connect with.
+18:17 Alright, so double checking your slide, what I would do is create one composition, add a voice over here, add an image that's sifting my 9, which will add the area here is 16 by 9, and then configure all of this first.
+18:34 So configure the dynamics, configure the voice, make sure not all three of these are dynamic and then copy the count position and paste it as many slides as you want.
+18:48 The reason that I say do it that way is because if you do that first and then copy paste nine more times, you'll have to go in every single time and connect the voice.
+18:59 If you do it one time, it'll copy over. Connect your 11 last account. You'll need to fill here to project settings at the bottom this at the bottom you have eaves the option here 11 labs will be unchecked by default so you'll check that and when you check that a dialog box will come in to allow you to
+19:23 put in your API key from a lot of us. Lensatz Connected needs to use it for any one of your templates and it's pretty easy to use.
+19:33 So once everything is connected and we're ready to go, we're ready to put this in. So you can go to use template and then API integration and it will give you all of this very wonderful body pre-configured just for you.
+19:49 Now I obviously bore me into which out what's in here but it gets a little bit easier if you can just copy this and then paste it into your automation.
+20:00 What that looked like it is this. So we make sure that we have our template ID and then we have these name just after the slide number.
+20:12 So if you see here that it says slide 10 and voice over 427, we can retemple it. You've got it too.
+20:22 Slide 10. You see that that's actually the name image and the name of the voice over. So it's good just to double-track that you use on the right line as you go.
+20:33 So for our slide image, we're bringing in the PDFs that we created for the PDFcuddle. It'll give you some URLs that you can use right here.
+20:48 What I will say is that those URLs do expire. So whatever reason if you're creating it after it's acting, you want to use the same images, you won't be able to.
+20:57 You'll have to do that conversion again. And then once that's done, we'll hit here, and then for the voiceover, you're putting in the text from our voiceover script generation.
+21:11 Matching it up to make sure that it's slide six, you know, slide seven. And that ensures that you are getting a very tailored voiceover for each and every one of your slides that are So on that request is set, this name kind of polling SAS is done here, where we'll check the status.
+21:32 If it's succeeded, it'll continue on. It can be failed, which, again, I would suggest giving it some sort of error handling and it fails.
+21:42 And then what we did for the kind of pending status is it has different statuses that it goes through. So it's either planned, which is the very first one, transcribing, waiting, or rendering, and really any one of those just means that it's not done yet.
+22:03 So what we did is instead of having it, matches the word, we have it match a red X and then depending on if it's one B's, the output will just be called processing and that way no matter which one of these is it is, we know that it's processing.
+22:20 There it needs to come back here and wait a little bit longer. And then what that's succeeded, we'll get that using their API and the final video will be uploaded to the drive.
+22:35 So right now we'll go ahead and do a demonstration. It takes a lot of time because for me it takes, it can take like five minutes sometimes to create video, but once we do that we'll go through, I can show you how some of the results came out and then we'll show the front.
+22:57 For example here I'm going to go with Delta Air Lens, and to split it into recently, it was a fine experience to do it, so this just started running.
+23:04 I wanted to show really quick the folder that it creates, so we'll see here that be. and I ordered it to Airlines, and I just went and read it.
+23:14 So when I come in here, this is where all of our files are going to have to. Okay, so the create-o-mate requests and I just have to do so I wanted to show what's in that photo to the drive folder.
+23:28 And already we have the slides created from gamma and again, this is kind of that photo I was telling you, this one came out almost as a full page, but it's still a pretty nice wicking slide, precedent scene to be just fine, and I'll see you back and then it steps, it has comp to action, contact.
+23:54 So it follows the attend step, exactly what we want. So we have the company overview, top three automation opportunities, it's always going to be top three.
+24:06 there's always going to be a 30-day invitation slide, we're always going to be an ROI analysis, and then a plan.
+24:15 So we have 30-day, 60-days, 90-days, a wide choose us slide, and then the next steps. And that's the same exact format every single time.
+24:25 As our guidimate request is going, I'll show you what that log looks like as well. Then here we see this is the template that's being used.
+24:37 It's currently rendering, which means it's just about done. And it took about three minutes out. Okay, and now it completed.
+24:46 So it took about five minutes and a one-credit surrender. And we have a video that's about two minutes long. That's in general.
+24:57 break consistent with the other ones that we created and so we can see how some of these things came through so for instance the PDF code I mentioned before so this gives us this gives you one full URL and then it gives out a break of all of the different ones so there are 10 different URLs else in this
+25:20 body here and that's what we use in our three to mate requests. I taking the body here and using the different endets is one to you can also see that there's some voiceover tech and so this is what's used from our voiceover generation for video and client drive here.
+25:42 That's how we have the PDFs of the slides, a finished video, and a sprint. If you want to do something else with this crew too, you can certainly do that.
+25:52 If I'm going to put a little snippet of the finished video at the end of this link, and we will upload the template for everyone to SS.
+26:03 If you want any help implementing this, go ahead and send a message, write a session with me, and we can knock it together.
+26:12 Hey there, Sydney. I'm Mark from Prompt Advisors and I'm excited to show you how AI can transform Delta Airlines. Here's the thing, Delta sits at a pivotal moment, unlocking automation across core areas.
+26:24 By streamlining high volume tap

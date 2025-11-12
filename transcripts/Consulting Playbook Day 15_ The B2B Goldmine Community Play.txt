@@ -1,0 +1,510 @@
+Post Content:
+B2B communities are printing money and nobody sees it. This is the FINAL module (for now)
+Try and actually watch this, not read the summary as you are right now; it'll hit better with the visual
+33 minutes on why your consulting business needs a 7-10 person paid community, not a 700-person course graveyard: the upsell/downsell ladder, retainer light positioning, and why losing a $5K client doesn't mean losing them forever.
+What you'll watch:
+- Why B2C AI communities are declining (the data I track on every competitor)
+- The discovery call → free community → paid tier → VIP retainer ladder
+- Calendly routing that captures leads who won't book
+- Retainer light: $99/month fractionalized access vs $2K/month retainer
+- The reciprocity effect (how I made $6,900 from one free resource)
+- School tiers breakdown and freemium funnels
+- Scripts for every scenario (discovery calls, audits, webinars, lead magnets)
+The problem with B2C communities:
+B2C communities as we know them will get hyper saturated in the next few months to a year.
+I already think most AI communities, a lot of the musical chairs around creating a community from scratch then running traffic to it then telling people you can hop in and get my templates, my n8n templates—a lot of that value or perceived value has gone down intrinsically like crazy. It's plummeted in the past few months to a year.
+Main reason: You can now vibe code apps, you can text to workflow workflows and automations, and everything including core knowledge will be commoditized.
+Outside of just offering a Make.com community or an n8n community or insert subject that's very niche like how to make UGC content—there is kind of a decent sized community that services all those core conveyor belts.
+The competitive intelligence I track:
+I have a big brother automation service intelligence very private to me. No I will not share it with you.
+It basically allows myself and my team to keep tabs on everyone's community. Number of members, the change per week, the pricing, whether or not they changed their VSL.
+I am an unbelievably competitive person and I am trying to have the best AI generalist community. Meaning you're good at everything AI. I'm not trying to be the best n8n community. I'm not trying to be the best vibe coding community. I'm trying to be the best all you can eat community.
+I have to stay on my toes and make sure I'm aware of my surroundings.
+The data: I can tell you from the analytics we see in the past 30 to 60 days, the average community (I'm talking about AI community) is declining. Or at least new entrants are struggling to get past a certain point.
+Why: There's so much free knowledge. There's so many communities that are disappointing when you pay for them. Some fatigue, some battle scars from having poor experiences and a combination of things.
+Everyone's trying to build a school where they make a YouTube video, they pray one pops, and then they get a bunch of people coming in. Not realizing that churn is the thing that will make your community live or die.
+If you're dealing with 7 to 10 people, not 700 or 1000 people, it's a much easier task alone if you want to go alone to manage churn. Because churn is very intimate at that point.
+For me, I can't have an intimate conversation with 700 plus people every single day, it's not time-wise feasible. But at that level, it makes more sense to do the B2B.
+The B2B opportunity for 2026:
+Moving into 2026, I see the usage of a paid community or a freemium community (completely up to you depending on the use case) can be used for:
+- Normal engagement stuff
+- Downsell and upsell vehicles if you have paid consulting calls or paid engagements
+- Mini retainer to keep your foot in the door
+Your clients: Consultants, could be other agencies, could be fractional executives, etc.
+The full funnel diagram:
+You can have many entry points to a free community:
+- AI audit
+- Webinar
+- Discovery call (free or paid)
+- Workshop (free or paid)
+- Referral
+- Calendly visit
+The Calendly routing hack:
+Sometimes if you set up something like Calendly, you'll have a lot of people, especially if it's paid, go to the very end and never actually book.
+You can see this if you set up what's called routing. I don't have just normal meetings anymore, I use the routing feature.
+When you create the routing feature, you allow people to answer your question. This question will automatically disqualify or qualify them. Assuming they're qualified, you can tell basically right here what happens if they answer yes or no to each different route.
+Why I care to set this up: If I go into responses, I can see a trail of every single time someone tried to book a paid consult with me in the past few days and it will tell me how far they got.
+It will say the visitor did not schedule an event when presented with the booking page.
+Nine times out of 10: It's too expensive. My hourly rate now right now is really really high. So I have a much lower percentage of people that book versus before where I had almost 5 to 10, 3 to 15 minute discovery calls per day.
+Even when I went to 100 bucks, I still had 10 to 20 paid calls per week. Now driving traffic is another story. You could have cold traffic, you could have paid traffic. Obviously mine is all organic for everything from YouTube.
+The question: How could you turn some of these into a much lower ticket but a good foot in the door?
+The ecosystem play:
+All of these could lead to a one-on-one paid or they could lead to the Calendly visit, to look at the Calendly and realize they won't book.
+That could end up in some form of project. If it doesn't end up in a project, that one-on-one consult, then that could be a downsell down to the community.
+Upselling and downselling some form of paid community. Again, not B2C because you're not going to win on that. I can guarantee you that unless you're going to blow up on social, which I manifest that you do if you want to go down that route.
+Statistically though you probably won't. And you don't want to use paid ads at least for most cases for communities because usually you won't get the best ROAS with all the saturation happening right now.
+The lead magnet → community flow:
+Let's assume they came from LinkedIn or YouTube as some form of organic strategy or a lead magnet, and that lead magnet had a follow-up email that said: Hey listen, if you love this, I don't really communicate well on email, it would be cool if you joined my community as well.
+Could be free community or paid community or super low cost like a cost that you wouldn't even have to think about twice. A cup of coffee per month. Seven bucks. Two cups of coffee per month.
+Don't call it $10 a month. Call it a couple cups of coffee a month. Something along those lines if you want to go down the very low ticket paid.
+If you go on free community: You could say listen I know you benefited from this lead magnet, I have a bunch more free stuff here. Literally just join, no pressure, no upselling, etc.
+You're not gonna upsell because some locked away content could be the upsell. When you go in, you're gonna see maybe level two, level four, or this is a paid resource.
+In something like School or Circle or Whop, you can create one time payment for different things like a one time payment for a call with you. That could be your upsell for a paid call even though they refused the paid call, they went in the free.
+Once they see the value of what you have in the free, then they might book a paid call.
+The daily engagement strategy:
+You could have some form of daily engagement or you answer people's questions. If you have a small community of six people, they're not gonna have daily questions.
+But you can use this as your ground, your playground, where you share your equivalent of Loom Bites. Maybe I teach you how to use a brand new piece of technology, you take that, you build something, you record yourself building the thing and use that artifact as sawdust and you drop in this community.
+Passively they are getting value from you.
+The tier ascension model:
+If there's upgrade interest, you could ascend those people, those business owners, into a basic tier where maybe you can think of this as the smallest low ticket retainer where there's no one on one, there's no deliverable from you outside of answering questions and answering things you would have answered anyway via email.
+This is basically you getting paid to answer questions and answer the equivalent of emails.
+Over time, if you want to build things and record yourself building them: One, it's good for you to build that teaching ability. Two, you can build over time a course library.
+Just in this community if I count the number of Loom Bites I've had, there's over 250 because I've done them not every day but every couple days consistently.
+School tiers feature:
+The beautiful thing with things like School is School has now tiers where you can have a standard tier, a premium tier, and a VIP tier.
+You could do the same thing where you bring people into community. It's a lot less painful to ascend someone versus getting on a call and saying ah listen I know you paid me X amount per month for consulting or X amount per consulting session, I've now increased my prices.
+This gives you more ability to bifurcate your service, build a relationship with people, and have a much warmer connection.
+The email system built in:
+For me as the owner of this School, when I go here, I can go live but I can also use this send email to all members feature.
+It's kind of like having your own email system or newsletter. You can also use this as a newsletter where you drop things that would have otherwise been an email via newsletter service.
+You can have it be all you can eat, turnkey, client retention, and client expansion.
+I don't use this because I don't like to spam you. I don't like to spam people. But with 7 to 10 people, it's a lot more intimate. You could try to even connect different business owners who do consulting, assuming you're not giving too much value upfront.
+The VIP tier as retainer:
+If we go to deep work, this VIP could be your actual retainer.
+Instead of saying oh yeah I only work on a $2,000 a month basis, now you've reframed, you've repackaged, and repositioned it as a VIP retainer within the confines of the School community.
+This will always feel a lot more legit than a recurring Stripe fee that always comes out or recurring Wise fee or whatever payment provider you're using.
+The downsell protection:
+This is where you have all this beauty where you can upsell and downsell. If they're not happy or basically they don't need this VIP retainer, instead of leaving completely (which most of them have with me in terms of engagements in the past—again my average retention was 2 to 3 months for a consulting engagement no matter how good a job I did).
+In this case, instead of leaving completely, you can now downgrade them to Premier Tier or they can downgrade all the way to the basic tier.
+You keep them in the ecosystem. That's the part that people miss.
+The goal is not to just have a one and done, a one night stand equivalent of a transaction. The goal is to keep those clients, those organizations, and businesses within your ecosystem.
+It's harder to do that if they have to pay this retainer per month. If they have options, then you make it easier for them to not just leave but to leave to a point where you can re-ascend them later on if it comes up and it makes sense.
+The platform options:
+In terms of School, I don't care whether you use School or not School. School is like 9 bucks a month for the hobby plan.
+You have freemium tiers. Instead of subscription (which is where the majority of you probably came in), this is new freemium.
+Then you have tiers which is a brand new feature which allows you to do the standard, your premium, then your VIP.
+Then you have one-time payment. So you can have a course that unlocks, that you bring people in for free, and there's something staring them in the face that's like a full AI roadmap for 2026. Maybe it's a 5-lesson course, it's staring them in the eye.
+You're not selling them, it's just there. And if they just want to upgrade, then it's up to them. This could be a really good way to get some initial traction on that side.
+The subscription fatigue reality:
+People hate subscriptions in general. I know that from running a community. I know that from running a SaaS tool. I know that from helping other founders that have SaaS tools.
+People hate subscriptions.
+If the subscription is a lot more bite-sized, even though you feel like what the heck's 19 bucks going to do for me—it's the idea that the 19 bucks keeps a shoe in the door so the door does not close.
+You're still collecting some form of payment. And if you're going from payment to more payment is a lot easier than going from zero to a brand new payment.
+Very similar to the old adage: It's easier to increase the lifetime value of an existing customer than to get a brand new customer. There's a new cost of acquisition for that customer.
+Entry points that can come from:
+- Free discovery calls
+- AI audits
+- Consultation facilitation calls
+- Lead magnet downloads
+- LinkedIn content
+- Workshop attendees
+- Webinar participants
+- Conferences
+- Cold outreach if you want
+- Speaking gigs
+- Anything you do in person
+The in-person community hack:
+If you have a free community, it's a lot easier to show that in person where imagine you have a business card (giving you sauce right now):
+Have a business card with the logo of who you are, what you do, and then a QR code at the back. Make the QR code have a Bitly or something equivalent where you can track how many people actually scanned it.
+That leads to your completely free community. That's a good example of a freemium model. Bring them in for free.
+Instead of just having an email where you never know did your email go into cyberspace, did they open it, did they open it and throw in the garbage—if they're in your community, you have a slightly more intimate touch point with that person, especially if you do the email blast option.
+The conference follow-up strategy:
+Let's say you collected 70 people from a 1000 person event that came into your freemium community. Now you can do the email blast thing saying: Hey if you guys are here, 90% of you were at this conference. It was a pleasure meeting you. Let me reintroduce myself.
+Maybe you drop a little Loom or something equivalent in a post in that community saying: Hey listen I am insert name here. I met all of you just to give you a face to the name once again. It was a pleasure to meet all of you. I'm at your disposal. I love helping people with XYZ thing. If you have a question just drop it as a comment underneath this thing. I'm more than happy to connect with you, etc.
+That's how you can start your customer journey that way.
+The positioning that works:
+Instead of saying let me send you some resources and you send them the email and they say thanks and then they never talk to you ever again—you say: Join my community, all my resources are there, and you can ask questions anytime.
+One cool thing: As you collect all of those questions in that community, you can then repurpose those as experience on calls. You're saying like oh yeah I run this community (screen share). People ask me stuff all the time. Someone just asked your question literally last week and this is what I said to them.
+Now they can see the community. If it's free, someone on a free call or paid call can now funnel themselves into your community as either:
+- Free downsell (meaning they weren't going to work with you anyway, the least you could do is have a slightly more intimate touchpoint with them to maybe ascend them in the future)
+- Or if you have something to offer that is paid
+The niche example:
+Let's say you build the best emailing system or email categorization system for a tax firm. Super niche. You have like 15 people in there for free and you do an email blast.
+Odds are they're going to be the most curious out of all the cold people you have otherwise bothered.
+The discovery call flow:
+This one obviously is my favorite one. This is the one I implemented seven months ago which is discovery call to community.
+Old way:
+- Free discovery call
+- Not ready to buy
+- No problem I'll email you some resources to review
+- No more
+- They never open it
+- Lead lost
+Community flow:
+- Free discovery call
+- Not ready to buy
+- I get it, rather than an email join this community
+- Here's the link, have it ready to go
+- All my resources are there and you can ask whatever follow-ups you want
+Then you can have a free tier. They see that you have locked content. You go from there.
+The AI audit flow:
+Same thing. You can offer a free or paid AI audit. After that you deliver your findings, your recommendations, and your pitch:
+Listen, join my community to actually know how to implement this stuff. I basically drop myself doing live builds, live recorded builds of this exact thing all the time because I'm doing this for other clients. You might as well get the sawdust of what I'm doing. I try to help as many people for free as possible.
+The reciprocity effect:
+Odds are, if you do good enough of a job, you give enough value for free and expect nothing in return—people, many people have this sense of reciprocity.
+This sense of reciprocity: If I were to show you my Gumroad analytics (Gumroad is the platform I use for lead magnets), you would be shocked.
+For one of my videos I had $6,900 of donations and support to the channel for a completely free resource.
+It was originally when I came up with the n8n text to workflow, like my version of it using Claude Projects. I would have never expected in a million years that I would make $7,000 US dollars. That's almost 10 grand Canadian dollars from a completely free resource.
+That one thing showed me the power of reciprocity. If I put something in the universe completely free that is valuable—big disclaimer here, if it's just slop then nobody's gonna care. If anything it'll do more worse to your brand. People will look at the thing and assume oh this is garbage so the rest of your stuff must be garbage as well because this is my first impression you're giving me.
+But if you give something solid that kinda should've been paid or could've been paid and you get it for free and it's valuable and you keep doing it asking nothing—eventually this reciprocity will kick in.
+That's where this is gonna be a lot easier. I'm Mr. Inbound, not Mr. Outbound. I don't like asking for money. I like people to ask me to take their money to do XYZ thing for them.
+The free community value stack:
+Give them:
+- Implementation guides
+- Some templates
+Literally if you want, take my templates or take any templates that you like, take some Loom Bite templates I've provided, change things up, repackage it, offer it to them. I don't care. I want you to win.
+I'm just telling you that you probably shouldn't compete with me on the B2C side. It's a losing game for most cases. B2B, huge opportunity.
+Build your own intimate community. It's going to be super valuable, especially when we're moving into a world of AI slop on steroids where all the videos two years from now—I'll be competing as a creator with tons of perfect looking folks who speak way more eloquently without stuttering, without slurring words, without a speech that can break up at any moment, and it's perfectly littered with the best tonality.
+That's going to be tough. So while you have the window of building those intimate conversations with people and building an intimate pod, I would take advantage of it.
+The freemium funnel structure:
+Free tier:
+- Basic templates
+- Monthly newsletter (instead of doing a newsletter outside of that which is kind of dying—a lot of newsletters' click-through rates are going down precipitously)
+- Async Q&A
+- Live stream that you do (especially if you do School—I'm a shy person but I could go live at any moment if you want to see me screaming in my basement while I build stuff)
+- Community discussion
+Locked content could be:
+- Advanced playbooks (could be your 2026 playbook)
+- Access to a mastermind (where you do a 3-hour mastermind and people in there can get access to it)
+- Weekly office hours
+- Case study library
+- Paid one-on-one call
+The discount strategy:
+Maybe you make the paid call at a discount if you're part of the community. You actually use this as a double funnel.
+Instead of telling them yeah my hour is 100 bucks an hour, but if you are not willing to pay that go in the free community—you can say: Usually my hourly is 100 bucks. If you book it through my free community it's actually 75 bucks. I do that just because I really value having someone in there building the conversation, helping other people out.
+You can spin it however you want to spin it. But you can think of this as meta business.
+Most people are very robotic and procedural and very linear in their thinking, devoid of nuance in terms of how you position things in business. You're asking nothing but you're increasing the likelihood, you're building, you're increasing the surface area for luck to happen.
+Or someone looks at your stuff and says you know what, let's do that call. Let's do that call at 25% off. I'm glad you did this. I wish I knew about this when I first met you. I would have totally paid the hundred bucks. I just didn't know.
+A lot of times you have a lot more value than what the market will credit you with. It's just like when you get bigger on social, like I'm now a mid tier creator, you get some street cred. You get some credibility before you hop on the call.
+For many of you if you don't have that platform, when you get on a call people are really grilling and auditing you within the first three minutes whether it's worth their time to be speaking with you.
+We can increase the likelihood that they will value the time or value your time on that call by having these resources speak for your quality, speak for what you can deliver.
+The playbook for every input:
+Discovery call → Join free community → Free tier → See locked content → Upsell path
+AI audit → Implement in the community → Free tier plus templates on how to do that → See advanced resources → Upgrade to premium tier or paid one-on-one (which could lead to other opportunities)
+Lead magnet → Gumroad or wherever you want to store your lead magnets (don't give your lead magnets as a Google Drive link, you have no analytics, no visibility, no ability to track links) → Free access → Engage with content → Maybe you have a paid tier offer → Ascension
+Webinar → Good place to offer a lot of free to a lot of people, one to many → Join for Q&A follow-up in this free community → Continue the conversation → Maybe convert them to a paid member or one-on-one call or some form of paid resource
+Cold (I'm not Mr. Cold) → But one thing in the cold that would be a solid downsell is bring them into a free to build trust to nurture them in order to maybe get a paid call whatever that fee is
+Referral → Start in the community (obviously if someone's giving you a warm intro, likelihood they'll land—conversion for free on School is between 35 to 47%, pretty high rates because there's nothing to lose, worst case you leave the free community) → Look at entry → Maybe you want to book a call and ready (even that call by the way could be a free 15 minute call that could lead to something paid down the line)
+The profitability is in the patience: If you're not desperate and you're willing to extend the lifetime value, the intangible lifetime value of someone's relationship, the money will come assuming you're good enough to actually have someone value your time accordingly.
+Workshop
+→ Implementation support (I've now given you the tools to do the thing. If you're too lazy to do the thing I actually have a free community where I will show you how to do the thing and actually did the thing. I'll give you the template so all you have to do is put a key in the thing, turn it around, and you're good to go)
+→ Nurture them with maybe ongoing learning, a paid tier for deep work, etc.
+The paid call pin:
+If you do paid, maybe you want to pin something in the community that says: Need one-on-one help? If you need a custom strategy or want to fast track implementation, book a paid call, book one-on-one call right here.
+Maybe it's some Calendly link or a one-time paid resource in the community.
+The mula breakdown:
+Model 1 - Paid calls + community:
+- Let's say you're Calendly or your paid hours: 100 bucks an hour, 100 US dollars an hour
+- Maybe the community is 49 bucks per month
+- 49 can be rich if it's B2B, not bad, because most of the time this could be some form of business expense if it's a business owner
+Model 2 - Support add-ons:
+- Let's say you're doing a 25K project and you want a retainer model but they're not ready to go for a paid retainer
+- You can say: You know what, 25,000 for this build-out (assuming you're building something) and 99 bucks a month on top
+- That gives you fractionalized access to me (nice little fancy word there)
+- So it gives you a version of a retainer if they were not ready for a retainer, but it also helps you not just do the 25K project with unlimited support for free (which a lot of people expect)
+- 99 on top of 25K a month is not very much. You could even make them sign an annual with that. That would still be reasonable. This is 25K, you're adding one more K for unlimited access to you
+Be careful: Explain that this is fractionalized access. They don't own your life and your soul.
+Model 3 - Tiered access:
+- Full community where it's freemium
+- Then you have a monthly Q&A tier where you can answer questions, you will do one free call a week at this tier
+- Then you have for 149 more often, more resources
+- Then you have a VIP—this is the one on one
+- In a way you kind of ascended them to even a higher price per hour for what your consulting call is going to be if it was positioned on its own
+Model 4 - Course plus community:
+- Maybe you could have a one time for a course you put together
+- Then you have a super downsell for ongoing in the community
+Model 5 - Retainer light:
+- Instead of a $2,000 a month retainer it could be a $299 month community access with shared resources, group calls, async
+- All of these resources that come out of this call can be repurposed for whatever you want
+The scripts for every scenario:
+After discovery call:
+Thanks for the call. Instead of just clogging your inbox and spamming you, I run a community where I share resources and answer questions like the ones we discussed all the time for free. I know it's kind of stupid of me to offer you something for free that you just paid for but I just want to make sure you get go from A to Z and I want to be part of that journey. Then pause the link, ideally free.
+After AI audit:
+Here's your audit to implement. Either you can upsell (first of all upsell implementing yourself if you want to). But if you just want to be the consultant then you could say: Well we do implementation here. I give tips on how to implement. It's completely free. There's no obligation to join but I think it would benefit you.
+Post webinar:
+You want to continue the conversation? Join my free community where you can ask follow-up questions and access even more resources just like this every single week.
+Lead magnet:
+Your resources attached. For more like this plus the ability to ask questions, join my community.
+LinkedIn:
+Great question. I actually break this exact thing down in my community. Make sure you actually do (you're not full of it). Join for free. Then give a couple examples of the different things they expect to be there.
+The Calendly integration setup:
+Step 1: Set up routing like I did
+Step 2: Track your drop-offs
+- You can actually do that in Calendly
+- I can literally go into here and export a CSV and get a full log of every submission
+- I can see exactly what happened
+- If I click on this and open this up, you can see exactly whether they schedule an event or not
+- I can basically ask GPT or Claude: Can you fill this all with no? And make true into yes?
+- Then I can easily track that on an ongoing basis all the time
+Step 3: Identify any price objections
+- You want to see where your sweet spot is
+- Maybe underprice yourself 40 bucks, then go to 60, then go to 80
+- Then you notice people stop booking at 80
+- Double-check: Did they stop because it's 80 or did they stop because you have less traffic?
+- You want to make sure you can understand: Was it the pricing or was it the time of year?
+- Did you try to track this in the month between mid-December and mid-January? Well odds are most people are on holiday, they're not looking to learn AI
+- After that makes sense to track accordingly
+- You want to be as methodical and scientific with this stuff
+Step 4: Add the community offer
+- You have a downsell physically on the description of the community
+- You say: Oh is this too expensive for you? Or are you not sure whether or not this call would be worth it for you? Well check out what I offer for free in my community
+- Then you have a Bitly link that embeds the URL and then you can track it through there
+- Then you could say: Not ready for one-on-one? Join the community
+- Then you nurture them in the community
+- If they want to upsell themselves then allow them to do so really easily
+Action steps:
+This week:
+1. Choose a platform of your choice (don't care if it's School, Circle, whatever—just make sure the platform is conducive to allowing you to have some form of value ladder)
+2. Add 5 free resources
+3. Lock 3 premium resources
+4. Pin a book one-on-one call post
+5. Write an overwhelmed script (what you would tell people on a call so you can remember it and it can come off the tongue very easily at the end of a call)
+6. Maybe test it with the next 5 leads for your paid
+Next 30 days:
+1. Route all leads that you have in general (from email, from newsletters, wherever) to community
+2. Discovery calls to the community
+3. Audits to the community
+Note: You don't send them there directly. Obviously you want an audit to end up in a more expensive engagement or a retainer. Go for those retainers. I'm saying if you feel like: One, it's not appropriate. Two, they're not going to go for it. Three, they might not have the funds now for that but you want them in your ecosystem. Then the community can always be a downsell.
+4. If you can get 50 to 100 free members they can start to speak among themselves and then you'll see some activity
+You're not going to have a burgeoning ecosystem with flowers and birds and wild animals with 50 free members that are all kind of there for different reasons, but you might get some interactions that might give you more idea on what else you could offer as value.
+Next 90 days:
+1. If you want, launch a paid tier
+2. This is 90 days after you start your free community and you have people come in
+3. Maybe you email all the free members and you try to get a 10% conversion because you have such a good offer that it speaks for itself
+4. This is where you keep going
+Advanced: New member experience
+We could go into things like what you do with a new member but this is more so once you really get into the science of it where you want to think about:
+- The welcome post
+- The unlocked resources
+- The number of them
+- What is their first touch point with the community?
+- How does it feel when they get there?
+- Are they warmly welcomed?
+If you have like 10 to 15 people, they better be warmly welcomed with white glove service.
+The TLDR:
+Most people are looking at communities the wrong way. Communities B2B can be a superpower to give you upsell and downsell opportunities.
+You can reposition and repackage your offers in a way where you always make sure you're building long-term relationships with the highest likelihood of eventually ascension in a way that doesn't feel salesy but feels like it's a natural next step of your process.
+
+Transcript:
+00:00 In this video, I'm gonna walk you through why I see communities and community building B2B is one of the largest opportunities for AI consultants in 2026.
+00:12 I'm going to hopefully shift your mindset about how you see communities, because you are We're in currently a B2C community, where me, the B, and you are the C are co-existing and this relationship works so long as I give asymmetric value to you to make sure that this is a worthwhile investment and that
+00:32 you're deriving value from it. Same idea, different avatar. Most B2C communities, as we know them, will get hyper saturated in the next few months to a year.
+00:45 I already think that most, let's say, AI communities, a lot of the musical chairs around creating a community from scratch and then running traffic to it and then telling people, you can hop in and get my templates, my N&M templates.
+00:58 A lot of that value or perceived value has gone down intrinsically like crazy. It's plummeted in the past few months to a year.
+01:06 Main reason being, you can now vibe code apps, you can text to workflow, workflows and automations, and everything, including core knowledge, will be commoditized.
+01:16 So, outside of that, just offering a make.com community, or an N&M community, or an insert subject that's very niche, like how to make UGC content, there is kind of a decent sized community that services all those core conveyor belts.
+01:33 So with that, moving into 2026, I'm, I see the usage of a paid community, or a freemium community, completely up to you, depending on the use case, can be used for normal engagement stuff.
+01:45 So, if you have paid consulting calls, if you have paid engagements, you can use communities as downsell and upsell vehicles, and you can even use them as a mini retainer to keep your foot in the door.
+02:00 So, if we walk, walk through this diagram, this really summarizes everything I'll go through on thisoscalid draw, right here. But just to give you an idea, you can have many entry points to a free community, and then you can go from an AI audit, or a webinar.
+02:16 Or a discovery call, free, or paid, a workshop, free, or paid referral or a can�tIle visit, now the reason why I am zeroing in on this one, is sometimes if you set up something like a county, you'll have a lot of people, especially if it's paid, go to the very end and never actually book.
+02:35 And you can see this if you set up something like county, and if I move this to the right hand side, if you set up what's called routing, I don't have just normal meetings anymore, I use the routing feature.
+02:46 When you create the routing feature, you allow people� to answer your question, this question will automatically disqualify or qualify them.
+02:54 Assuming that they're qualified, you can tell basically right here what happens if they answer yes or no, to each different route.
+03:00 And the reason why I care to set this up is if I go into responses, I can see a trail of every single time someone tried to book a paid consult with me in the past few days, and then it will All right, everybody?
+03:13 Tell me how far they got. So it will say the visitor did not schedule an event when presented with the booking page.
+03:19 Now, nine times out of 10, it's too expensive. My hourly rate now right now is really, really high. So I have a much lower percentage of people that book versus before where I had almost five to ten, three, fifteen minute discovery calls per day.
+03:35 And even when I went to a hundred bucks. folks. Now, I still had 10, 20 paid calls per week. Now driving traffic is another story.
+03:44 You could have cold traffic. You could have paid traffic. Obviously mine is all organic for everything from YouTube. But the idea is how could you turn some of these into a much lower ticket, but a good foot in the door.
+03:58 So if we go back here, we have. Of different traffic. So all of these could lead to a one-on-one to pay for a one-on-one.
+04:06 Or they could lead to, let's say, the county visit, to look at the county and realize that, you know, with a book.
+04:13 And then that could end up in some form of project. If it doesn't end up in a project, that one-on-one consult, then that could be a downsell down to the community.
+04:21 So upselling and downselling, some form of paid community. Again. Not be to see, because you're not going to win on that.
+04:27 I can guarantee you that unless you're going to blow up on social, which I manifest that you do, if you want to go down that route, statistically though, you probably won't.
+04:36 And you don't want to use paid ads, at least for most cases, for communities because usually you won't get the best ROAS with all the saturation happening right now.
+04:47 Now, let's assume they go down. Some path. Either they came through, through one of these vectors, or they came from assuming you have LinkedIn or YouTube as some form of organic strategy, or a lead magnet, and that lead magnet had a follow-up email that said, hey listen, if you love this, I don't really
+05:03 communicate well on email, it would be cool if you joined my community as well. Could be again, free meme community, or paid community, or super low-cost, like, A cost that you wouldn't even have to think about twice.
+05:15 A cup of coffee per month. Seven bucks. Two cups of coffee per month. You can price it in whatever analogy makes the most sense.
+05:25 Don't call it $10 a month. Call it a cup of cups of coffee a month. Something along those lines. If you want to go down the very low ticket paid.
+05:33 If you go on free community, you could say, listen, I know you benefited from this- Lead magnet, I have a bunch more free stuff here.
+05:40 Literally just join no pressure, no upselling, et cetera. And you're not gonna upsell because some locked away content could be the upsell, meaning, when you go in, you're gonna see maybe level two, level four, or, this is a paid resource.
+05:53 In something like school or circle or WOP, you can create one time payment for different things like. A one time payment for a call with a you.
+06:01 That could be your upsell for a paid call, even though they refuse the paid call, they went in the free.
+06:06 Once they see the value of what you have in the free, then they might book a paid call. And then next, you could have some form of daily engagement or you answer people's questions.
+06:15 If you have a small community of six people, they're not gonna have daily questions, right? But you can use this as your ground, your playground, where you share your equivalent of loop.
+06:25 Where maybe I teach you how to use a brand new piece of technology, you take that, you build something, you record yourself building the thing and use that artifact as sawdust and you drop in this community.
+06:38 So passively, they are getting value from you. Now, if there's upgrade interest, you could ascend those people, those business owners, into a basic tier where maybe you can think of this as the.
+06:49 The smallest low ticket retainer where there's no one on one, there's no deliverable from you outside of answering questions and answering things that you would have answered anyway via email.
+07:00 So this is basically, you getting paid to answer questions and answer the equivalent of emails. And over time, if you want to build things and record yourself building them, one, it's good for you to build that teaching ability, but two, you can.
+07:13 And over time, a course library. Just in this community, if I count the number of loombights that I've had, there's over 250, because I've done them not every day, but every couple days consistently.
+07:26 Now, the beautiful thing with things like school is school has now tiers where you can have a standard tier, a premium tier, and a VIP tier.
+07:37 You could do the same thing where you bring people into community. It's a lot less painful to ascend someone versus getting on a call and saying, ah, listen, I know you paid me X amount per month for consulting or X amount per consulting session.
+07:50 I've now increased my prices. This gives you more ability to bifurcate your service, build a relationship with people, and have a much warmer connection.
+08:00 Because for me as the old- s sooner of this school, when I go here, right, I can go live, but I can also use this send email to all members.
+08:09 So it's kind of like having your own email system or newsletter. And you can also use this as a newsletter where you drop things that would have otherwise been an email via newsletter service.
+08:19 So you can have it be all you can eat, turn key, client retention, and client expansion- Thanks, Ben. Now, I don't use this because I don't like to spam you.
+08:29 I don't like to spam people, but it with seven to ten people, it's a lot more intimate. And you could try to even connect different business owners.
+08:37 They do consulting for assuming that you're not giving too much value up front. Now, if we go back, if we go to deep work, now, this VIP could be your actual retainer.
+08:49 So- The Instead of saying, oh yeah, I only work on a $2,000 a month basis, now you've reframed, you've repackaged, and repositioned it as a VIP retainer, within the confines of the school committee, which will always feel a lot more legit than a recurring stripe fee that always comes out, or is it recurring
+09:07 wise fee, or whatever it is the payment provider that you're using. And then this is where you have all this beauty where- You can upsell and downsell, so if they're not happy, or basically they don't need this VIP retainer, instead of leaving completely, which most of them have with me, in terms of 
+09:23 like, engages in the past. Again, my average retention was two to three months, for a consulting engagement, no matter how good a job I did.
+09:32 So in this case, instead of leaving completely, you can now downgrade them to Premier Tier, or they can downgrade all the way to the basic tier.
+09:41 So you keep them in the ecosystem. That's the part that people miss. The goal is not to just have a one-in-done, a one-night stand equivalent of a transaction.
+09:51 The goal is to keep those clients, those organizations, and businesses within your ecosystem. It's harder to do that if they have to pay this retainer per month.
+10:01 If they have a- options, then you make it easier for them to not just leave, but to leave to a point where you can re-assend them later on if it comes up and it makes sense.
+10:12 So that's one example here. So let's go into, now the core- the core lesson. So like I said, you have the problem, and then Calle or something equivalent will show you where people bounce, and then you want to route them to right.
+10:26 So be-to-see communities, like I said, they're declining. I have a big brother automation, service intelligence, very private to me. No, I will not share it with you.
+10:37 It basically allows myself and my team to keep tabs on everyone's community. And I'm saying like, number of members, the change per week, the pricing, whether or not they changed their VSL.
+10:50 I am an unbelievably competitive person and I am trying to have the best AI generalist community. Meaning you're good at everything AI.
+10:57 I'm not trying to be the best at the end community. I'm not trying to be the best vibe coding community.
+11:01 I'm trying to be the best. All you can eat community. So with that, I have to stay on my toes and make sure that I'm aware of my surroundings.
+11:09 And I can tell you from the analytics that we see in the past, 30 to 60, days, the average community, I'm talking about AI community, is declining.
+11:18 Or at least new entrants are struggling to get past a certain point. And that's because again, there's so much free knowledge.
+11:25 There's so much, there's so many communities that are disappointing when you pay for them. So there's some like fatigue, there's some battle scars there from having poor experiences and a combination of things.
+11:36 And everyone's trying to build a school where they, Make a YouTube video, they pray, one pops, and then they get a bunch of people coming in.
+11:42 Not realizing that churn is the thing that will make your community live or die. And if you're dealing with 7 to 10 people, not 700 or 1000 people, it's a much easier task alone, if you want to go alone, to manage churn.
+11:57 Because churn is very intimate at that point. For me, I can't have an intimate conversation with, Yep. 700 plus people every single day, it's not time-wise feasible.
+12:07 But at that level, it makes more sense to do the B2B. Where your clients are consultants, could be other agencies, could be fractional executives, etc.
+12:18 In terms of school, I don't care whether you use school or not school. Schools like 9 bucks a month for the hobby plan.
+12:25 You have freemium tears. Instead of being introduced, so if we go here to the right, we have subscription, which is where the majority of you probably came in.
+12:33 This is new freemium, and then you have tears, which is a brand new feature, which allows you to do the standard, your premium, then your VIP.
+12:42 And then you have a one-time payment. So you can have a course that unlocks, that you bring people in for free, we have something steering them in the face.
+12:50 trees. That's like a full AI roadmap for 2026, and like, maybe it's a five-lesson course, it's steering them in the eye.
+12:56 You're not selling them, it's just there. And if they just want to upgrade, then it's up to them. This could be a really good way to get some initial traction on that side.
+13:08 Next one. Oh, actually one more thing I want to touch on here. People hate subscriptions in general. I know that from running a community.
+13:17 I know that from running a SaaS tool. I know that from helping other founders that have SaaS tools. People hate subscriptions.
+13:24 So if the subscription is a lot more bite-sized, even though you feel like, what the heck's 19 bucks going to do for me?
+13:31 It's the idea that the 19 bucks keeps a shoe in the door so the door does not close. You're still collecting some from- of payment.
+13:39 And if you're going from payment to more payment is a lot easier than going from zero to a brand new payment, which is very similar to the old adage of it's easier to basically increase the lifetime value of an existing customer than to get a brand new customer.
+13:53 There's a new cost of acquisition for that customer. Like I said in terms of the entry points that can come from free discovery calls from AI audits from console.
+14:02 Facilitation calls from lead magnet downloads from LinkedIn content to workshop attendees, webinar participants, conferences. If you want cold outreach, speaking gigs, anything you do in person, you can be.
+14:14 If you have a free community, it's a lot easier to show that in person where imagine you have a business card and I'm giving you sauce right now.
+14:22 Have a business card with the logo of who you are, what you do and then a. . Do our code at the back and make the QR code have a bit lead or something equivalent where you can track how many people actually scanned it.
+14:32 And that leads to your completely free community. That's a good example of a freemium model. So bring them in for free.
+14:40 Now, instead of just having an email where you never know that your email go into cyberspace, did they open it, did they open it and then throw in the garbage.
+14:47 If they're in their community, you have a slightly more. An intimate touch point with that person, especially if you do the email blast option.
+14:55 And then, let's say you collected 70 people from a thousand person event that came into your freemium community. Now you can do the email blast thing saying, hey, if you guys are here, like 90% of you were at this conference.
+15:07 It was a pleasure meeting you. Let me reintroduce myself. Maybe you drop a little loom or something equivalent in a post in that community saying.
+15:14 Everything. Hey, listen, I am insert name here. I met all of you just to give you a face to the name once again.
+15:20 It was a pleasure to meet all of you. I'm at your disposal. I love helping people with XYZ thing. If you have a question, just drop it on as a comment underneath this thing.
+15:29 I'm more than happy to connect with you, et cetera. And then that's how you can start your customer journey that way.
+15:35 So when I not touch on the old way, you know the old way. Now, what you can say is, listen, I get overwhelmed with emails quite a bit.
+15:43 Like I said before, this is a great place to meet me where I'm most active and why it works is it's honest, relatable.
+15:49 It shows you're in demand, even if you're not. It gives them better access to you. And if it's free, that sells itself, right?
+15:57 So in terms of positioning, instead of you saying, let me send you some resources, and you send them the email, and this say, thanks.
+16:04 And then they never talk to you ever again. You say, join my community, all my resources are there, and you can ask questions anytime.
+16:11 And one cool thing is, as you collect all of those questions in that community, you can then repurpose those as, you know, experience on calls or saying like, oh yeah, I run this community screen share.
+16:22 People ask me stuff all the time. Someone just asked your question literally last week, and this is what I said to- them.
+16:27 Now they can see the community. Now, if it's free, someone on a free call or paid call can now follow themselves into your community as a either free downsell, meaning they weren't going to work with you anyway.
+16:40 The least you could do is have a slightly more intimate touchpoint with them. To maybe ascend them in the future if you want to engage with them.
+16:46 Or if you have something to offer that is paid, let's say you build the- he best emailing system or email categorization system for a tax firm.
+16:56 Super niche. And you have like 15 people in there for free and you do an email blast. Odds are, they're going to be the most curious out of all the cold people you have otherwise bothered, right?
+17:08 This one obviously is my favorite one. This is the one that I implemented seven months ago, which is discovery call to communities.
+17:14 community. So you go from free discovery call, not ready to buy, no problem. I'll email you some resources to review, no more.
+17:22 They never open it, lead lost. Community flow, free discovery call, not ready to buy. I get it rather than an email.
+17:28 Join this, this community. Here's the link. Have it ready to go. All my resources are there and you can ask whatever follow-ups you want.
+17:35 So then you can have a free tier. You see that they have locked content. They. You go from there. Now AI audit, same thing.
+17:41 You can offer a free or paid AI audit. And then after that, you deliver your findings, your recommendations and your pitches.
+17:48 Listen, join my community to actually know how to implement this stuff. I basically drop myself doing live builds, live recorded builds of this exact thing all the time because I'm doing this for other clients.
+17:59 You might as well get the sawdust of what I'm doing. And I try to like help as many people. Oh.
+18:03 Oh. Or free as possible. Odds are, if you do good enough of a job, you give enough value, comma, for free, and expect nothing in return.
+18:11 People, many people have this sense of reciprocity. And this sense of reciprocity, if I were to show you my gum road analytics, and gum road is the, the platform I use for lead magnets.
+18:22 You would be shocked. For one of my videos, I had 6,900, dollars, of donations and support to the channel, for a completely free resource.
+18:33 It was originally, initially when I came up with the end-to-end text to workflow, like my version of it, using cloud projects, I would have never expected in a million years that I would make 7,000 US dollars.
+18:45 That's almost 10 grand Canadian dollars from a completely free resource. That That one. One thing, showed me the power of reciprocity, that if I put something in the universe completely free, that is valuable.
+18:59 Big disclaimer here. If it's just slop, then nobody's gonna care. If anything, it'll do more, worse to your brand. People will look at the thing and assume, oh, this is garbage, so the rest of your stuff must be garbage as well.
+19:10 Cause this is my first impression you're giving me. But if you give something solid, that kind of should've- being paid, or could've been paid, and you get it for free, and it's valuable, and you keep doing it, asking nothing, eventually this reciprocity will kick in.
+19:25 And that's where this is gonna be a lot easier. Cause again, I'm Mr. Inbound, not Mr. Outbound. I don't like asking for money.
+19:32 I like people to ask me to take their money, to do XYZ thing for that. Okay? So, on the free community, community.
+19:39 Give them implementation guides, some templates. Literally, if you want, take my templates, or take any templates that you like, take some loombite templates that I've provided, change things up, repackage it, offer it to them.
+19:52 I don't care. I want you to win. I'm just telling you that you probably shouldn't compete with me on the BTC side.
+19:57 It's a losing game, for most cases. B2B, huge opportunity. So, use that. So, build to re-empower, tailor to your audience of choice.
+20:08 Build your own intimate community. It's going to be super valuable. Especially when we're moving into a world of AI slop on steroids, where all the videos two years from now, like, I'll be competing as a creator with tons of perfect looking folks who speak way more eloquently without stuttering, without
+20:25 slurring words, without, a speech that can break up at any moment, and it's perfectly littered with the best tonality. That's going to be tough.
+20:34 So, while you have the window of building those intimate conversations with people and building an intimate pod, I would take advantage of it.
+20:42 And then freemium funnel, if you want more business side, right? Because I'm a cold and calculating fellow. So, free tier, you can have basic templates, you can have a monthly newsletter.
+20:51 letter. Instead of doing a newsletter outside of that, which is kind of dying, in my opinion, a lot of newsletters that are click-through rates are going down precipitously.
+20:59 You could have some async Q&A, and then you could have live stream that you do, especially if you do school.
+21:04 Like, I'm a shy person, but I could go live at any moment if you want to see me, screaming in my basement while I build stuff.
+21:12 If I go back to here, again, you can have some community discussion. I should. That's the value of it. And then the lock content could be advanced.
+21:20 Playbooks could be your 2026 playbook. It could be access to a mastermind where you do a three-hour mastermind and people that are in there can get access to it.
+21:29 Weekly office hours, a case study library, a paid one-on-one call. Maybe you make the paid call at a discount if you're part of the community.
+21:37 So you actually use this as a double funnel. Thank you. Instead of telling them, yeah, my hour is a hundred bucks an hour, but if you are not willing to pay that, go in the free community, you can say, usually my hourly is a hundred bucks.
+21:51 If you book it through my free community, it's actually 75 bucks. And I do that just because I really value having someone in there like building the conversation, helping other people out.
+22:01 You can spin it however you want to spin it. But you can think of this as, this is meta business.
+22:07 Most people are very robotic and procedural and very linear in their thinking. Devoid of nuance in terms of how you position things in business where you're asking nothing, but you're increasing the likelihood you're building, you're increasing the surface area for luck to happen.
+22:23 Or someone looks at your stuff and says, you know what? Let's do that call. Let's do that call at 25%.
+22:27 done. off. I'm glad you did this. I wish I knew about this when I first met you. I would have totally paid the hundred bucks.
+22:32 I just didn't know. And a lot of times you have a lot more value than the what the market will credit you with.
+22:39 It's just like, when you get bigger on social, like I'm now a mid tier creator. You get some street cred.
+22:46 You get some credibility before you hop on the call. For many of you, if you don't have that platform. When you get on a call, people are really grilling and auditing you within the first three minutes.
+22:56 Whether it's worth their time to be speaking with you. So we can increase the likelihood that they will value the time or value your time on that call by having these resources speak for your quality.
+23:08 Speak for what you can deliver. So let me bombard you with how you would run this playbook with every input style.
+23:16 So discover a call, join free community, free tier, sea-locked content, and you have an upsell path. AI audit, implement in the community, free tier plus templates on how to do that, and you can see advanced resources, upgrade to, let's say, the premium tier, or a paid one-on-one, okay, which could lead
+23:34 to other opportunities. Lead magnet could be gum road or wherever you want to store your lead magnets. Don't- . . Give your lead magnets as a Google Drive link.
+23:42 You have no analytics, no visibility, no ability to track links. Free access, engage with content, maybe you have a paid tier offer, ascension.
+23:51 Webinar, this is a good place to offer a lot of free to a lot of people, one to many. Join for Q&A follow-up in this free community, then you can continue the conversation, and maybe convert them to a paid member or one .
+24:04 . from one call or some form of paid resource. I'm not Mr. Cold, but one thing in the cold, that would be a solid downsell, is bring them into a free to build trust, to nurture them in order to maybe get a paid call, whatever that fee is.
+24:21 Referral, start in the community. Obviously, if someone's giving you a warm intro, so likelihood, they'll land their conversion for a .
+24:28 A free on school is between 35 to 47%. Pretty high rates, because there's nothing to lose, worst case you leave the free community.
+24:37 You have a look of him in entry, and then maybe you want to book a call and ready. Even that call, by the way, could be a free 15 minute call.
+24:44 That could lead to something paid down the line. The beauty and the profitability is in the patience. If you're not desperate and you're willing to extend.
+24:52 The lifetime value, the intangible lifetime value of someone's relationship, the money will come assuming you're good enough to actually have someone value your time accordingly.
+25:03 Workshop, this is amazing. So implementation support. I've now given you the tools to do the thing. If you're too lazy to do the thing, I actually have a free community where I will show you how to do the thing and actually did the thing.
+25:15 I'll give you the template so. So, All you have to do is put a key in the thing, turn it around, and you're good to go.
+25:20 And this is where you nurture them with maybe ongoing learning, a paid tier for deep work, etc. The paid call in the community.
+25:28 So if you do paid, maybe you want to pin something in the community that says need one-on-one help, if you need a custom strategy or want to fast track implementation, book a paid call, a book one-on-one call right here.
+25:40 Maybe it's some county link or a one-time paid resource in the community. So let's talk about mula and then two more sections, and then you'll have everything you need to fully conceptualize what this opportunity might look like.
+25:52 So mula-wise, let's say you're calmly or you're paid hours, 100 bucks an hour, 100 UF dollars an hour. Maybe the community is 49 bucks per month.
+26:01 That could be an example. I'd say 49 can be a- rich, if it's B2B, not bad. Because most of the time, this could be some form of business expense if it's a business owner.
+26:12 Model number two, support add-ons. So let's say you're doing a 25K project and you want a retainer model, but they're not ready to go for a paid retainer.
+26:21 You can say, you know what? 25 bucks, 25,000 for this build-out, assuming you're building something, and 99 bucks a month.
+26:28 on. That gives you fractionalized access to me, right? Nice little fancy word there. So it gives you a version of a retainer if they were not ready for a retainer, but it also helps you not just do the 25K project with unlimited support, comma for free, which a lot of people expect.
+26:45 99, on top of 25 a month, is not very much. You could even make them sign an annual with that.
+26:52 Let's make the- That would still be reasonable. This is 25K. You're adding one more K for unlimited access to you, but be careful that you explain that this is fractionalized access.
+27:04 They don't own your life and your soul. Now, tiered access, let's see if, a full community where it's freemium, and then you have a monthly Q&A, like, tier where you can answer questions.
+27:15 questions. You will do one free column a week at this tier, then you have, for 149, more often, more resources, then you have a VIP, like, this is the one on one.
+27:25 So in a way, you kind of ascended them to even a higher price per hour for what your consulting call is going to be if it was positioned on its own.
+27:33 Now, course plus community, maybe you could have a one time for a course you put together, then you have a super down cell for- ongoing in the community.
+27:41 Retainer light would be, instead of a 2000 a month retainer, it could be a 299 month community access with shared resources, the group calls ASIC.
+27:50 And then again, all of these resources that come out of this call can be repurposed for whatever you want. Now, let's talk about not the ecosystem play.
+27:59 Let's talk about what you do when it comes to the scripts. So, after discovery call, you would say, thanks for the call.
+28:08 Instead of just clogging your inbox and spamming you, I run a community where I share resources and answer questions like the ones we discussed like all the time for free.
+28:17 I know it's kind of stupid of me to offer you something for free that you just paid for. But I just want to make sure you get go from A to Z and I want to be part of that journey.
+28:25 Then, pause the link, ideally free. 3. After AI audit, here's your audit to implement. Either you can upsell. First of all, upsell implementing yourself if you want to.
+28:34 But if you just want to be the consultant, then you could say, well, we do implementation here. I give tips on how to implement.
+28:42 It's completely free. There's no obligation to join, but I think it would benefit you. Post webinar. You want to continue the conversation.
+28:49 Well, join my free community where you can- ask follow-up questions and access even more resources just like this every single week.
+28:57 Lead magnet. Your resources attached. For more like this, plus the ability to ask questions, join my community. Hopefully you're getting the idea.
+29:05 I'm going to skip cold. LinkedIn finally would be great question. I actually break this exact thing down in my community.
+29:12 Make sure you actually do. You're not full of it. Join for free, then give a couple- examples of the different things they expect to be there.
+29:19 And last but not least, on that county side, because most of you will have some form of booking link. Doesn't matter whether it's county or Cal.com, as long as you have a way to collect mula, then you should be good to go.
+29:30 So the county integration. One, set up routing, like I did right now. Then you want to track your drop-offs. You can actually do that in county.
+29:37 Like, I can literally go into here ex- 5 9 and export a CSV, and get a full log of every- all the submissions.
+29:44 And I can see exactly what happened. So if I click on this, and I open this up, you can see exactly whether they schedule an event or not.
+29:53 I can basically ask GPT or Claude, can you fill this all with no? And make true into yes? And then I can easily track that on an ongoing basis all the time.
+30:04 That's gonna be helpful. And then next up, if we double-click into here, you won't identify any price objections. So you want to see where your- where your sweet spot is.
+30:13 Maybe under-price yourself 40 bucks. Then go to 60. Then go to 80. Then you notice people stop booking at 80.
+30:20 You want to double-check. Did they stop because it's 80? Or did they stop because you have less traffic? Whoever you're getting that traffic, whether it's a conference- Friends.
+30:28 Whether you had a spike event where you had an email that you sent and it went really well, and then you had a referral, I don't know.
+30:35 You want to make sure you can understand was it the pricing or was it the time of year? Did you try to track this in the month of between December, mid-December, and mid-January?
+30:45 Well, odds are, most people are on holiday. They're not looking to learn AI. After that, makes sense to- track. And accordingly, you want to be as methodical and scientific with this stuff.
+30:57 Then you add the community offer, where you have a downsell physically on the description of the community. So you say like, oh, is this too expensive for you?
+31:06 Or is- are you not sure whether or not this call would be worth it for you? Well, check out what I offer for free in my community.
+31:12 Then you have a bitly link that embeds the URL, and then you can track it through this- there, and then you could say, yeah, there we go.
+31:18 Not ready for one-on-one, join the community, then you nurture them in the community, and if they want to upsell themselves, then allow them to do so really easily.
+31:27 And just make this actionable. Let's give you some action steps. So if you want to do this this week, choose a platform of your choice.
+31:33 Again, I don't care. It's with school, circle, whatever. Just make sure that the platform is conducive to allowing you have to- allow you to have some form of ladder- value ladder.
+31:43 Add five free resources. Lock three premium resources. Pin a book one-on-one call post. Write an overwhelmed script. I mean, like, what you would tell people on a call, so you can remember it and it can come off the tongue very easily at the end of a call.
+31:58 Maybe test it with the next five leads for your paid. Next 30 days would be route all leads that you have in j- general, from email, from newsletters, wherever, to community.
+32:08 Then discovery calls to the community. Audits to the community. And you, you don't send them there directly. Obviously, you want an audit to end up in a more expensive engagement or a retainer.
+32:18 Go for those retainers. I'm saying, if you feel like, one, it's not appropriate, two, they're not going to go for it.
+32:23 Three, they might not have the funds comma now for that, but you want them in your ecosystem. Then the community can always be a downsell.
+32:31 Now, if you can get 50 to 100 free members, they can start to speak among themselves. And then you'll see some activity.
+32:39 You're not going to have, you know, a burgeoning ecosystem with flowers and birds and wild animals with 50 free members that are all kind of there in for different reasons, but you might get some interactions that might give you more.
+32:52 And the idea is on what else you could offer as value. Then next 90 days would be, if you want, launch a paid tier.
+32:59 This is 90 days after you start your free community and you have people come in. Maybe you email all the free members and you try to get a 10% conversion because you have such a good offer that it speaks for itself.
+33:09 And this is where you keep going. And we could go into things like what you do with a new member, but this is more so once you really get into the science of it where you want to walk about.
+33:16 The welcome post, the unlocked resources, the number of them, what is their first touch point with the community? How does it feel when they get there?
+33:24 Are they warmly welcome? If you have like 10 to 15 people, they better be warmly welcomed with a white glove.
+33:30 The TLDR of this entire thing is that most people are looking at communities the wrong way. Communities B2B can be a superpower to give you upsell and downsell- I'm sorry.
+33:40 And you can reposition and repackage your offers in a way where you always make sure that you're building long-term relationships with the highest likelihood of eventually ascension in a way that doesn't feel salesy, but feels like it's a natural next stop of your process.
