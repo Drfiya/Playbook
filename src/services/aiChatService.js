@@ -1,70 +1,56 @@
 /**
- * AI Chat Service - Handles communication with n8n webhook for AI Coach responses
- *
- * TROUBLESHOOTING: If responses are empty, check n8n "Respond to Webhook" node.
- * The expression should be: {{ { "response": $json.output } }}
+ * AI Chat Service — Sends user questions to the Supabase Edge Function
+ * which performs RAG (Retrieval-Augmented Generation) against the
+ * playbook's vector database and returns grounded answers.
  */
 
-const N8N_WEBHOOK_URL = 'https://fiyasolutions.app.n8n.cloud/webhook/32fad67f-4be9-4670-8abc-d5028304fcd5';
+const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
+const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY;
+const EDGE_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/chat`;
 
 /**
- * Send a message to the AI Coach via n8n webhook
- * @param {Object} payload - The message payload
- * @param {string} payload.message - The user's message
- * @returns {Promise<{success: boolean, response?: string, error?: string}>}
+ * Send a message to the AI Coach via the Supabase RAG Edge Function.
+ * @param {Object} payload
+ * @param {string} payload.message - The user's question
+ * @param {Object} [payload.context] - Current chapter context
+ * @returns {Promise<{success: boolean, response?: string, sources?: Array, error?: string}>}
  */
 export async function sendMessageToAI(payload) {
   try {
-    const response = await fetch(N8N_WEBHOOK_URL, {
+    if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
+      throw new Error('Supabase configuration missing. Check VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env');
+    }
+
+    const response = await fetch(EDGE_FUNCTION_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        'apikey': SUPABASE_ANON_KEY,
       },
       body: JSON.stringify({
-        chatInput: payload.message,  // This is the key field the Agent expects
+        question: payload.message,
+        chapterContext: payload.context?.chapter || null,
       }),
     });
 
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+      const errorBody = await response.text();
+      console.error(`Edge Function error (${response.status}):`, errorBody);
+      throw new Error(`AI service error: ${response.status}`);
     }
 
-    // Handle empty or non-JSON responses gracefully
-    const text = await response.text();
+    const data = await response.json();
 
-    // Check for empty response - this means n8n "Respond to Webhook" node isn't configured correctly
-    if (!text || text.trim() === '') {
-      console.error('n8n webhook returned empty response. Check "Respond to Webhook" node configuration.');
-      console.error('The Response Body should be: {{ { "response": $json.output } }}');
-      throw new Error('AI service returned empty response. The n8n webhook needs configuration.');
-    }
-
-    let data;
-    try {
-      data = JSON.parse(text);
-    } catch (parseError) {
-      console.error('Failed to parse response as JSON:', text);
-      // If it's not JSON, maybe it's plain text from the agent
-      if (text && text.length > 0) {
-        return {
-          success: true,
-          response: text,
-        };
-      }
-      throw new Error('Invalid response format from AI service');
-    }
-
-    // Try multiple possible response field names from n8n
-    const aiResponse = data.response || data.output || data.message || data.text || data.content || '';
-
-    if (!aiResponse) {
-      console.error('Response received but no content found:', data);
+    if (!data.response) {
+      console.error('Edge Function returned empty response:', data);
       throw new Error('AI response was empty');
     }
 
     return {
       success: true,
-      response: aiResponse,
+      response: data.response,
+      sources: data.sources || [],
     };
   } catch (error) {
     console.error('AI Chat Service Error:', error);
@@ -76,10 +62,10 @@ export async function sendMessageToAI(payload) {
 }
 
 /**
- * Build context object for the AI Coach
+ * Build context object for the AI Coach.
  * @param {Object} currentChapter - The current chapter object
  * @param {Object} progress - User's progress data
- * @returns {Object} Context object for the webhook
+ * @returns {Object} Context object for the Edge Function
  */
 export function buildChatContext(currentChapter, progress) {
   return {
@@ -99,7 +85,7 @@ export function buildChatContext(currentChapter, progress) {
 }
 
 /**
- * Format conversation history for the webhook
+ * Format conversation history for the Edge Function.
  * @param {Array} conversation - Array of conversation messages
  * @param {number} maxMessages - Maximum number of messages to include (default: 10)
  * @returns {Array} Formatted conversation history
