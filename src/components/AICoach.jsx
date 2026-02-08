@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { sendMessageToAI, buildChatContext, formatConversationHistory } from '../services/aiChatService';
+import FormattedMessage from './FormattedMessage';
 import { getChapterProgress } from '../data/chapters';
 
 const AICoach = ({ isVisible, onToggle, currentChapter }) => {
@@ -130,15 +131,14 @@ const AICoach = ({ isVisible, onToggle, currentChapter }) => {
             className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
           >
             <div
-              className={`max-w-[80%] p-3 rounded-lg ${
-                msg.role === 'user'
+              className={`max-w-[80%] p-3 rounded-lg ${msg.role === 'user'
                   ? 'bg-navy-700 text-white'
                   : msg.isError
                     ? 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-200'
                     : 'bg-silver-100 dark:bg-gray-700 text-navy-800 dark:text-gray-100'
-              }`}
+                }`}
             >
-              <p className="text-sm whitespace-pre-wrap">{msg.message}</p>
+              <FormattedMessage text={msg.message} isUser={msg.role === 'user'} />
             </div>
           </div>
         ))}

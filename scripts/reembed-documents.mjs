@@ -2,7 +2,11 @@
  * Re-embed all documents in the Supabase `documents` table
  * using OpenAI's `text-embedding-3-small` model.
  *
- * Usage: node scripts/reembed-documents.mjs
+ * Usage:
+ *   SUPABASE_URL=https://xxx.supabase.co \
+ *   SUPABASE_SERVICE_ROLE_KEY=eyJ... \
+ *   OPENAI_API_KEY=sk-... \
+ *   node scripts/reembed-documents.mjs
  *
  * This script:
  *  1. Fetches all documents from Supabase (id + content)
@@ -10,8 +14,8 @@
  *  3. Updates each document's embedding in Supabase
  */
 
-const SUPABASE_URL = 'https://dlozdcvoaorzptbvvxhc.supabase.co';
-const SUPABASE_SERVICE_ROLE_KEY = '***REMOVED***';
+const SUPABASE_URL = process.env.SUPABASE_URL || process.env.VITE_SUPABASE_URL;
+const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -73,8 +77,14 @@ async function updateEmbedding(id, embedding) {
 // --- Main ---
 
 async function main() {
-    if (!OPENAI_API_KEY) {
-        console.error('Error: OPENAI_API_KEY not set. Run with: OPENAI_API_KEY=sk-... node scripts/reembed-documents.mjs');
+    const missing = [];
+    if (!SUPABASE_URL) missing.push('SUPABASE_URL');
+    if (!SUPABASE_SERVICE_ROLE_KEY) missing.push('SUPABASE_SERVICE_ROLE_KEY');
+    if (!OPENAI_API_KEY) missing.push('OPENAI_API_KEY');
+
+    if (missing.length > 0) {
+        console.error(`Error: Missing required env vars: ${missing.join(', ')}`);
+        console.error('Usage: SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... OPENAI_API_KEY=... node scripts/reembed-documents.mjs');
         process.exit(1);
     }
 
