@@ -28,6 +28,8 @@ const ALLOWED_ORIGINS = [
   "http://localhost:3003",
   "http://localhost:5173",
   "https://playbook-rho.vercel.app",
+  "https://webapp-dny.pages.dev",
+  "https://6516ce54.webapp-dny.pages.dev",
 ];
 
 // --- Helpers ---
