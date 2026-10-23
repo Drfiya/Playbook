@@ -5,21 +5,9 @@
  */
 
 const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
-// Prefer the new publishable key; the legacy anon key is a fallback until the
-// VITE_SUPABASE_PUBLISHABLE_KEY env var is set on every deploy.
-const SUPABASE_PUBLIC_KEY =
-  import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY || import.meta.env.VITE_SUPABASE_ANON_KEY;
+// Publishable key (public by design). The legacy anon key is disabled on this project.
+const SUPABASE_PUBLIC_KEY = import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY;
 const EDGE_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/chat`;
-
-/**
- * Supabase auth headers for a key. New-style keys (sb_publishable_/sb_secret_) are not
- * JWTs and must only go on the `apikey` header; legacy keys are JWTs and also need Bearer.
- * Duplicated on purpose in scripts/reembed-documents.mjs, which runs outside this bundle.
- */
-function supabaseAuthHeaders(key) {
-  if (!key.startsWith('eyJ')) return { apikey: key };
-  return { apikey: key, Authorization: `Bearer ${key}` };
-}
 
 /**
  * Send a message to the AI Coach via the Supabase RAG Edge Function.
@@ -38,7 +26,10 @@ export async function sendMessageToAI(payload) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        ...supabaseAuthHeaders(SUPABASE_PUBLIC_KEY),
+        // The chat function has verify_jwt on, which needs a Bearer header;
+        // Supabase's gateway accepts the publishable key there (tested 2026-10-23).
+        'Authorization': `Bearer ${SUPABASE_PUBLIC_KEY}`,
+        'apikey': SUPABASE_PUBLIC_KEY,
       },
       body: JSON.stringify({
         question: payload.message,

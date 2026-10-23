@@ -28,7 +28,6 @@ const PAGE_SIZE = 1000; // documents per Supabase fetch
 /**
  * Supabase auth headers for a key. New-style keys (sb_secret_) are not JWTs and must only
  * go on the `apikey` header; legacy keys are JWTs and also need Bearer.
- * Duplicated on purpose in src/services/aiChatService.js, which is bundled separately.
  */
 function supabaseAuthHeaders(key) {
     if (!key.startsWith('eyJ')) return { apikey: key };
