@@ -14,7 +14,10 @@ import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 const OPENAI_API_KEY = Deno.env.get("OPENAI_API_KEY");
 const SUPABASE_URL = Deno.env.get("SUPABASE_URL");
-const SUPABASE_SERVICE_ROLE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+// New-style secret key (set as a function secret). Falls back to the legacy
+// service_role key only so the function keeps working until the secret is set.
+const SUPABASE_SECRET_KEY = Deno.env.get("PLAYBOOK_SECRET_KEY") ??
+  Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
 
 const EMBEDDING_MODEL = "text-embedding-3-small";
 const CHAT_MODEL = "gpt-4o-mini";
@@ -140,7 +143,7 @@ Deno.serve(async (req) => {
     // Validate config
     if (!OPENAI_API_KEY) throw new Error("OPENAI_API_KEY secret is not set");
     if (!SUPABASE_URL) throw new Error("SUPABASE_URL is not set");
-    if (!SUPABASE_SERVICE_ROLE_KEY) throw new Error("SUPABASE_SERVICE_ROLE_KEY is not set");
+    if (!SUPABASE_SECRET_KEY) throw new Error("PLAYBOOK_SECRET_KEY secret is not set");
 
     // Parse request body
     const { question, chapterContext } = await req.json();
@@ -155,7 +158,7 @@ Deno.serve(async (req) => {
     const embedding = await generateEmbedding(question.trim());
 
     // 2. Query Supabase for matching document chunks
-    const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
+    const supabase = createClient(SUPABASE_URL, SUPABASE_SECRET_KEY);
 
     const { data: matches, error: matchError } = await supabase.rpc(
       "match_documents",

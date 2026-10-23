@@ -4,7 +4,7 @@
  *
  * Usage:
  *   SUPABASE_URL=https://xxx.supabase.co \
- *   SUPABASE_SERVICE_ROLE_KEY=eyJ... \
+ *   SUPABASE_SECRET_KEY=sb_secret_... \
  *   OPENAI_API_KEY=sk-... \
  *   node scripts/reembed-documents.mjs
  *
@@ -15,7 +15,8 @@
  */
 
 const SUPABASE_URL = process.env.SUPABASE_URL || process.env.VITE_SUPABASE_URL;
-const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
+// New-style secret key; the legacy service_role key still works as a fallback.
+const SUPABASE_SECRET_KEY = process.env.SUPABASE_SECRET_KEY || process.env.SUPABASE_SERVICE_ROLE_KEY;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -24,14 +25,21 @@ const PAGE_SIZE = 1000; // documents per Supabase fetch
 
 // --- Helpers ---
 
+/**
+ * Supabase auth headers for a key. New-style keys (sb_secret_) are not JWTs and must only
+ * go on the `apikey` header; legacy keys are JWTs and also need Bearer.
+ * Duplicated on purpose in src/services/aiChatService.js, which is bundled separately.
+ */
+function supabaseAuthHeaders(key) {
+    if (!key.startsWith('eyJ')) return { apikey: key };
+    return { apikey: key, Authorization: `Bearer ${key}` };
+}
+
 /** Fetch a page of documents from Supabase. */
 async function fetchDocuments(offset, limit) {
     const url = `${SUPABASE_URL}/rest/v1/documents?select=id,content&order=id&offset=${offset}&limit=${limit}`;
     const res = await fetch(url, {
-        headers: {
-            'apikey': SUPABASE_SERVICE_ROLE_KEY,
-            'Authorization': `Bearer ${SUPABASE_SERVICE_ROLE_KEY}`,
-        },
+        headers: supabaseAuthHeaders(SUPABASE_SECRET_KEY),
     });
     if (!res.ok) throw new Error(`Fetch documents failed: ${res.status} ${await res.text()}`);
     return res.json();
@@ -62,8 +70,7 @@ async function updateEmbedding(id, embedding) {
         method: 'PATCH',
         headers: {
             'Content-Type': 'application/json',
-            'apikey': SUPABASE_SERVICE_ROLE_KEY,
-            'Authorization': `Bearer ${SUPABASE_SERVICE_ROLE_KEY}`,
+            ...supabaseAuthHeaders(SUPABASE_SECRET_KEY),
             'Prefer': 'return=minimal',
         },
         body: JSON.stringify({ embedding }),
@@ -79,12 +86,12 @@ async function updateEmbedding(id, embedding) {
 async function main() {
     const missing = [];
     if (!SUPABASE_URL) missing.push('SUPABASE_URL');
-    if (!SUPABASE_SERVICE_ROLE_KEY) missing.push('SUPABASE_SERVICE_ROLE_KEY');
+    if (!SUPABASE_SECRET_KEY) missing.push('SUPABASE_SECRET_KEY');
     if (!OPENAI_API_KEY) missing.push('OPENAI_API_KEY');
 
     if (missing.length > 0) {
         console.error(`Error: Missing required env vars: ${missing.join(', ')}`);
-        console.error('Usage: SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... OPENAI_API_KEY=... node scripts/reembed-documents.mjs');
+        console.error('Usage: SUPABASE_URL=... SUPABASE_SECRET_KEY=... OPENAI_API_KEY=... node scripts/reembed-documents.mjs');
         process.exit(1);
     }
 
